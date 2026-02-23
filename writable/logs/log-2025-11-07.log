@@ -1,0 +1,2791 @@
+DEBUG - 2025-11-07 21:34:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 21:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 21:35:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 21:35:01 --> user_id: 1
+DEBUG - 2025-11-07 21:35:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 21:35:04 --> user_id: 1
+DEBUG - 2025-11-07 22:14:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:14:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:14:24 --> user_id: 1
+DEBUG - 2025-11-07 22:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:14:34 --> user_id: 1
+DEBUG - 2025-11-07 22:14:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:14:58 --> user_id: 1
+DEBUG - 2025-11-07 22:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:15:13 --> user_id: 1
+DEBUG - 2025-11-07 22:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:15:17 --> user_id: 1
+DEBUG - 2025-11-07 22:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:08 --> user_id: 1
+DEBUG - 2025-11-07 22:16:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:16:40 --> Number of children found: 2
+DEBUG - 2025-11-07 22:16:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:16:40 --> Current User ID: 66
+DEBUG - 2025-11-07 22:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:16:48 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:16:48 --> Number of children found: 2
+DEBUG - 2025-11-07 22:16:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:18:28 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:18:28 --> Number of children found: 2
+DEBUG - 2025-11-07 22:18:28 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:18:28 --> Current User ID: 66
+DEBUG - 2025-11-07 22:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:18:53 --> user_id: 1
+DEBUG - 2025-11-07 22:19:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:19:21 --> user_id: 1
+DEBUG - 2025-11-07 22:19:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:19:25 --> user_id: 1
+DEBUG - 2025-11-07 22:19:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:19:35 --> user_id: 1
+DEBUG - 2025-11-07 22:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:22:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:22:41 --> user_id: 1
+DEBUG - 2025-11-07 22:22:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:22:43 --> user_id: 1
+DEBUG - 2025-11-07 22:23:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:23:40 --> user_id: 1
+DEBUG - 2025-11-07 22:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:24:04 --> user_id: 1
+DEBUG - 2025-11-07 22:24:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:24:14 --> user_id: 1
+DEBUG - 2025-11-07 22:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:25:22 --> user_id: 1
+DEBUG - 2025-11-07 22:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:25:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:28:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:29:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:29:26 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:29:26 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:29:26 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:33:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:33:07 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:33:07 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:33:07 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:33:51 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:33:51 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:33:51 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:34:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:34:54 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:34:54 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:34:54 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:35:24 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:35:24 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:35:24 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:35:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:35:35 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:35:35 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:35:35 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:36:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:36:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:36:51 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:36:51 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:36:51 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:36:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:36:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:36:55 --> Number of children found: 2
+DEBUG - 2025-11-07 22:36:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:37:15 --> user_id: 1
+DEBUG - 2025-11-07 22:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:37:20 --> user_id: 1
+DEBUG - 2025-11-07 22:37:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:37:24 --> user_id: 1
+DEBUG - 2025-11-07 22:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:37:27 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:37:27 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:37:27 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:37:33 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:37:33 --> Number of children found: 2
+DEBUG - 2025-11-07 22:37:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:38:26 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:38:26 --> Number of children found: 2
+DEBUG - 2025-11-07 22:38:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:39:12 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:39:12 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:39:12 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:39:38 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 22:39:38 --> Number of children found: 2
+DEBUG - 2025-11-07 22:39:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 22:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:39:44 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:39:44 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:39:44 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:39:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:40:02 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:40:02 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:40:02 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:42:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:42:41 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:42:41 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:42:41 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:44:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:44:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:45:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:45:05 --> user_id: 1
+DEBUG - 2025-11-07 22:45:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:45:08 --> user_id: 1
+DEBUG - 2025-11-07 22:45:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:45:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:06 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:46:06 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-07 22:46:06 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-07 22:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:46:35 --> Email fetched: ecohaven28@gmail.com
+DEBUG - 2025-11-07 22:47:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:47:29 --> user_id: 1
+DEBUG - 2025-11-07 22:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:47:30 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 88
+            [username] => mamamo
+            [last_message] => send to admin
+            [sent_at] => 2025-11-04 18:50:39
+            [profile_pic] => default.webp
+            [full_name] => Aroldan Asd
+            [unread_count] => 2
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => hi
+            [sent_at] => 2025-10-27 00:14:17
+            [profile_pic] => 1762096617_3f2aca28c9d337ecdef5.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 1
+        )
+
+    [2] => Array
+        (
+            [id] => 66
+            [username] => oliv
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+            [full_name] => Roldan Oliveros
+            [unread_count] => 2
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 90
+            [username] => html_test
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => <B>BoldFirst</B> <U>Underline</U>
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 80
+            [username] => roldan
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1762069318_49c03bbf0add51b9f5f8.jpg
+            [full_name] => Bo Lol
+            [unread_count] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 89
+            [username] => oneil.oconnor
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => O'Neil O'Connor
+            [unread_count] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 91
+            [username] => momonyo
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => R Asd
+            [unread_count] => 0
+        )
+
+)
+
+WARNING - 2025-11-07 22:47:30 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(124): time_elapsed_string('2025-11-04 18:50:39')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\copstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 22:47:30 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(124): time_elapsed_string('2025-10-27 00:14:17')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\copstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 22:47:30 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(124): time_elapsed_string('2025-10-26 23:25:10')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\copstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:47:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:47:38 --> user_id: 1
+DEBUG - 2025-11-07 22:49:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:49:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:49:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:51:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:51:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:51:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:51:48 --> Retrieved contacts for user_id '41' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => hi
+            [sent_at] => 2025-10-27 00:14:17
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 88
+            [username] => mamamo
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Aroldan Asd
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 90
+            [username] => html_test
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => <B>BoldFirst</B> <U>Underline</U>
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 66
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 80
+            [username] => roldan
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1762069318_49c03bbf0add51b9f5f8.jpg
+            [full_name] => Bo Lol
+            [unread_count] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 89
+            [username] => oneil.oconnor
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => O'Neil O'Connor
+            [unread_count] => 0
+        )
+
+    [7] => Array
+        (
+            [id] => 91
+            [username] => momonyo
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => R Asd
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-11-07 22:51:48 --> User not found for user_id: 41
+WARNING - 2025-11-07 22:51:48 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\teacher\teacher-chat.php(130): time_elapsed_string('2025-10-27 00:14:17')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\copstone\\app\\Views\\teacher\\teacher-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('teacher/teacher-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(198): view('teacher/teacher-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexTeacher()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 22:51:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:51:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:54:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:55:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 22:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:55:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:55:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:55:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:55:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:55:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:55:35 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 22:55:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:55:52 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 22:56:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:56:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:56:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:56:38 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 22:58:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:58:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:58:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:58:44 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 22:59:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:59:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:59:22 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 22:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 22:59:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 22:59:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 22:59:42 --> getAllremarks called for user_id=71. Found 0 remarks.
+WARNING - 2025-11-07 23:00:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:00:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:00:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:02:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 23:02:53 --> [LINK SUBMITTED] User ID: 41 shared link: https://www.youtube.com/watch?v=VpkuOtgvFAg
+WARNING - 2025-11-07 23:02:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:02:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:03:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:04:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:04:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:04:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:04:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:04:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:04:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:04:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:04:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:04:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:07:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:07:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:07:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:07:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:07:56 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-11-07 23:07:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:08:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:08:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:09:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:10:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-11-07 23:10:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:10:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:10:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:10:50 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:10:50 --> Number of children found: 2
+DEBUG - 2025-11-07 23:10:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:10:50 --> Current User ID: 66
+DEBUG - 2025-11-07 23:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:10:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:10:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 23:11:05 --> GuardianSetupPost called.
+INFO - 2025-11-07 23:11:05 --> Photo uploaded successfully: 1762528265_311e9dbb7a6bee32f009.jpg
+INFO - 2025-11-07 23:11:05 --> Generating QR code for Guardian ID: 690e0c0990eff
+INFO - 2025-11-07 23:11:08 --> QR code saved to file: C:\xampp\htdocs\copstone\public/assets/qrcodes/690e0c0990eff.png
+INFO - 2025-11-07 23:11:08 --> Guardian data saved successfully with ID: 39
+DEBUG - 2025-11-07 23:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:11:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 23:12:32 --> accountManagementPost called with data: {"user_id":"71","admission_id":"71","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","nickname":"Oliv","nationality":"Filipino","gender":"male","birthday":"2020-01-01","age":"5","class_level":"Grade 1","father_name":"Fname","father_occupation":"normies","mother_name":"Lname","mother_occupation":"try lang","contact_number":"09503430307","email":"roldanoliveros0621@gmail.com","municipality":"Cavinti","barangay":"Poblacion","street":"Magsaysay"}
+INFO - 2025-11-07 23:12:32 --> Updated students table for user_id 71: Success
+INFO - 2025-11-07 23:12:32 --> Updated admissions table for admission_id 71: Success
+DEBUG - 2025-11-07 23:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:35 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:12:35 --> Number of children found: 2
+DEBUG - 2025-11-07 23:12:35 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:12:35 --> Current User ID: 66
+DEBUG - 2025-11-07 23:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:12:37 --> Number of children found: 2
+DEBUG - 2025-11-07 23:12:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:12:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:12:37 --> Number of children found: 2
+DEBUG - 2025-11-07 23:12:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:12:37 --> Current User ID: 66
+DEBUG - 2025-11-07 23:12:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:50 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:12:50 --> Number of children found: 2
+DEBUG - 2025-11-07 23:12:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:12:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:13:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:13:29 --> Settings Row: Array
+(
+    [sms_enabled] => 0
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-11-07 23:13:29 --> Looking up user by QR Code model: 690e0c0990eff.png
+ERROR - 2025-11-07 23:13:29 --> pagwala: wala student at may guardian
+INFO - 2025-11-07 23:13:30 --> User data found for userId 71: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 71
+            [first_name] => Roldan
+            [middle_name] => Araneta
+            [last_name] => Oliveros
+            [nickname] => Oliv
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2020-01-01
+            [age] => 5
+            [class_applied] => Grade 1
+            [father_name] => Fname
+            [father_occupation] => normies
+            [mother_name] => Lname
+            [mother_occupation] => try lang
+            [contact_number] => 09503430307
+            [email] => roldanoliveros0621@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-10-18 00:26:16
+            [municipality] => Cavinti
+            [barangay] => Poblacion
+            [street] => Magsaysay
+            [picture] => 1760718376_4415351e0873d15d40f2.jpg
+            [user_id] => 66
+            [psa] => 1760718376_bc6c19e9a55e4e5084dd.png
+            [reason] => 
+        )
+
+)
+
+WARNING - 2025-11-07 23:13:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:13:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-11-07 23:13:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:13:58 --> Settings Row: Array
+(
+    [sms_enabled] => 0
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-11-07 23:13:58 --> Looking up user by QR Code model: 690e0c0990eff.png
+ERROR - 2025-11-07 23:13:58 --> pagwala: wala student at may guardian
+INFO - 2025-11-07 23:13:58 --> User data found for userId 71: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 71
+            [first_name] => Roldan
+            [middle_name] => Araneta
+            [last_name] => Oliveros
+            [nickname] => Oliv
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2020-01-01
+            [age] => 5
+            [class_applied] => Grade 1
+            [father_name] => Fname
+            [father_occupation] => normies
+            [mother_name] => Lname
+            [mother_occupation] => try lang
+            [contact_number] => 09503430307
+            [email] => roldanoliveros0621@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-10-18 00:26:16
+            [municipality] => Cavinti
+            [barangay] => Poblacion
+            [street] => Magsaysay
+            [picture] => 1760718376_4415351e0873d15d40f2.jpg
+            [user_id] => 66
+            [psa] => 1760718376_bc6c19e9a55e4e5084dd.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-11-07 23:13:59 --> User data found for userId 71: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 71
+            [first_name] => Roldan
+            [middle_name] => Araneta
+            [last_name] => Oliveros
+            [nickname] => Oliv
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2020-01-01
+            [age] => 5
+            [class_applied] => Grade 1
+            [father_name] => Fname
+            [father_occupation] => normies
+            [mother_name] => Lname
+            [mother_occupation] => try lang
+            [contact_number] => 09503430307
+            [email] => roldanoliveros0621@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-10-18 00:26:16
+            [municipality] => Cavinti
+            [barangay] => Poblacion
+            [street] => Magsaysay
+            [picture] => 1760718376_4415351e0873d15d40f2.jpg
+            [user_id] => 66
+            [psa] => 1760718376_bc6c19e9a55e4e5084dd.png
+            [reason] => 
+        )
+
+)
+
+DEBUG - 2025-11-07 23:13:59 --> User data: Array
+(
+    [admission_id] => 71
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [nickname] => Oliv
+    [nationality] => Filipino
+    [gender] => male
+    [birthday] => 2020-01-01
+    [age] => 5
+    [class_applied] => Grade 1
+    [father_name] => Fname
+    [father_occupation] => normies
+    [mother_name] => Lname
+    [mother_occupation] => try lang
+    [contact_number] => 09503430307
+    [email] => roldanoliveros0621@gmail.com
+    [status] => Enrolled
+    [submitted_at] => 2025-10-18 00:26:16
+    [municipality] => Cavinti
+    [barangay] => Poblacion
+    [street] => Magsaysay
+    [picture] => 1760718376_4415351e0873d15d40f2.jpg
+    [user_id] => 66
+    [psa] => 1760718376_bc6c19e9a55e4e5084dd.png
+    [reason] => 
+)
+
+DEBUG - 2025-11-07 23:13:59 --> contactNumber: 639503430307
+WARNING - 2025-11-07 23:14:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-07 23:14:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:14:35 --> user_id: 1
+DEBUG - 2025-11-07 23:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:14:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:15:19 --> user_id: 1
+DEBUG - 2025-11-07 23:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:15:23 --> Email fetched: ecohaven28@gmail.com
+DEBUG - 2025-11-07 23:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:15:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:01 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:01 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:01 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:01 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:06 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:06 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:06 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:06 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:06 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:06 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:06 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 23:16:31 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"09205804090","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-07 23:16:31 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-07 23:16:31 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-07 23:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:32 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:32 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:32 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:39 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:39 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:39 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:39 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:49 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:49 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:49 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:49 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:51 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:51 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:51 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:51 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:54 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:54 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:54 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:54 --> Current User ID: 66
+DEBUG - 2025-11-07 23:16:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:16:56 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:16:56 --> Number of children found: 2
+DEBUG - 2025-11-07 23:16:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:16:56 --> Current User ID: 66
+DEBUG - 2025-11-07 23:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:45 --> user_id: 1
+DEBUG - 2025-11-07 23:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:50 --> user_id: 1
+DEBUG - 2025-11-07 23:17:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:17:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:01 --> user_id: 1
+DEBUG - 2025-11-07 23:18:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:21 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:18:21 --> Number of children found: 2
+DEBUG - 2025-11-07 23:18:21 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:18:21 --> Current User ID: 66
+DEBUG - 2025-11-07 23:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:18:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-07 23:18:46 --> getAllremarks called for user_id=25. Found 1 remarks.
+DEBUG - 2025-11-07 23:20:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:20:16 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:20:16 --> Number of children found: 2
+DEBUG - 2025-11-07 23:20:16 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:20:16 --> Current User ID: 66
+DEBUG - 2025-11-07 23:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:20:17 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:20:17 --> Number of children found: 2
+DEBUG - 2025-11-07 23:20:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:25:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:25:58 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:25:58 --> Number of children found: 2
+DEBUG - 2025-11-07 23:25:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:02 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:02 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:04 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:05 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:05 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:05 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:07 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:07 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:16 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:16 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:16 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-07 23:26:19 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:19 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:19 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+INFO - 2025-11-07 23:26:19 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1762096617_3f2aca28c9d337ecdef5.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-11-07 23:26:19 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-07 23:26:19 --> Number of children found: 2
+DEBUG - 2025-11-07 23:26:19 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+WARNING - 2025-11-07 23:26:19 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\guardian\guardian-chat.php(195): time_elapsed_string('2025-10-26 23:25:10')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(48): view('guardian/guardian-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

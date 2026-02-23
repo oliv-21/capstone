@@ -1,0 +1,2866 @@
+DEBUG - 2025-12-23 00:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 00:45:28 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 00:45:28 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 00:45:28 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 00:45:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 00:45:39 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 00:45:39 --> Number of children found: 3
+DEBUG - 2025-12-23 00:45:39 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 15:59:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 15:59:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 15:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 15:59:31 --> user_id: 1
+DEBUG - 2025-12-23 16:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:12:29 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:12:29 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:12:29 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:20:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:20:04 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:04 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:04 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+CRITICAL - 2025-12-23 16:20:04 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-payment]
+in APPPATH\Views\admin\payment.php on line 99.
+ 1 APPPATH\Views\admin\payment.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\payment.php', 99)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\payment.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/payment', [], true)
+ 5 APPPATH\Controllers\AdminController.php(1004): view('admin/payment', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 16:20:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:20:45 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:45 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:45 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:20:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:20:59 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:59 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:20:59 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:21:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:21:27 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:27 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:27 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:21:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:21:29 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:29 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:29 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:21:29 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:29 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:21:32 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:32 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:21:32 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:22:22 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:22:22 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:22:22 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:22:22 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:22:22 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:22:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:22:25 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:22:25 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:22:25 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:29:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:29:52 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:52 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:52 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:29:56 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:56 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:56 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:29:56 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:56 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:29:58 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:58 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:29:58 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:27 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:27 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:27 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:27 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:27 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:32 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:32 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:32 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:40 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:40 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:40 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:40 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:30:40 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:30:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:30:42 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:30:42 --> Number of children found: 3
+DEBUG - 2025-12-23 16:30:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:37:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:37:15 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:37:15 --> Number of children found: 3
+DEBUG - 2025-12-23 16:37:15 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:45:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:45:33 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:45:33 --> Number of children found: 1
+DEBUG - 2025-12-23 16:45:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:04 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:46:04 --> Number of children found: 1
+DEBUG - 2025-12-23 16:46:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:07 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:46:07 --> Number of children found: 2
+DEBUG - 2025-12-23 16:46:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:10 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-23 16:46:10 --> Number of children found: 1
+DEBUG - 2025-12-23 16:46:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:48 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:46:48 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:46:48 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:48 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 16:46:48 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 16:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 16:46:50 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 16:46:50 --> Number of children found: 1
+DEBUG - 2025-12-23 16:46:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:17:57 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:17:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:17:57 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:17:57 --> Number of children found: 1
+DEBUG - 2025-12-23 17:17:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+CRITICAL - 2025-12-23 17:17:57 --> ErrorException: Undefined variable $openingId
+[Method: GET, Route: admin-paymentTuition/110]
+in APPPATH\Controllers\AdminController.php on line 1457.
+ 1 APPPATH\Controllers\AdminController.php(1457): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openingId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 1457)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:19:03 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:19:03 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:19:03 --> Number of children found: 1
+DEBUG - 2025-12-23 17:19:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:19:04 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:24:38 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:24:38 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:24:38 --> Number of children found: 1
+DEBUG - 2025-12-23 17:24:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:24:39 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:24:41 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:24:41 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:24:41 --> Number of children found: 1
+DEBUG - 2025-12-23 17:24:41 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:24:42 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:24:44 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:24:44 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:24:44 --> Number of children found: 1
+DEBUG - 2025-12-23 17:24:44 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:24:45 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:24:47 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:24:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:24:47 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:24:47 --> Number of children found: 1
+DEBUG - 2025-12-23 17:24:47 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:24:48 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:35:05 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:05 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:05 --> Number of children found: 0
+DEBUG - 2025-12-23 17:35:05 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:35:06 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:35:13 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:13 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:13 --> Number of children found: 0
+DEBUG - 2025-12-23 17:35:13 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:35:14 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:35:18 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:18 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:18 --> Number of children found: 0
+DEBUG - 2025-12-23 17:35:18 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:35:18 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:35:20 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:20 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:20 --> Number of children found: 0
+DEBUG - 2025-12-23 17:35:20 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:35:21 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:35:22 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:22 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:22 --> Number of children found: 0
+DEBUG - 2025-12-23 17:35:22 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:35:23 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:35:52 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:35:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:35:52 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:35:52 --> Number of children found: 1
+DEBUG - 2025-12-23 17:35:52 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:35:52 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:39:09 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-23 17:39:09 --> ArgumentCountError: Too few arguments to function App\Models\Admission_Model::getChildrenByGuardianopening(), 1 passed in C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php on line 1455 and exactly 2 expected
+[Method: GET, Route: admin-paymentTuition/110]
+in APPPATH\Models\Admission_Model.php on line 277.
+ 1 APPPATH\Controllers\AdminController.php(1455): App\Models\Admission_Model->getChildrenByGuardianopening('110')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:39:32 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:39:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:39:32 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:39:32 --> Number of children found: 1
+DEBUG - 2025-12-23 17:39:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:39:33 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:39:35 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:39:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:39:35 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:39:35 --> Number of children found: 0
+DEBUG - 2025-12-23 17:39:35 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:39:36 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:43:56 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:43:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:43:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:43:56 --> Number of children found: 1
+DEBUG - 2025-12-23 17:43:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-23 17:43:56 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:43:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:43:59 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(1425): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentTuitioncCash('110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:43:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:43:59 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-23 17:43:59 --> Number of children found: 0
+DEBUG - 2025-12-23 17:43:59 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-23 17:43:59 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(584): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '110')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2025-12-23 17:44:00 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:44:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:44:00 --> user_id: 1
+DEBUG - 2025-12-23 17:44:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 17:44:03 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 17:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 17:44:03 --> user_id: 1
+DEBUG - 2025-12-23 17:44:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:08:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:08:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:16:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 21:16:04 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 21:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:16:04 --> user_id: 1
+DEBUG - 2025-12-23 21:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-23 21:16:58 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-announcement]
+in APPPATH\Views\admin\announcement.php on line 94.
+ 1 APPPATH\Views\admin\announcement.php(94): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\announcement.php', 94)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\announcement.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/announcement', [], true)
+ 5 APPPATH\Controllers\AdminController.php(856): view('admin/announcement', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->announcement()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 21:17:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:22:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:22:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:22:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:24:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:24:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:28:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:28:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:28:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:39:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:46:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:48:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:48:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 21:50:55 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(946): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 21:50:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:50:55 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 21:50:55 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 21:50:55 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 21:50:55 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 21:50:55 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 21:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-23 21:50:59 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(946): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 21:50:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:50:59 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 21:50:59 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-23 21:50:59 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-23 21:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:51:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:57:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 21:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 22:02:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 22:03:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 22:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 22:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 22:03:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-12-23 23:19:06 --> mysqli_sql_exception: Unknown column 's.student_id' in 'field list' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `t`.`tea...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `t`.`tea...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `t`.`tea...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `t`.`tea...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\Teacher_Model.php(261): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\TeacherController.php(42): App\Models\Teacher_Model->dashboardCountOpening('109', '16')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-23 23:19:06 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 's.student_id' in 'field list'
+[Method: GET, Route: teacher-dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = :t.user_id:
+GROUP BY `t`.`teacher_department`', [...], false)
+ 2 APPPATH\Models\Teacher_Model.php(261): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\TeacherController.php(42): App\Models\Teacher_Model->dashboardCountOpening('109', '16')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-23 23:19:06 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 's.student_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = \'109\'
+GROUP BY `t`.`teacher_department`')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = \'109\'
+GROUP BY `t`.`teacher_department`')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = :t.user_id:
+GROUP BY `t`.`teacher_department`', [...], false)
+ 4 APPPATH\Models\Teacher_Model.php(261): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\TeacherController.php(42): App\Models\Teacher_Model->dashboardCountOpening('109', '16')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-23 23:19:06 --> [Caused by] mysqli_sql_exception: Unknown column 's.student_id' in 'field list'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = \'109\'
+GROUP BY `t`.`teacher_department`', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = \'109\'
+GROUP BY `t`.`teacher_department`')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = \'109\'
+GROUP BY `t`.`teacher_department`')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `t`.`teacher_department`, COUNT(DISTINCT s.student_id) AS total_students, COUNT(DISTINCT c.id) AS total_material
+FROM `teachers` `t`
+JOIN `admissions` `s` ON `s`.`class_applied` = `t`.`teacher_department`
+JOIN `classroom` `c` ON `c`.`user_id` = `t`.`user_id`
+WHERE `t`.`user_id` = :t.user_id:
+GROUP BY `t`.`teacher_department`', [...], false)
+ 5 APPPATH\Models\Teacher_Model.php(261): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\TeacherController.php(42): App\Models\Teacher_Model->dashboardCountOpening('109', '16')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-23 23:19:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-23 23:20:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

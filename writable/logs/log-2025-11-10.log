@@ -1,0 +1,1475 @@
+DEBUG - 2025-11-10 17:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:41 --> user_id: 1
+DEBUG - 2025-11-10 17:44:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:45 --> user_id: 1
+DEBUG - 2025-11-10 17:44:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 17:44:47 --> user_id: 1
+CRITICAL - 2025-11-10 17:52:31 --> ErrorException: Undefined variable $profilepic
+[Method: GET, Route: attendance]
+in APPPATH\Views\attendance\attendance.php on line 39.
+ 1 APPPATH\Views\attendance\attendance.php(39): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $profilepic', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\attendance\\attendance.php', 39)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\attendance\\attendance.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('attendance/attendance', [], true)
+ 5 APPPATH\Controllers\AttendanceController.php(44): view('attendance/attendance', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AttendanceController->attendance()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AttendanceController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-10 17:55:48 --> ErrorException: Attempt to read property "profile_pic" on array
+[Method: GET, Route: attendance]
+in APPPATH\Views\attendance\attendance.php on line 45.
+ 1 APPPATH\Views\attendance\attendance.php(45): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "profile_pic" on array', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\attendance\\attendance.php', 45)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\attendance\\attendance.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('attendance/attendance', [], true)
+ 5 APPPATH\Controllers\AttendanceController.php(44): view('attendance/attendance', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AttendanceController->attendance()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AttendanceController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-10 18:03:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:03:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:04:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:04:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:04:47 --> Email fetched: roldanoliveros0921@gmail.com
+DEBUG - 2025-11-10 18:07:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-11-10 18:07:22 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: staffprofile]
+in APPPATH\Controllers\AttendanceController.php on line 58.
+ 1 APPPATH\Controllers\AttendanceController.php(58): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\AttendanceController.php', 58)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AttendanceController->staffprofile()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AttendanceController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-10 18:07:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:07:46 --> Email fetched: roldanoliveros0921@gmail.com
+DEBUG - 2025-11-10 18:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:08:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:08:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:08:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:08:58 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 18:08:58 --> Number of children found: 2
+DEBUG - 2025-11-10 18:08:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 18:08:58 --> Current User ID: 66
+DEBUG - 2025-11-10 18:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 18:09:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 18:09:04 --> Number of children found: 2
+DEBUG - 2025-11-10 18:09:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 18:09:04 --> Current User ID: 66
+DEBUG - 2025-11-10 21:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:28:55 --> Fetching children for guardian ID: 
+DEBUG - 2025-11-10 21:28:55 --> Number of children found: 0
+DEBUG - 2025-11-10 21:28:55 --> Children data: Array
+(
+)
+
+DEBUG - 2025-11-10 21:28:55 --> Current User ID: 
+CRITICAL - 2025-11-10 21:28:55 --> ErrorException: Attempt to read property "user_id" on null
+[Method: GET, Route: guardian-announcement/66]
+in APPPATH\Views\guardian\guardian-announcements.php on line 42.
+ 1 APPPATH\Views\guardian\guardian-announcements.php(42): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "user_id" on null', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-announcements.php', 42)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-announcements.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-announcements', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(897): view('guardian/guardian-announcements', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->guardianAnnouncement('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-10 21:29:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:04 --> Fetching children for guardian ID: 
+DEBUG - 2025-11-10 21:29:04 --> Number of children found: 0
+DEBUG - 2025-11-10 21:29:04 --> Children data: Array
+(
+)
+
+DEBUG - 2025-11-10 21:29:04 --> Current User ID: 
+CRITICAL - 2025-11-10 21:29:04 --> ErrorException: Attempt to read property "user_id" on null
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 103.
+ 1 APPPATH\Views\guardian\dashboard.php(103): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "user_id" on null', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 103)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(79): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-10 21:29:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:10 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:29:10 --> Number of children found: 2
+DEBUG - 2025-11-10 21:29:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:29:10 --> Current User ID: 66
+DEBUG - 2025-11-10 21:29:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:29:12 --> Number of children found: 2
+DEBUG - 2025-11-10 21:29:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:29:12 --> Current User ID: 66
+DEBUG - 2025-11-10 21:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:29:48 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:29:48 --> Number of children found: 2
+DEBUG - 2025-11-10 21:29:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:29:48 --> Current User ID: 66
+DEBUG - 2025-11-10 21:30:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:30:21 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:30:21 --> Number of children found: 2
+DEBUG - 2025-11-10 21:30:21 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:30:21 --> Current User ID: 66
+DEBUG - 2025-11-10 21:30:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:30:52 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:30:52 --> Number of children found: 2
+DEBUG - 2025-11-10 21:30:52 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:31:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:25 --> user_id: 1
+DEBUG - 2025-11-10 21:31:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:36:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:43:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:47:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:48:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:48:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:49:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:18 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:55:18 --> Number of children found: 2
+DEBUG - 2025-11-10 21:55:18 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:55:18 --> Current User ID: 66
+DEBUG - 2025-11-10 21:55:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:21 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 21:55:21 --> Number of children found: 2
+DEBUG - 2025-11-10 21:55:21 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 21:55:21 --> Current User ID: 66
+DEBUG - 2025-11-10 21:55:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:02 --> user_id: 1
+DEBUG - 2025-11-10 21:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:09 --> user_id: 1
+DEBUG - 2025-11-10 21:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:11 --> user_id: 1
+DEBUG - 2025-11-10 21:56:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:28 --> user_id: 1
+DEBUG - 2025-11-10 21:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:50 --> user_id: 1
+DEBUG - 2025-11-10 21:56:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:56:55 --> user_id: 1
+DEBUG - 2025-11-10 21:57:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:57:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 21:58:49 --> user_id: 1
+DEBUG - 2025-11-10 22:01:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:01:44 --> user_id: 1
+DEBUG - 2025-11-10 22:02:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:02:01 --> user_id: 1
+DEBUG - 2025-11-10 22:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:02:27 --> user_id: 1
+DEBUG - 2025-11-10 22:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:02:43 --> user_id: 1
+DEBUG - 2025-11-10 22:02:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:02:48 --> user_id: 1
+DEBUG - 2025-11-10 22:03:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:03:03 --> user_id: 1
+DEBUG - 2025-11-10 22:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:03:45 --> user_id: 1
+DEBUG - 2025-11-10 22:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:06:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:07:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:10:43 --> Starting addTeacher: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:10:43 --> User inserted with ID: 92
+INFO - 2025-11-10 22:10:47 --> Teacher add email sent to: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:10:47 --> Teacher record inserted for user ID: 92
+DEBUG - 2025-11-10 22:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:10:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:11:36 --> Starting addTeacher: roldanoliveros21@gmail.com
+ERROR - 2025-11-10 22:11:36 --> Password mismatch for roldanoliveros21@gmail.com
+ERROR - 2025-11-10 22:11:36 --> Passwords provided: pass="asd" confirm="scxzc"
+DEBUG - 2025-11-10 22:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:11:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:12:06 --> Starting addTeacher: roldanoliveros0926@gmail.com
+INFO - 2025-11-10 22:12:06 --> User inserted with ID: 93
+INFO - 2025-11-10 22:12:09 --> Teacher add email sent to: roldanoliveros0926@gmail.com
+INFO - 2025-11-10 22:12:09 --> Teacher record inserted for user ID: 93
+DEBUG - 2025-11-10 22:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:13:06 --> Starting addTeacher: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:13:06 --> User inserted with ID: 94
+INFO - 2025-11-10 22:13:09 --> Teacher add email sent to: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:13:09 --> Teacher record inserted for user ID: 94
+DEBUG - 2025-11-10 22:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:16:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:20:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:20:44 --> Starting addTeacher: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:20:44 --> User inserted with ID: 95
+INFO - 2025-11-10 22:20:47 --> Teacher add email sent to: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:20:47 --> Teacher record inserted for user ID: 95
+DEBUG - 2025-11-10 22:20:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:20:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:22:08 --> Starting addTeacher: roldanoliveros@gmail.com
+INFO - 2025-11-10 22:22:08 --> User inserted with ID: 96
+INFO - 2025-11-10 22:22:11 --> Teacher add email sent to: roldanoliveros@gmail.com
+INFO - 2025-11-10 22:22:11 --> Teacher record inserted for user ID: 96
+DEBUG - 2025-11-10 22:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:22:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:24:54 --> Starting addTeacher: Roldanoliveroa@gmail.com
+INFO - 2025-11-10 22:24:54 --> User inserted with ID: 97
+INFO - 2025-11-10 22:24:57 --> Teacher add email sent to: Roldanoliveroa@gmail.com
+INFO - 2025-11-10 22:24:57 --> Teacher record inserted for user ID: 97
+DEBUG - 2025-11-10 22:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:27:03 --> Starting addTeacher: roldanoliveros021@gmail.com
+INFO - 2025-11-10 22:27:04 --> User inserted with ID: 98
+INFO - 2025-11-10 22:27:06 --> Teacher add email sent to: roldanoliveros021@gmail.com
+INFO - 2025-11-10 22:27:06 --> Teacher record inserted for user ID: 98
+DEBUG - 2025-11-10 22:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:27:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:37:20 --> Starting addTeacher: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:37:20 --> User inserted with ID: 99
+INFO - 2025-11-10 22:37:23 --> Teacher add email sent to: roldanoliveros21@gmail.com
+INFO - 2025-11-10 22:37:23 --> Teacher record inserted for user ID: 99
+DEBUG - 2025-11-10 22:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:37:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:38:08 --> Starting addTeacher: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:38:08 --> User inserted with ID: 100
+INFO - 2025-11-10 22:38:08 --> Starting addTeacher: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:38:08 --> User inserted with ID: 101
+INFO - 2025-11-10 22:38:11 --> Teacher add email sent to: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:38:11 --> Teacher record inserted for user ID: 100
+DEBUG - 2025-11-10 22:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:38:11 --> Teacher add email sent to: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:38:11 --> Teacher record inserted for user ID: 101
+DEBUG - 2025-11-10 22:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:38:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:38:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:18 --> user_id: 1
+DEBUG - 2025-11-10 22:39:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:19 --> user_id: 1
+DEBUG - 2025-11-10 22:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:20 --> user_id: 1
+DEBUG - 2025-11-10 22:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:22 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-10 22:39:22 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-10 22:39:22 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-10 22:39:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:42:54 --> Starting addTeacher: Roldanoliveros@gmail.com
+INFO - 2025-11-10 22:42:54 --> User inserted with ID: 102
+INFO - 2025-11-10 22:42:58 --> Teacher add email sent to: Roldanoliveros@gmail.com
+INFO - 2025-11-10 22:42:58 --> Teacher record inserted for user ID: 102
+DEBUG - 2025-11-10 22:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:42:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:47:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:48:00 --> Starting addTeacher: Roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:48:00 --> User inserted with ID: 103
+INFO - 2025-11-10 22:48:04 --> Teacher add email sent to: Roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:48:04 --> Teacher record inserted for user ID: 103
+DEBUG - 2025-11-10 22:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:48:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 22:50:14 --> Starting addTeacher: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:50:14 --> User inserted with ID: 104
+INFO - 2025-11-10 22:50:18 --> Teacher add email sent to: roldanoliveros0921@gmail.com
+INFO - 2025-11-10 22:50:18 --> Teacher record inserted for user ID: 104
+DEBUG - 2025-11-10 22:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:50:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 22:54:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:53 --> user_id: 1
+DEBUG - 2025-11-10 23:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:55 --> user_id: 1
+DEBUG - 2025-11-10 23:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:57 --> user_id: 1
+DEBUG - 2025-11-10 23:03:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:03:59 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-10 23:03:59 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-10 23:03:59 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:16 --> Email fetched: ecohaven28@gmail.com
+DEBUG - 2025-11-10 23:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:27 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:27 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:27 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:27 --> Current User ID: 66
+DEBUG - 2025-11-10 23:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:32 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:32 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:32 --> Current User ID: 66
+DEBUG - 2025-11-10 23:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:33 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:33 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:33 --> Current User ID: 66
+DEBUG - 2025-11-10 23:04:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:34 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:34 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:34 --> Current User ID: 66
+DEBUG - 2025-11-10 23:04:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:04:38 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:38 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:38 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:04:38 --> Number of children found: 2
+DEBUG - 2025-11-10 23:04:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:04:38 --> Current User ID: 66
+DEBUG - 2025-11-10 23:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:09:25 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:09:25 --> Number of children found: 2
+DEBUG - 2025-11-10 23:09:25 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:09:25 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:09:25 --> Number of children found: 2
+DEBUG - 2025-11-10 23:09:25 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:09:25 --> Current User ID: 66
+DEBUG - 2025-11-10 23:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:11:46 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:11:46 --> Number of children found: 2
+DEBUG - 2025-11-10 23:11:46 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:11:46 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:11:46 --> Number of children found: 2
+DEBUG - 2025-11-10 23:11:46 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:11:46 --> Current User ID: 66
+DEBUG - 2025-11-10 23:11:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:11:49 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"09205804090","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-10 23:11:49 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-10 23:11:49 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-10 23:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:11:50 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:11:50 --> Number of children found: 2
+DEBUG - 2025-11-10 23:11:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:11:50 --> Current User ID: 66
+DEBUG - 2025-11-10 23:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:11:53 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:11:53 --> Number of children found: 2
+DEBUG - 2025-11-10 23:11:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:11:53 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:11:53 --> Number of children found: 2
+DEBUG - 2025-11-10 23:11:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:11:53 --> Current User ID: 66
+DEBUG - 2025-11-10 23:12:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:12:25 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"11111111111","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-10 23:12:25 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-10 23:12:25 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-10 23:12:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:12:26 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:26 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:26 --> Current User ID: 66
+DEBUG - 2025-11-10 23:12:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:12:29 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:29 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:29 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:29 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:29 --> Current User ID: 66
+DEBUG - 2025-11-10 23:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:12:36 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"09205804090","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-10 23:12:36 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-10 23:12:36 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-10 23:12:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:12:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:37 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:37 --> Current User ID: 66
+DEBUG - 2025-11-10 23:12:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:12:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:40 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:12:40 --> Number of children found: 2
+DEBUG - 2025-11-10 23:12:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:12:40 --> Current User ID: 66
+DEBUG - 2025-11-10 23:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:14:43 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:14:43 --> Number of children found: 2
+DEBUG - 2025-11-10 23:14:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:14:43 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:14:43 --> Number of children found: 2
+DEBUG - 2025-11-10 23:14:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:14:43 --> Current User ID: 66
+DEBUG - 2025-11-10 23:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:14:53 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"21653465465","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-10 23:14:53 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-10 23:14:53 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-10 23:14:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:14:53 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:14:53 --> Number of children found: 2
+DEBUG - 2025-11-10 23:14:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:14:53 --> Current User ID: 66
+DEBUG - 2025-11-10 23:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:14:57 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:14:57 --> Number of children found: 2
+DEBUG - 2025-11-10 23:14:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:14:57 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:14:57 --> Number of children found: 2
+DEBUG - 2025-11-10 23:14:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:14:57 --> Current User ID: 66
+DEBUG - 2025-11-10 23:15:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:15:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:15:55 --> Number of children found: 2
+DEBUG - 2025-11-10 23:15:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:15:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:15:55 --> Number of children found: 2
+DEBUG - 2025-11-10 23:15:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:15:55 --> Current User ID: 66
+DEBUG - 2025-11-10 23:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:16:09 --> updateProfile called with data: {"user_id":"66","first_name":"Roldan","middle_name":"Araneta","last_name":"Oliveros","relationship":"Guardian","username":"olive","contact_number":"09205804090","email":"roldanoliveros0621@gmail.com","municipality":"Nagcarlan","barangay":"Buboy","street":"Poblacion"}
+INFO - 2025-11-10 23:16:09 --> Updated guardiansAccount for user_id 66: Success
+INFO - 2025-11-10 23:16:09 --> Updated users table for user_id 66: Success
+DEBUG - 2025-11-10 23:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:16:09 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:16:09 --> Number of children found: 2
+DEBUG - 2025-11-10 23:16:09 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:16:09 --> Current User ID: 66
+DEBUG - 2025-11-10 23:16:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:16:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:16:12 --> Number of children found: 2
+DEBUG - 2025-11-10 23:16:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:16:12 --> Current User ID: 66
+DEBUG - 2025-11-10 23:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:16:13 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:16:13 --> Number of children found: 2
+DEBUG - 2025-11-10 23:16:13 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:16:13 --> Current User ID: 66
+DEBUG - 2025-11-10 23:16:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:16:13 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:16:13 --> Number of children found: 2
+DEBUG - 2025-11-10 23:16:13 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:16:13 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:16:13 --> Number of children found: 2
+DEBUG - 2025-11-10 23:16:13 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:16:13 --> Current User ID: 66
+DEBUG - 2025-11-10 23:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:36:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:39:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:40:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:40:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:42:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:43:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-10 23:44:07 --> profileUpdateTeacher called with data: {"user_id":"41","admission_id":"17","profilePic":"1762096617_3f2aca28c9d337ecdef5.jpg","first_name":"roldant","middle_name":"araneta","last_name":"Oliveros","date_of_birth":"1999-02-02","gender":"Male","civil_status":"Single","municipality":"Pangil","barangay":"Dambo","street":"magsaysay","contact_number":"09205804090","email":"roldanoliveros0621@gmail.com","specialization":"Math","teacher_department":"Grade 1"}
+INFO - 2025-11-10 23:44:07 --> Updated teacher table for user_id 41: Success
+INFO - 2025-11-10 23:44:07 --> Updated users table for user_id 41: Success
+DEBUG - 2025-11-10 23:44:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:44:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:44:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:44:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:11 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-10 23:59:11 --> Number of children found: 2
+DEBUG - 2025-11-10 23:59:11 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-10 23:59:11 --> Current User ID: 66
+DEBUG - 2025-11-10 23:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-10 23:59:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

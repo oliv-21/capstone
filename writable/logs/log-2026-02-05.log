@@ -1,0 +1,252 @@
+DEBUG - 2026-02-05 21:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:10:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:10:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:10:36 --> Fetching children for guardian ID: 123
+DEBUG - 2026-02-05 21:10:36 --> Number of children found: 1
+DEBUG - 2026-02-05 21:10:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 123
+            [admission_id] => 92
+            [full_name] => Hanniel Tagunicar
+            [profile_pic] => 1767174776_d78683166265901b39c7.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:10:36 --> Current User ID: 123
+DEBUG - 2026-02-05 21:10:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-02-05 21:10:42 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(731): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('123')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-02-05 21:10:42 --> Fetching children for guardian ID: 123
+DEBUG - 2026-02-05 21:10:42 --> Number of children found: 1
+DEBUG - 2026-02-05 21:10:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 123
+            [admission_id] => 92
+            [full_name] => Hanniel Tagunicar
+            [profile_pic] => 1767174776_d78683166265901b39c7.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:12:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:05 --> Invalid username or password
+DEBUG - 2026-02-05 21:13:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:14 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:13:14 --> Number of children found: 1
+DEBUG - 2026-02-05 21:13:14 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:13:14 --> Current User ID: 122
+DEBUG - 2026-02-05 21:13:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-02-05 21:13:17 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(731): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-02-05 21:13:17 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:13:17 --> Number of children found: 1
+DEBUG - 2026-02-05 21:13:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:13:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:27 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:13:27 --> Number of children found: 1
+DEBUG - 2026-02-05 21:13:27 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:13:27 --> Current User ID: 122
+DEBUG - 2026-02-05 21:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:30 --> Current User ID: 122
+DEBUG - 2026-02-05 21:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:13:34 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:13:34 --> Number of children found: 1
+DEBUG - 2026-02-05 21:13:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:13:34 --> Current User ID: 122
+DEBUG - 2026-02-05 21:13:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-02-05 21:13:35 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(731): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-02-05 21:13:35 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:13:35 --> Number of children found: 1
+DEBUG - 2026-02-05 21:13:35 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:14:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-02-05 21:14:38 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(597): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParentTuition('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2026-02-05 21:14:38 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:14:38 --> Number of children found: 1
+DEBUG - 2026-02-05 21:14:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+WARNING - 2026-02-05 21:14:39 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(581): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Children Amounts: []
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Children Amounts: []
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Children IDs: []
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Children IDs: []
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Partial Payment: 0
+INFO - 2026-02-05 21:14:40 --> Compute Totals - Partial Payment: 0
+INFO - 2026-02-05 21:15:04 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2026-02-05 21:15:04 --> Compute Totals - Children IDs: ["91"]
+INFO - 2026-02-05 21:15:04 --> Compute Totals - Partial Payment: 0
+INFO - 2026-02-05 21:15:04 --> Tuition Data for Admission ID 91: [{"tuitionfee":"25000"}]
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Children IDs: ["91"]
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Children IDs: ["91"]
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Partial Payment: 23000
+INFO - 2026-02-05 21:15:08 --> Compute Totals - Partial Payment: 23000
+INFO - 2026-02-05 21:15:08 --> Tuition Data for Admission ID 91: [{"tuitionfee":"25000"}]
+INFO - 2026-02-05 21:15:08 --> Tuition Data for Admission ID 91: [{"tuitionfee":"25000"}]
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Children IDs: ["91"]
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Partial Payment: 2500
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Children IDs: ["91"]
+INFO - 2026-02-05 21:15:13 --> Compute Totals - Partial Payment: 23000
+INFO - 2026-02-05 21:15:13 --> Tuition Data for Admission ID 91: [{"tuitionfee":"25000"}]
+INFO - 2026-02-05 21:15:13 --> Tuition Data for Admission ID 91: [{"tuitionfee":"25000"}]
+DEBUG - 2026-02-05 21:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2026-02-05 21:15:45 --> Payment Data: amount=2500, fullname=awe, email=Roldaoliveros@gmail.com, number=09123456789, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["91"], planId=4,pay_type=monthly,paymentDate2026-02-05
+DEBUG - 2026-02-05 21:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2026-02-05 21:16:01 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 707.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\Payment.php(1770): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineTuition()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2026-02-05 21:16:02 --> --- START: paycashTuitionMonthly ---
+INFO - 2026-02-05 21:16:02 --> Incoming Children: ["91"]
+INFO - 2026-02-05 21:16:02 --> Processing ChildID: 91
+INFO - 2026-02-05 21:16:02 --> Class Info: Tuition=25000 Monthly=2500 Misc=8000
+INFO - 2026-02-05 21:16:02 --> First Payment: TotalDue=25000 NewRemain=22500
+INFO - 2026-02-05 21:16:02 --> Inserted Payment: {"user_id":"91","amount_paid":"2500","remaining_balance":22500,"payment_method":"Online","payment_date":"2026-02-05","status":"Pending","opening_id":"18","plan_id":4}
+INFO - 2026-02-05 21:16:02 --> --- END: paycashTuitionMonthly ---
+INFO - 2026-02-05 21:16:13 --> Payment receipt PDF emailed to: Roldaoliveros@gmail.com
+DEBUG - 2026-02-05 21:16:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2026-02-05 21:16:14 --> Fetching children for guardian ID: 122
+DEBUG - 2026-02-05 21:16:14 --> Number of children found: 1
+DEBUG - 2026-02-05 21:16:14 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2026-02-05 21:16:14 --> Current User ID: 122

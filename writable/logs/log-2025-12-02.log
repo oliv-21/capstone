@@ -1,0 +1,2991 @@
+DEBUG - 2025-12-02 00:00:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:00:24 --> getAllremarks called for user_id=86. Found 1 remarks.
+WARNING - 2025-12-02 00:00:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:00:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:00:30 --> getAllremarks called for user_id=86. Found 1 remarks.
+WARNING - 2025-12-02 00:00:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:00:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:00:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:00:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:00:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:00:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:01:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:01:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:01:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:01:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:01:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:01:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:01:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:01:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:01:47 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:01:47 --> Number of children found: 2
+DEBUG - 2025-12-02 00:01:47 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:01:47 --> Current User ID: 108
+DEBUG - 2025-12-02 00:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:05:32 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:05:32 --> Number of children found: 2
+DEBUG - 2025-12-02 00:05:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:05:32 --> Current User ID: 108
+DEBUG - 2025-12-02 00:05:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:05:50 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:05:50 --> Number of children found: 2
+DEBUG - 2025-12-02 00:05:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:05:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:05:54 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:05:54 --> Number of children found: 2
+DEBUG - 2025-12-02 00:05:54 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:05:54 --> Current User ID: 108
+DEBUG - 2025-12-02 00:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:06:53 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:06:53 --> Number of children found: 2
+DEBUG - 2025-12-02 00:06:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:06:53 --> Current User ID: 108
+DEBUG - 2025-12-02 00:07:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:07:29 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:07:29 --> Number of children found: 2
+DEBUG - 2025-12-02 00:07:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:07:32 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:07:32 --> Number of children found: 2
+DEBUG - 2025-12-02 00:07:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+INFO - 2025-12-02 00:07:33 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 00:07:33 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 00:07:33 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-02 00:08:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:08:08 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:08:08 --> Number of children found: 2
+DEBUG - 2025-12-02 00:08:08 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:08:08 --> Current User ID: 108
+DEBUG - 2025-12-02 00:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:09:11 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:09:11 --> Number of children found: 2
+DEBUG - 2025-12-02 00:09:11 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:09:11 --> Current User ID: 108
+DEBUG - 2025-12-02 00:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:09:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:09:49 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:09:49 --> Number of children found: 2
+DEBUG - 2025-12-02 00:09:49 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:09:49 --> Current User ID: 108
+DEBUG - 2025-12-02 00:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:10:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:32 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:12:32 --> Number of children found: 2
+DEBUG - 2025-12-02 00:12:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:12:32 --> Current User ID: 108
+DEBUG - 2025-12-02 00:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:37 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:12:37 --> Number of children found: 2
+DEBUG - 2025-12-02 00:12:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:12:37 --> Current User ID: 108
+DEBUG - 2025-12-02 00:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:12:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:14:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:14:36 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:14:36 --> Number of children found: 2
+DEBUG - 2025-12-02 00:14:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:14:36 --> Current User ID: 108
+DEBUG - 2025-12-02 00:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:14:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:15:02 --> getAllremarks called for user_id=86. Found 1 remarks.
+DEBUG - 2025-12-02 00:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:15:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:15:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:15:18 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:15:18 --> Number of children found: 2
+DEBUG - 2025-12-02 00:15:18 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:15:18 --> Current User ID: 108
+DEBUG - 2025-12-02 00:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:15:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:16:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:16:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:16:50 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:16:50 --> Number of children found: 2
+DEBUG - 2025-12-02 00:16:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:16:50 --> Current User ID: 108
+DEBUG - 2025-12-02 00:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:03 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:17:03 --> Number of children found: 2
+DEBUG - 2025-12-02 00:17:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:17:03 --> Current User ID: 108
+DEBUG - 2025-12-02 00:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:12 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:17:12 --> Number of children found: 2
+DEBUG - 2025-12-02 00:17:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:17:12 --> Current User ID: 108
+DEBUG - 2025-12-02 00:17:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:17:19 --> getAllremarks called for user_id=86. Found 1 remarks.
+DEBUG - 2025-12-02 00:17:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:17:33 --> getAllremarks called for user_id=86. Found 1 remarks.
+DEBUG - 2025-12-02 00:17:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:52 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:17:52 --> Number of children found: 2
+DEBUG - 2025-12-02 00:17:52 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:17:52 --> Current User ID: 108
+DEBUG - 2025-12-02 00:17:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:56 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:17:56 --> Number of children found: 2
+DEBUG - 2025-12-02 00:17:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:17:56 --> Current User ID: 108
+DEBUG - 2025-12-02 00:17:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:17:59 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:17:59 --> Number of children found: 2
+DEBUG - 2025-12-02 00:17:59 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:18:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:18:03 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:18:03 --> Number of children found: 2
+DEBUG - 2025-12-02 00:18:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:18:03 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:18:03 --> Number of children found: 2
+DEBUG - 2025-12-02 00:18:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:18:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:18:12 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:18:12 --> Number of children found: 2
+DEBUG - 2025-12-02 00:18:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:18:12 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:18:12 --> Number of children found: 2
+DEBUG - 2025-12-02 00:18:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:19:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:19:50 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:19:50 --> Number of children found: 2
+DEBUG - 2025-12-02 00:19:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:19:50 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:19:50 --> Number of children found: 2
+DEBUG - 2025-12-02 00:19:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:19:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:19:56 --> getAllremarks called for user_id=86. Found 1 remarks.
+DEBUG - 2025-12-02 00:20:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:20:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:20:23 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:20:23 --> Number of children found: 2
+DEBUG - 2025-12-02 00:20:23 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:20:23 --> Current User ID: 108
+DEBUG - 2025-12-02 00:20:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:20:55 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:20:55 --> Number of children found: 2
+DEBUG - 2025-12-02 00:20:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:20:55 --> Current User ID: 108
+DEBUG - 2025-12-02 00:20:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:20:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:21:06 --> getAllremarks called for user_id=86. Found 1 remarks.
+DEBUG - 2025-12-02 00:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:12 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:12 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:12 --> Current User ID: 108
+DEBUG - 2025-12-02 00:21:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:19 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:19 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:19 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:23 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:23 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:23 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:23 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:23 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:23 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:30 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:30 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:30 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+INFO - 2025-12-02 00:21:31 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 00:21:31 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 00:21:31 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-02 00:21:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:43 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:43 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:43 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:43 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Rogado Felix Eduard
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Elca Cale Felix
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:21:58 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:21:58 --> Number of children found: 2
+DEBUG - 2025-12-02 00:21:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+INFO - 2025-12-02 00:21:59 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 00:21:59 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 00:21:59 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-02 00:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:22:10 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:22:10 --> Number of children found: 2
+DEBUG - 2025-12-02 00:22:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:22:10 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:22:10 --> Number of children found: 2
+DEBUG - 2025-12-02 00:22:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:22:10 --> Current User ID: 108
+DEBUG - 2025-12-02 00:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:22:15 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:22:15 --> Number of children found: 2
+DEBUG - 2025-12-02 00:22:15 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:22:15 --> Current User ID: 108
+DEBUG - 2025-12-02 00:23:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:23:30 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:23:30 --> Number of children found: 2
+DEBUG - 2025-12-02 00:23:30 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:23:30 --> Current User ID: 108
+DEBUG - 2025-12-02 00:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:23:34 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:23:34 --> Number of children found: 2
+DEBUG - 2025-12-02 00:23:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+WARNING - 2025-12-02 00:23:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:23:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:23:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:23:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:23:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:23:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:23:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:24:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:24:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:24:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:24:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 00:24:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 00:24:08 --> getAllremarks called for user_id=86. Found 1 remarks.
+WARNING - 2025-12-02 00:24:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 00:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:24:33 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:24:33 --> Number of children found: 2
+DEBUG - 2025-12-02 00:24:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:25:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:25:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:25:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:25:07 --> user_id: 1
+DEBUG - 2025-12-02 00:25:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:25:12 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-02 00:25:12 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-02 00:25:12 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-02 00:26:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:26:14 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:26:14 --> Number of children found: 2
+DEBUG - 2025-12-02 00:26:14 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:27:25 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:25 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:25 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:27:29 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:29 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+INFO - 2025-12-02 00:27:31 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 00:27:31 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 00:27:31 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-02 00:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:27:32 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:32 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:27:33 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:33 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:33 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:33 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+            [remaining_balance] => 0.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+            [remaining_balance] => 0.00
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:27:43 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:43 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+INFO - 2025-12-02 00:27:43 --> Retrieved contacts for user_id '108' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Camille Fratz
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 00:27:43 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-02 00:27:43 --> Number of children found: 2
+DEBUG - 2025-12-02 00:27:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 00:28:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:29 --> user_id: 1
+DEBUG - 2025-12-02 00:29:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:35 --> user_id: 1
+DEBUG - 2025-12-02 00:29:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:29:46 --> user_id: 1
+DEBUG - 2025-12-02 00:30:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:30:15 --> user_id: 1
+DEBUG - 2025-12-02 00:30:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:33:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:33:54 --> user_id: 1
+DEBUG - 2025-12-02 00:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 00:33:56 --> user_id: 1
+DEBUG - 2025-12-02 12:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:00:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:00:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:00:03 --> user_id: 1
+DEBUG - 2025-12-02 13:00:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:00:17 --> user_id: 1
+DEBUG - 2025-12-02 13:00:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:01:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:07:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:09:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:10:53 --> User inserted with ID: 110
+INFO - 2025-12-02 13:10:58 --> Guardian email sent to: Jenelle@gmail.com
+DEBUG - 2025-12-02 13:10:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:10:58 --> Guardian record inserted for user ID: 110
+DEBUG - 2025-12-02 13:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:10:59 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:10:59 --> Number of children found: 0
+DEBUG - 2025-12-02 13:10:59 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:10:59 --> Current User ID: 110
+DEBUG - 2025-12-02 13:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:11:14 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:11:14 --> Number of children found: 0
+DEBUG - 2025-12-02 13:11:14 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:13:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:13:55 --> user_id: 110
+DEBUG - 2025-12-02 13:13:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:13:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:13:56 --> Number of children found: 0
+DEBUG - 2025-12-02 13:13:56 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:13:56 --> Current User ID: 110
+DEBUG - 2025-12-02 13:14:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:04 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:14:04 --> Number of children found: 0
+DEBUG - 2025-12-02 13:14:04 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:34 --> user_id: 1
+DEBUG - 2025-12-02 13:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:35 --> user_id: 1
+ERROR - 2025-12-02 13:14:40 --> Reason received: ""
+DEBUG - 2025-12-02 13:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:45 --> user_id: 1
+DEBUG - 2025-12-02 13:14:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:14:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:14:56 --> Number of children found: 0
+DEBUG - 2025-12-02 13:14:56 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:15:13 --> Admission ID 88 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-02 13:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:15:14 --> user_id: 1
+DEBUG - 2025-12-02 13:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:15:23 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:15:23 --> Number of children found: 0
+DEBUG - 2025-12-02 13:15:23 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 13:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:16:09 --> Payment Data: amount=2000.00, fullname=Jenelle Navarro, email=Jenelle@gmail.com, number=09121231234, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-12-02 13:16:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:16:19 --> Generating QR code for Guardian ID: 692e7623db41c
+INFO - 2025-12-02 13:16:23 --> QR code saved to file: C:\xampp\htdocs\capstone\public/assets/qrstudentId/692e7623db41c.png
+INFO - 2025-12-02 13:16:23 --> getMonthyTuitionFee called for user_id: 88
+INFO - 2025-12-02 13:16:23 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-02 13:16:23 --> Monthly schedule successfully created for child ID: 88
+DEBUG - 2025-12-02 13:16:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:16:24 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:16:24 --> Number of children found: 1
+DEBUG - 2025-12-02 13:16:24 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:16:24 --> Current User ID: 110
+DEBUG - 2025-12-02 13:16:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:16:40 --> Current User ID: 110
+DEBUG - 2025-12-02 13:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:17:08 --> GuardianSetupPost called.
+INFO - 2025-12-02 13:17:08 --> Photo uploaded successfully: 1764652628_5cc974921c61309eb1c0.jpg
+INFO - 2025-12-02 13:17:08 --> Generating QR code for Guardian ID: 692e7654580ec
+INFO - 2025-12-02 13:17:08 --> QR code saved to file: C:\xampp\htdocs\capstone\public/assets/qrcodes/692e7654580ec.png
+INFO - 2025-12-02 13:17:08 --> Guardian data saved successfully with ID: 42
+DEBUG - 2025-12-02 13:17:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:17:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:17:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:17:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:17:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:18:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:18:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:18:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:18:30 --> getAllremarks called for user_id=88. Found 0 remarks.
+WARNING - 2025-12-02 13:18:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:18:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:18:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:18:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:19:20 --> saveUpload() called. Received user_id=109, userID=88, comment=A hands-on activity where students learn basic paper folding techniques to create simple origami figures. This activity helps develop creativity, focus, and fine motor skills while introducing the art of Japanese paper folding.
+DEBUG - 2025-12-02 13:19:20 --> Image detected. Original filename: Activity.jpg
+DEBUG - 2025-12-02 13:19:20 --> Image moved to: public/assets/highlight/1764652760_f323e58508e4cc1b7aa3.jpg
+DEBUG - 2025-12-02 13:19:20 --> Inserted in DB: {"teacher_id":"109","user_id":"88","photo":"1764652760_f323e58508e4cc1b7aa3.jpg","comment":"A hands-on activity where students learn basic paper folding techniques to create simple origami figures. This activity helps develop creativity, focus, and fine motor skills while introducing the art of Japanese paper folding."}
+DEBUG - 2025-12-02 13:19:20 --> saveUpload JSON Response: {"status":"success","path":"http:\/\/localhost\/capstone\/public\/assets\/highlight\/1764652760_f323e58508e4cc1b7aa3.jpg","comment":"A hands-on activity where students learn basic paper folding techniques to create simple origami figures. This activity helps develop creativity, focus, and fine motor skills while introducing the art of Japanese paper folding."}
+WARNING - 2025-12-02 13:19:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:19:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:19:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:19:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:19:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:19:49 --> getAllremarks called for user_id=88. Found 0 remarks.
+WARNING - 2025-12-02 13:22:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:22:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:22:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:22:08 --> getAllremarks called for user_id=88. Found 1 remarks.
+DEBUG - 2025-12-02 13:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:22:12 --> getAllremarks called for user_id=88. Found 1 remarks.
+DEBUG - 2025-12-02 13:22:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:27 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:22:27 --> Number of children found: 1
+DEBUG - 2025-12-02 13:22:27 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:22:27 --> Current User ID: 110
+DEBUG - 2025-12-02 13:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:22:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:22:55 --> getAllremarks called for user_id=88. Found 1 remarks.
+DEBUG - 2025-12-02 13:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:23:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:23:18 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:23:18 --> Number of children found: 1
+DEBUG - 2025-12-02 13:23:18 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:23:18 --> Current User ID: 110
+DEBUG - 2025-12-02 13:23:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:23:21 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:23:21 --> Number of children found: 1
+DEBUG - 2025-12-02 13:23:21 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:23:21 --> Current User ID: 110
+WARNING - 2025-12-02 13:24:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:24:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:24:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:24:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:24:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\TeacherController::$db is deprecated in APPPATH\Controllers\TeacherController.php on line 21.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\TeacherController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:31 --> user_id: 1
+DEBUG - 2025-12-02 13:24:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:24:53 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:24:53 --> Number of children found: 1
+DEBUG - 2025-12-02 13:24:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:24:53 --> Current User ID: 110
+DEBUG - 2025-12-02 13:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:08 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:25:08 --> Number of children found: 1
+DEBUG - 2025-12-02 13:25:08 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:25:08 --> Current User ID: 110
+DEBUG - 2025-12-02 13:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:10 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:25:10 --> Number of children found: 1
+DEBUG - 2025-12-02 13:25:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:25:10 --> Current User ID: 110
+DEBUG - 2025-12-02 13:25:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:24 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:25:24 --> Number of children found: 1
+DEBUG - 2025-12-02 13:25:24 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:25:24 --> Current User ID: 110
+DEBUG - 2025-12-02 13:25:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:25:29 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:25:29 --> Number of children found: 1
+DEBUG - 2025-12-02 13:25:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:25:29 --> Current User ID: 110
+DEBUG - 2025-12-02 13:26:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:26:33 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:26:33 --> Number of children found: 1
+DEBUG - 2025-12-02 13:26:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:26:33 --> Current User ID: 110
+DEBUG - 2025-12-02 13:26:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:26:43 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:26:43 --> Number of children found: 1
+DEBUG - 2025-12-02 13:26:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:26:43 --> Current User ID: 110
+DEBUG - 2025-12-02 13:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:26:50 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:26:50 --> Number of children found: 1
+DEBUG - 2025-12-02 13:26:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:26:50 --> Current User ID: 110
+DEBUG - 2025-12-02 13:27:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:27:02 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:02 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:27:02 --> Current User ID: 110
+DEBUG - 2025-12-02 13:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:27:05 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:05 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:05 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:27:08 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:08 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:08 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:27:08 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:08 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:08 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [remaining_balance] => 8000.00
+        )
+
+)
+
+DEBUG - 2025-12-02 13:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:27:42 --> Payment Data: amount=8000, fullname=Jenelle Navarro, email=Jenelle@gmail.com, number=09121231234, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["88"], planId=3
+DEBUG - 2025-12-02 13:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:27:48 --> --- START: paycashTuitionMonthly (DIVIDED) ---
+INFO - 2025-12-02 13:27:48 --> Incoming Children: ["88"]
+INFO - 2025-12-02 13:27:48 --> Total Paid = 8000, Per Child = 8000
+INFO - 2025-12-02 13:27:48 --> Child 88 FULLY PAID. Extra redistributed.
+INFO - 2025-12-02 13:27:48 --> Inserted Payment: {"user_id":"88","amount_paid":"8000","remaining_balance":0,"payment_method":"Online","payment_date":"2025-12-02","status":"Paid","opening_id":"12","plan_id":3}
+INFO - 2025-12-02 13:27:48 --> --- END: paycashTuitionMonthly (DIVIDED) ---
+ERROR - 2025-12-02 13:27:48 --> PDF generation exception: Array to string conversion
+DEBUG - 2025-12-02 13:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:27:48 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:48 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:27:48 --> Current User ID: 110
+DEBUG - 2025-12-02 13:27:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:27:52 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:27:52 --> Number of children found: 1
+DEBUG - 2025-12-02 13:27:52 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:28:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:28:03 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:28:03 --> Number of children found: 1
+DEBUG - 2025-12-02 13:28:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Children IDs: []
+INFO - 2025-12-02 13:28:05 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-02 13:28:10 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2025-12-02 13:28:10 --> Compute Totals - Children IDs: ["88"]
+INFO - 2025-12-02 13:28:10 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-02 13:28:10 --> Tuition Data for Admission ID 88: [{"tuitionfee":"25000"}]
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Children IDs: ["88"]
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Partial Payment: 2500
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Children Amounts: ["25000.00"]
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Children IDs: ["88"]
+INFO - 2025-12-02 13:28:13 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-02 13:28:13 --> Tuition Data for Admission ID 88: [{"tuitionfee":"25000"}]
+INFO - 2025-12-02 13:28:13 --> Tuition Data for Admission ID 88: [{"tuitionfee":"25000"}]
+DEBUG - 2025-12-02 13:28:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:28:23 --> Payment Data: amount=2500, fullname=Jenelle Navarro, email=Jenelle@gmail.com, number=09121231234, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["88"], planId=4,pay_type=monthly,paymentDate2025-12-02
+DEBUG - 2025-12-02 13:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:28:30 --> --- START: paycashTuitionMonthly ---
+INFO - 2025-12-02 13:28:30 --> Incoming Children: ["88"]
+INFO - 2025-12-02 13:28:30 --> Processing ChildID: 88
+INFO - 2025-12-02 13:28:30 --> Class Info: Tuition=25000 Monthly=2500 Misc=8000
+INFO - 2025-12-02 13:28:30 --> First Payment: TotalDue=25000 NewRemain=22500
+INFO - 2025-12-02 13:28:30 --> Inserted Payment: {"user_id":"88","amount_paid":"2500","remaining_balance":22500,"payment_method":"Online","payment_date":"2025-12-02","status":"Pending","opening_id":"12","plan_id":4}
+INFO - 2025-12-02 13:28:30 --> --- END: paycashTuitionMonthly ---
+INFO - 2025-12-02 13:28:43 --> Payment receipt PDF emailed to: Jenelle@gmail.com
+DEBUG - 2025-12-02 13:28:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:28:43 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:28:43 --> Number of children found: 1
+DEBUG - 2025-12-02 13:28:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:28:43 --> Current User ID: 110
+DEBUG - 2025-12-02 13:28:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:28:47 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:28:47 --> Number of children found: 1
+DEBUG - 2025-12-02 13:28:47 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:28:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:28:56 --> Number of children found: 1
+DEBUG - 2025-12-02 13:28:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:28:56 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Camille Fratz
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:28:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:28:56 --> Number of children found: 1
+DEBUG - 2025-12-02 13:28:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:29:42 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:42 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:29:42 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Admin 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:42 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:42 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:29:50 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:50 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:50 --> Current User ID: 110
+DEBUG - 2025-12-02 13:29:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:29:56 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:56 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:56 --> Current User ID: 110
+DEBUG - 2025-12-02 13:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:29:58 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:58 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:58 --> Current User ID: 110
+DEBUG - 2025-12-02 13:29:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:29:59 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:59 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:59 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:29:59 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Admin 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:29:59 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:29:59 --> Number of children found: 1
+DEBUG - 2025-12-02 13:29:59 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:30:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:30:02 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:02 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:30:02 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Admin 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:30:02 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:02 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:30:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:30:12 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:12 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:30:12 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => Hello, Admin
+            [sent_at] => 2025-12-02 13:30:11
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Admin 
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:30:12 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:12 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-02 13:30:12 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\guardian\guardian-chat.php(195): time_elapsed_string('2025-12-02 13:30:11')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\capstone\\app\\Views\\guardian\\guardian-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(48): view('guardian/guardian-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:30:32 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 110
+            [username] => jenelle12
+            [last_message] => Hello, Admin
+            [sent_at] => 2025-12-02 13:30:11
+            [profile_pic] => default.webp
+            [full_name] => Jenelle Navarro
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 108
+            [username] => eirich12
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Eirich Elca
+            [unread_count] => 0
+        )
+
+)
+
+WARNING - 2025-12-02 13:30:32 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(135): time_elapsed_string('2025-12-02 13:30:11')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\capstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:30:34 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 110
+            [username] => jenelle12
+            [last_message] => Hello, Admin
+            [sent_at] => 2025-12-02 13:30:11
+            [profile_pic] => default.webp
+            [full_name] => Jenelle Navarro
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 108
+            [username] => eirich12
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Eirich Elca
+            [unread_count] => 0
+        )
+
+)
+
+WARNING - 2025-12-02 13:30:34 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(135): time_elapsed_string('2025-12-02 13:30:11')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\capstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('110')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 13:30:47 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 110
+            [username] => jenelle12
+            [last_message] => Hello, Admin
+            [sent_at] => 2025-12-02 13:30:11
+            [profile_pic] => default.webp
+            [full_name] => Jenelle Navarro
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 108
+            [username] => eirich12
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Eirich Elca
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+)
+
+WARNING - 2025-12-02 13:30:47 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\admin\chat.php(135): time_elapsed_string('2025-12-02 13:30:11')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\capstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(140): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('110')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:30:51 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:51 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:51 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+INFO - 2025-12-02 13:30:51 --> Retrieved contacts for user_id '110' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => Hello, Admin
+            [sent_at] => 2025-12-02 13:30:11
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => Admin 
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 109
+            [username] => johnrandolf
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1764601714_bb39a292d71817c2cdce.jpg
+            [full_name] => John Randolf Penaredondo
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-12-02 13:30:51 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:30:51 --> Number of children found: 1
+DEBUG - 2025-12-02 13:30:51 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+WARNING - 2025-12-02 13:30:51 --> [DEPRECATED] Creation of dynamic property DateInterval::$w is deprecated in APPPATH\Helpers\time_helper.php on line 9.
+ 1 APPPATH\Views\guardian\guardian-chat.php(195): time_elapsed_string('2025-12-02 13:30:11')
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\xampp\\htdocs\\capstone\\app\\Views\\guardian\\guardian-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(48): view('guardian/guardian-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index('1')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:31:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:31:17 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:31:17 --> Number of children found: 1
+DEBUG - 2025-12-02 13:31:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:31:17 --> Current User ID: 110
+DEBUG - 2025-12-02 13:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:31:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:31:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:38 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-02 13:32:38 --> Number of children found: 1
+DEBUG - 2025-12-02 13:32:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-02 13:32:38 --> Current User ID: 110
+DEBUG - 2025-12-02 13:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 13:32:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-02 13:33:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:33:52 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-02 13:33:52 --> Looking up user by QR Code model: 692e7654580ec.png
+ERROR - 2025-12-02 13:33:52 --> pagwala: wala student at may guardian
+INFO - 2025-12-02 13:33:52 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 091212312134
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-02 13:33:56 --> Email sent successfully to Jenelle@gmail.com
+DEBUG - 2025-12-02 13:33:56 --> SMS API response: {"number":["The number format is invalid."]}
+INFO - 2025-12-02 13:33:56 --> SMS sent successfully to 091212312134
+WARNING - 2025-12-02 13:34:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:34:01 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-02 13:34:01 --> Looking up user by QR Code model: 692e7654580ec.png
+ERROR - 2025-12-02 13:34:01 --> pagwala: wala student at may guardian
+INFO - 2025-12-02 13:34:01 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 091212312134
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-02 13:34:01 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 091212312134
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+DEBUG - 2025-12-02 13:34:01 --> User data: Array
+(
+    [admission_id] => 88
+    [first_name] => Kiefer
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [nickname] => Kie
+    [nationality] => Filipino
+    [gender] => male
+    [birthday] => 2018-01-01
+    [age] => 7
+    [class_applied] => Junior Kindergarten
+    [father_name] => John Navarro
+    [father_occupation] => Teacher
+    [mother_name] => Jenelle Navarro
+    [mother_occupation] => Teacher
+    [contact_number] => 091212312134
+    [email] => Jenelle@gmail.com
+    [status] => Enrolled
+    [submitted_at] => 2025-12-02 13:13:55
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+    [user_id] => 110
+    [psa] => 1764652435_2c84a76978388ce3f152.png
+    [reason] => 
+)
+
+DEBUG - 2025-12-02 13:34:01 --> contactNumber: 091212312134
+DEBUG - 2025-12-02 13:34:05 --> SMS API response: {"number":["The number format is invalid."]}
+WARNING - 2025-12-02 13:34:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-02 13:34:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 14:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 14:49:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 14:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 14:50:06 --> User inserted with ID: 111
+INFO - 2025-12-02 14:50:10 --> Guardian email sent to: caledward12@gmail.com
+DEBUG - 2025-12-02 14:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-02 14:50:10 --> Guardian record inserted for user ID: 111
+DEBUG - 2025-12-02 14:50:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-02 14:50:10 --> Fetching children for guardian ID: 111
+DEBUG - 2025-12-02 14:50:10 --> Number of children found: 0
+DEBUG - 2025-12-02 14:50:10 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-02 14:50:10 --> Current User ID: 111
+DEBUG - 2025-12-02 15:35:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

@@ -1,0 +1,219 @@
+:root {
+  --school-name: "Brightside";
+  --brandcolor: #ff6b6b;
+  --accentcolor: #c14444;
+  --tertiarycolor: #5a1e1e;
+  --font-dark: #3e4b5b;
+}
+body {
+  font-family: 'Nunito', sans-serif;
+  box-sizing: border-box;
+  scrollbar-width: thin;
+  scrollbar-color: var(--accentcolor) ;
+  background-color: #f8f9fa;
+  overflow: hidden; 
+}
+/* Scrollbar (WebKit) */
+::-webkit-scrollbar {
+  width: 9px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--accentcolor);
+  border-radius: 10px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--brandcolor);
+}
+
+input:focus {
+  box-shadow: none !important;
+  outline: none !important;
+}
+
+.wrapper {
+  display: flex;
+  height: 100%;
+}
+
+/* Bootstrap utility overrides */
+.bg-primary { background-color: var(--brandcolor) !important; }
+.bg-secondary { background-color: var(--accentcolor) !important; }
+.bg-tertiary { background-color: var(--tertiarycolor); }
+
+.text-primary { color: var(--brandcolor) !important; }
+.text-secondary { color: var(--accentcolor) !important; }
+.text-dark{ color: var(--font-dark) !important;}
+
+.btn-primary {
+  background-color: var(--brandcolor) !important;
+  border: none;
+}
+.btn-secondary {
+  background-color: var(--accentcolor) !important;
+  border: none;
+}
+.primary-table-header th{
+  background-color: var(--brandcolor) !important;
+  color: #fff;
+}
+.secondary-table-header th{
+  background-color: var(--accentcolor) !important;
+  color: #fff;
+}
+
+.border-secondary{
+  border: 1px solid var(--accentcolor) !important;
+}
+
+
+
+
+
+
+/* Sidebar */
+.admin-sidebar a {
+  color: var(--font-dark);
+  font-weight: 500;
+  padding: 12px 15px;
+  transition: background 0.3s, transform 0.2s;
+}
+
+.admin-sidebar a:hover,
+.admin-sidebar .active {
+  color: var(--accentcolor);
+  font-weight: 600;
+}
+
+/* Cards */
+.custom-card {
+  border-radius: 14px;
+  border: none;
+  transition: transform 0.2s ease-in-out;
+}
+.custom-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.08);
+}
+.custom-card-title {
+  color: var(--accentcolor);
+  font-weight: 600;
+}
+.custom-card-text {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+/* Navbar */
+.navbar{
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+}
+.navbar .dropdown-toggle img {
+  border: 2px solid var(--brandcolor);
+  padding: 2px;
+}
+.navbar .dropdown-menu {
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Change the text color of tabs */
+.nav-tabs .nav-link {
+  color: #555; /* default text */
+}
+
+/* Active tab */
+.nav-tabs .nav-link.active {
+  color: #fff !important;        /* text color when active */
+  background-color: var(--brandcolor) !important; /* background of active tab */
+}
+
+
+/* List Group */
+.list-group-item {
+  border: none;
+  border-bottom: 1px solid #eee;
+  font-size: 0.95rem;
+}
+.list-group-item:last-child {
+  border-bottom: none;
+}
+
+/* Responsive Sidebar */
+@media (max-width: 767.98px) {
+  .admin-sidebar {
+    position: fixed;
+    top: 54px;
+    left: -250px;
+    width: 250px;
+    height: 100%;
+    background: #fff;
+    z-index: 1050;
+    transition: left 0.3s ease;
+  }
+
+  .admin-sidebar.active {
+    left: 0;
+  }
+
+  main.col-md-10 {
+    margin-left: 0 !important;
+  }
+
+  .sidebar-backdrop {
+    position: fixed;
+    top: 54px;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0,0,0,0.4);
+    display: none;
+    z-index: 1040;
+  }
+
+  .sidebar-backdrop.show {
+    display: block;
+  }
+}
+
+/* Style the pagination container */
+.dataTables_wrapper .dataTables_paginate {
+  margin-top: 20px;
+}
+
+/* Style individual page buttons */
+.dataTables_wrapper .dataTables_paginate .page-item .page-link {
+  color: var(--accentcolor);
+  background-color: #f8f9fa;
+  border: 1px solid var(--brandcolor);
+  margin: 8px 2px;
+  padding: 4px 10px;
+  border-radius: none;
+}
+
+/* Active page button */
+.dataTables_wrapper .dataTables_paginate .page-item.active .page-link {
+  background-color: var(--brandcolor);
+  border-color: none;
+  color: #fff;
+}
+
+/* Hover state */
+.dataTables_wrapper .dataTables_paginate .page-item .page-link:hover {
+  background-color: var(--accentcolor);
+  border-color: none;
+}
+
+.dataTables_length select {
+  margin: 8px 0px;
+}
+
+.dataTables_filter label {
+  color: var(--accentcolor);
+}

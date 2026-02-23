@@ -1,0 +1,889 @@
+DEBUG - 2025-12-03 12:21:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:21:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:21:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:27:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:27:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:27:48 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:27:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:27:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:27:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:27:54 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:27:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:27:57 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:28:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:28:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:56:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:56:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:56:35 --> user_id: 1
+DEBUG - 2025-12-03 12:56:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:56:39 --> user_id: 1
+DEBUG - 2025-12-03 12:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:59:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:59:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:26 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:59:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:59:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:35 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:59:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:39 --> Email fetched: roldanoliveros0921@gmail.com
+WARNING - 2025-12-03 12:59:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:43 --> Email fetched: roldanoliveros0921@gmail.com
+DEBUG - 2025-12-03 12:59:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 12:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 12:59:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 12:59:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:17 --> user_id: 1
+DEBUG - 2025-12-03 13:00:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:22 --> user_id: 1
+DEBUG - 2025-12-03 13:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:00:38 --> user_id: 1
+DEBUG - 2025-12-03 13:00:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-03 13:01:03 --> Guardian Update POST data: {"csrf_test_name":"b62759847468f62c6540fecb3f5fe652","existingPicture":"default.webp","user_id":"110","id":"35","first_name":"Jenelle","middle_name":"Bautista","last_name":"Navarro","relationship":"Mother","contact_number":"09503430307","email":"Jenelle@gmail.com","municipality":"Santa Cruz","barangay":"Gatid","street":"Sampaguita"}
+INFO - 2025-12-03 13:01:03 --> Updated guardians_account table for guardian_id 35: Success
+INFO - 2025-12-03 13:01:03 --> Updated users table for user_id 110: Success
+DEBUG - 2025-12-03 13:01:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:01:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:01:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:01:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:01:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:01:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:01:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:01:35 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:01:35 --> Looking up user by QR Code model: 692e7623db41c.png
+ERROR - 2025-12-03 13:01:35 --> pagwala: may student at wala guardian
+INFO - 2025-12-03 13:01:35 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:01:39 --> Email sent successfully to Jenelle@gmail.com
+DEBUG - 2025-12-03 13:01:39 --> SMS API response: [{"message_id":260155547,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer arrived at school at 1:01:34 PM on 2025-12-03. - Brightside","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:01:39","updated_at":"2025-12-03 13:01:39"}]
+INFO - 2025-12-03 13:01:39 --> SMS sent successfully to 639503430307
+WARNING - 2025-12-03 13:01:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:01:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:02:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:02:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:04:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:05:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:05:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:09:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:09:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:01 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-03 13:10:01 --> Number of children found: 1
+DEBUG - 2025-12-03 13:10:01 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-03 13:10:01 --> Current User ID: 110
+DEBUG - 2025-12-03 13:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:10:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:10:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:10:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:10:58 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:10:58 --> Looking up user by QR Code model: 692e7654580ec.png
+ERROR - 2025-12-03 13:10:58 --> pagwala: wala student at may guardian
+INFO - 2025-12-03 13:10:58 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:10:58 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+DEBUG - 2025-12-03 13:10:58 --> User data: Array
+(
+    [admission_id] => 88
+    [first_name] => Kiefer
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [nickname] => Kie
+    [nationality] => Filipino
+    [gender] => male
+    [birthday] => 2018-01-01
+    [age] => 7
+    [class_applied] => Junior Kindergarten
+    [father_name] => John Navarro
+    [father_occupation] => Teacher
+    [mother_name] => Jenelle Navarro
+    [mother_occupation] => Teacher
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [status] => Enrolled
+    [submitted_at] => 2025-12-02 13:13:55
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+    [user_id] => 110
+    [psa] => 1764652435_2c84a76978388ce3f152.png
+    [reason] => 
+)
+
+DEBUG - 2025-12-03 13:10:58 --> contactNumber: 639503430307
+DEBUG - 2025-12-03 13:11:04 --> SMS API response: [{"message_id":260156040,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer was picked up at school at 1:10:58 PM on 2025-12-03 by Jenelle Bautista Navarro.","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:11:03","updated_at":"2025-12-03 13:11:03"}]
+WARNING - 2025-12-03 13:11:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:11:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:11:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:11:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:11:58 --> user_id: 1
+DEBUG - 2025-12-03 13:12:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:30 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-03 13:12:30 --> Number of children found: 1
+DEBUG - 2025-12-03 13:12:30 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-03 13:12:30 --> Current User ID: 110
+DEBUG - 2025-12-03 13:12:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:12:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:13:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:13:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:13:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:13:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:16:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:16:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:16:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:16:57 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:16:57 --> Looking up user by QR Code model: 692e7623db41c.png
+ERROR - 2025-12-03 13:16:57 --> pagwala: may student at wala guardian
+INFO - 2025-12-03 13:16:57 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:17:01 --> Email sent successfully to Jenelle@gmail.com
+DEBUG - 2025-12-03 13:17:01 --> SMS API response: [{"message_id":260156303,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer arrived at school at 1:16:57 PM on 2025-12-03. - Brightside","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:17:01","updated_at":"2025-12-03 13:17:01"}]
+INFO - 2025-12-03 13:17:01 --> SMS sent successfully to 639503430307
+WARNING - 2025-12-03 13:17:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:17:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:17:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:17:25 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:17:25 --> Looking up user by QR Code model: 692e7654580ec.png
+ERROR - 2025-12-03 13:17:25 --> pagwala: wala student at may guardian
+INFO - 2025-12-03 13:17:25 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:17:25 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+DEBUG - 2025-12-03 13:17:25 --> User data: Array
+(
+    [admission_id] => 88
+    [first_name] => Kiefer
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [nickname] => Kie
+    [nationality] => Filipino
+    [gender] => male
+    [birthday] => 2018-01-01
+    [age] => 7
+    [class_applied] => Junior Kindergarten
+    [father_name] => John Navarro
+    [father_occupation] => Teacher
+    [mother_name] => Jenelle Navarro
+    [mother_occupation] => Teacher
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [status] => Enrolled
+    [submitted_at] => 2025-12-02 13:13:55
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+    [user_id] => 110
+    [psa] => 1764652435_2c84a76978388ce3f152.png
+    [reason] => 
+)
+
+DEBUG - 2025-12-03 13:17:25 --> contactNumber: 639503430307
+DEBUG - 2025-12-03 13:17:29 --> SMS API response: [{"message_id":260156319,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer was picked up at school at 1:17:25 PM on 2025-12-03 by Jenelle Bautista Navarro.","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:17:29","updated_at":"2025-12-03 13:17:29"}]
+WARNING - 2025-12-03 13:17:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:17:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:45 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-03 13:30:45 --> Number of children found: 1
+DEBUG - 2025-12-03 13:30:45 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-03 13:30:45 --> Current User ID: 110
+DEBUG - 2025-12-03 13:30:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:30:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:31:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:31:32 --> user_id: 1
+DEBUG - 2025-12-03 13:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:31:35 --> user_id: 1
+DEBUG - 2025-12-03 13:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:47:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:47:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:47:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:48:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:49:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:49:07 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:49:07 --> Looking up user by QR Code model: 692e7623db41c.png
+ERROR - 2025-12-03 13:49:07 --> pagwala: may student at wala guardian
+INFO - 2025-12-03 13:49:07 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:49:11 --> Email sent successfully to Jenelle@gmail.com
+DEBUG - 2025-12-03 13:49:11 --> SMS API response: [{"message_id":260157638,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer arrived at school at 1:49:07 PM on 2025-12-03. - Brightside","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:49:11","updated_at":"2025-12-03 13:49:11"}]
+INFO - 2025-12-03 13:49:11 --> SMS sent successfully to 639503430307
+WARNING - 2025-12-03 13:49:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:49:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-03 13:49:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:49:38 --> Settings Row: Array
+(
+    [sms_enabled] => 1
+    [email_enabled] => 1
+)
+
+DEBUG - 2025-12-03 13:49:38 --> Looking up user by QR Code model: 692e7654580ec.png
+ERROR - 2025-12-03 13:49:38 --> pagwala: wala student at may guardian
+INFO - 2025-12-03 13:49:38 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+INFO - 2025-12-03 13:49:38 --> User data found for userId 88: Array
+(
+    [0] => Array
+        (
+            [admission_id] => 88
+            [first_name] => Kiefer
+            [middle_name] => Bautista
+            [last_name] => Navarro
+            [nickname] => Kie
+            [nationality] => Filipino
+            [gender] => male
+            [birthday] => 2018-01-01
+            [age] => 7
+            [class_applied] => Junior Kindergarten
+            [father_name] => John Navarro
+            [father_occupation] => Teacher
+            [mother_name] => Jenelle Navarro
+            [mother_occupation] => Teacher
+            [contact_number] => 09503430307
+            [email] => Jenelle@gmail.com
+            [status] => Enrolled
+            [submitted_at] => 2025-12-02 13:13:55
+            [municipality] => Santa Cruz
+            [barangay] => Gatid
+            [street] => Sampaguita
+            [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+            [user_id] => 110
+            [psa] => 1764652435_2c84a76978388ce3f152.png
+            [reason] => 
+        )
+
+)
+
+DEBUG - 2025-12-03 13:49:38 --> User data: Array
+(
+    [admission_id] => 88
+    [first_name] => Kiefer
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [nickname] => Kie
+    [nationality] => Filipino
+    [gender] => male
+    [birthday] => 2018-01-01
+    [age] => 7
+    [class_applied] => Junior Kindergarten
+    [father_name] => John Navarro
+    [father_occupation] => Teacher
+    [mother_name] => Jenelle Navarro
+    [mother_occupation] => Teacher
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [status] => Enrolled
+    [submitted_at] => 2025-12-02 13:13:55
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [picture] => 1764652435_f0988e4c9ca8553f18d9.jpg
+    [user_id] => 110
+    [psa] => 1764652435_2c84a76978388ce3f152.png
+    [reason] => 
+)
+
+DEBUG - 2025-12-03 13:49:38 --> contactNumber: 639503430307
+DEBUG - 2025-12-03 13:49:42 --> SMS API response: [{"message_id":260157662,"user_id":57043,"user":"caledward12@gmail.com","account_id":56904,"account":"Capstone","recipient":"639503430307","message":"Hello, your child Kiefer was picked up at school at 1:49:37 PM on 2025-12-03 by Jenelle Bautista Navarro.","sender_name":"Brightside","network":"Smart","status":"Pending","type":"Single","source":"Api","created_at":"2025-12-03 13:49:42","updated_at":"2025-12-03 13:49:42"}]
+WARNING - 2025-12-03 13:49:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\AttendanceController::$guardianmodel is deprecated in APPPATH\Controllers\AttendanceController.php on line 25.
+ 1 SYSTEMPATH\CodeIgniter.php(903): App\Controllers\AttendanceController->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(498): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-03 13:49:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:46 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-03 13:58:46 --> Number of children found: 1
+DEBUG - 2025-12-03 13:58:46 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-03 13:58:46 --> Current User ID: 110
+DEBUG - 2025-12-03 13:58:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:50 --> Fetching children for guardian ID: 110
+DEBUG - 2025-12-03 13:58:50 --> Number of children found: 1
+DEBUG - 2025-12-03 13:58:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 110
+            [admission_id] => 88
+            [full_name] => Kiefer Navarro
+            [profile_pic] => 1764652435_f0988e4c9ca8553f18d9.jpg
+        )
+
+)
+
+DEBUG - 2025-12-03 13:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 13:58:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-03 14:59:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

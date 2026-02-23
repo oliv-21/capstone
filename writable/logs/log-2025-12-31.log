@@ -1,0 +1,2779 @@
+DEBUG - 2025-12-31 01:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 01:10:10 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 01:10:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:10:10 --> user_id: 1
+DEBUG - 2025-12-31 01:10:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:10:14 --> user_id: 1
+DEBUG - 2025-12-31 01:10:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:10:16 --> user_id: 1
+DEBUG - 2025-12-31 01:10:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:10:19 --> user_id: 1
+DEBUG - 2025-12-31 01:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:10:55 --> user_id: 1
+WARNING - 2025-12-31 01:12:01 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 01:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:12:01 --> user_id: 1
+DEBUG - 2025-12-31 01:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:12:04 --> user_id: 1
+DEBUG - 2025-12-31 01:13:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:13:23 --> user_id: 1
+DEBUG - 2025-12-31 01:14:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:14:28 --> user_id: 1
+WARNING - 2025-12-31 01:14:29 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 01:14:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:14:30 --> user_id: 1
+WARNING - 2025-12-31 01:14:33 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 01:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:14:33 --> user_id: 1
+DEBUG - 2025-12-31 01:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:14:33 --> user_id: 1
+DEBUG - 2025-12-31 01:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 01:15:05 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 01:15:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:05 --> user_id: 1
+DEBUG - 2025-12-31 01:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:08 --> user_id: 1
+DEBUG - 2025-12-31 01:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:10 --> user_id: 1
+DEBUG - 2025-12-31 01:15:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:23 --> user_id: 1
+DEBUG - 2025-12-31 01:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 01:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:07:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 15:07:17 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 15:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:07:17 --> user_id: 1
+DEBUG - 2025-12-31 15:07:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:40:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:41:18 --> Starting addTeacher: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 15:41:18 --> User inserted with ID: 112
+ERROR - 2025-12-31 15:41:18 --> mysqli_sql_exception: Column 'profile_pic' cannot be null in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `te...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `te...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `te...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `te...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(786): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->addTeacher()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+ERROR - 2025-12-31 15:41:18 --> Error in addTeacher: Column 'profile_pic' cannot be null
+DEBUG - 2025-12-31 15:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:47:02 --> Received teacher picture upload: 
+INFO - 2025-12-31 15:47:02 --> Starting addTeacher: Roldanoliveros0621@gmail.com
+INFO - 2025-12-31 15:47:02 --> User inserted with ID: 113
+ERROR - 2025-12-31 15:47:02 --> mysqli_sql_exception: Column 'profile_pic' cannot be null in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `te...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `te...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `te...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `te...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(791): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->addTeacher()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+ERROR - 2025-12-31 15:47:02 --> Error in addTeacher: Column 'profile_pic' cannot be null
+DEBUG - 2025-12-31 15:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:50:46 --> Starting addTeacher: roldanoliveros0621@gmail.com
+ERROR - 2025-12-31 15:50:46 --> Password mismatch for roldanoliveros0621@gmail.com
+ERROR - 2025-12-31 15:50:46 --> Passwords provided: pass="123456" confirm="123123"
+DEBUG - 2025-12-31 15:50:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:50:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:51:28 --> Starting addTeacher: Roldanoliveros0621@gmail.com
+INFO - 2025-12-31 15:51:28 --> User inserted with ID: 114
+ERROR - 2025-12-31 15:51:28 --> mysqli_sql_exception: Column 'profile_pic' cannot be null in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `te...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `te...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `te...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `te...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(791): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->addTeacher()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+ERROR - 2025-12-31 15:51:28 --> Error in addTeacher: Column 'profile_pic' cannot be null
+DEBUG - 2025-12-31 15:51:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:55:07 --> Starting addTeacher: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 15:55:07 --> User inserted with ID: 115
+ERROR - 2025-12-31 15:55:07 --> mysqli_sql_exception: Column 'profile_pic' cannot be null in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `te...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `te...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `te...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `te...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(797): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->addTeacher()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+ERROR - 2025-12-31 15:55:07 --> Error in addTeacher: Column 'profile_pic' cannot be null
+DEBUG - 2025-12-31 15:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:55:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:55:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:57:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 15:57:42 --> Starting addTeacher: Roldanoliveros@gmail.com
+INFO - 2025-12-31 15:57:42 --> User inserted with ID: 116
+ERROR - 2025-12-31 15:57:42 --> mysqli_sql_exception: Column 'profile_pic' cannot be null in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `te...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `te...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `te...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `te...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(793): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->addTeacher()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#12 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#13 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#14 {main}
+ERROR - 2025-12-31 15:57:42 --> Error in addTeacher: Column 'profile_pic' cannot be null
+DEBUG - 2025-12-31 15:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:57:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 15:59:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:00:33 --> Starting addTeacher: roldanoliveros0621@Gmail.com
+INFO - 2025-12-31 16:00:33 --> User inserted with ID: 117
+INFO - 2025-12-31 16:00:38 --> Teacher add email sent to: roldanoliveros0621@Gmail.com
+INFO - 2025-12-31 16:00:38 --> Teacher record inserted for user ID: 117
+DEBUG - 2025-12-31 16:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:00:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:03:37 --> Starting addTeacher: Roldanoliveros0621@Gmail.com
+INFO - 2025-12-31 16:03:37 --> User inserted with ID: 118
+INFO - 2025-12-31 16:03:41 --> Teacher add email sent to: Roldanoliveros0621@Gmail.com
+INFO - 2025-12-31 16:03:41 --> Teacher record inserted for user ID: 118
+DEBUG - 2025-12-31 16:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:03:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:06:08 --> Starting addTeacher: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:06:08 --> User inserted with ID: 119
+INFO - 2025-12-31 16:06:12 --> Teacher add email sent to: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:06:12 --> Teacher record inserted for user ID: 119
+DEBUG - 2025-12-31 16:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:06:46 --> Received teacher update data: {"csrf_test_name":"1669e86828be701ce520bd81144e3363","existingPictureTeacher":"1752420767_9459efda9027940a87c4.webp","user_id":"119","first_name":"Maria Thalia Andrea","middle_name":"","last_name":"Romeo","birthday":"","gender":"","civil_status":"","contact_number":"09205804090","email":"roldanoliveros3@gmail.com","municipality":"","barangay":"","street":"","specialization":"English","teacher_department":"Pre-Kindergarten"}
+INFO - 2025-12-31 16:06:46 --> Teacher table update for user_id 119: Success
+DEBUG - 2025-12-31 16:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:08:26 --> Starting addTeacher: Roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:08:27 --> User inserted with ID: 120
+INFO - 2025-12-31 16:08:31 --> Teacher add email sent to: Roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:08:31 --> Teacher record inserted for user ID: 120
+DEBUG - 2025-12-31 16:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:08:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:08:48 --> Received teacher update data: {"csrf_test_name":"1669e86828be701ce520bd81144e3363","existingPictureTeacher":"1752420767_9459efda9027940a87c4.webp","user_id":"120","first_name":"Elaine","middle_name":"","last_name":"Manaman","birthday":"","gender":"","civil_status":"","contact_number":"09205804090","email":"Roldanoliveros4@gmail.com","municipality":"","barangay":"","street":"","specialization":"Physical education","teacher_department":"Senior Kindergarten (K2)"}
+INFO - 2025-12-31 16:08:48 --> Teacher table update for user_id 120: Success
+DEBUG - 2025-12-31 16:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:08:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:10:24 --> Starting addTeacher: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:10:24 --> User inserted with ID: 121
+INFO - 2025-12-31 16:10:27 --> Teacher add email sent to: roldanoliveros0621@gmail.com
+INFO - 2025-12-31 16:10:27 --> Teacher record inserted for user ID: 121
+DEBUG - 2025-12-31 16:10:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:10:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:10:59 --> Received teacher update data: {"csrf_test_name":"1669e86828be701ce520bd81144e3363","existingPictureTeacher":"1752420767_9459efda9027940a87c4.webp","user_id":"121","first_name":"Ea Mae","middle_name":"","last_name":"Callado","birthday":"","gender":"","civil_status":"","contact_number":"09205804090","email":"roldanoliveros5@gmail.com","municipality":"","barangay":"","street":"","specialization":"Tagalog","teacher_department":"Junior Kindergarten (K1)"}
+INFO - 2025-12-31 16:10:59 --> Teacher table update for user_id 121: Success
+DEBUG - 2025-12-31 16:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:05 --> user_id: 1
+DEBUG - 2025-12-31 16:11:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 16:11:18 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 16:11:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:18 --> user_id: 1
+DEBUG - 2025-12-31 16:11:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:16:06 --> User inserted with ID: 122
+INFO - 2025-12-31 16:16:10 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 16:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 16:16:10 --> Guardian record inserted for user ID: 122
+DEBUG - 2025-12-31 16:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:16:11 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:16:11 --> Number of children found: 0
+DEBUG - 2025-12-31 16:16:11 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:16:11 --> Current User ID: 122
+DEBUG - 2025-12-31 16:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:16:25 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:16:25 --> Number of children found: 0
+DEBUG - 2025-12-31 16:16:25 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:16:25 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:16:25 --> Number of children found: 0
+DEBUG - 2025-12-31 16:16:25 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:16:25 --> Current User ID: 122
+DEBUG - 2025-12-31 16:16:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:16:33 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:16:33 --> Number of children found: 0
+DEBUG - 2025-12-31 16:16:33 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:16:33 --> Current User ID: 122
+DEBUG - 2025-12-31 16:16:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:16:34 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:16:34 --> Number of children found: 0
+DEBUG - 2025-12-31 16:16:34 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:21:13 --> user_id: 122
+DEBUG - 2025-12-31 16:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:21:13 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:21:13 --> Number of children found: 0
+DEBUG - 2025-12-31 16:21:13 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 16:21:13 --> Current User ID: 122
+DEBUG - 2025-12-31 16:21:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 16:21:18 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 16:21:18 --> Number of children found: 0
+DEBUG - 2025-12-31 16:21:18 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:33:48 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:33:48 --> Number of children found: 0
+DEBUG - 2025-12-31 17:33:48 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:33:48 --> Current User ID: 122
+DEBUG - 2025-12-31 17:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:33:50 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:33:50 --> Number of children found: 0
+DEBUG - 2025-12-31 17:33:50 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:33:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:33:55 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:33:55 --> Number of children found: 0
+DEBUG - 2025-12-31 17:33:55 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:33:59 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:33:59 --> Number of children found: 0
+DEBUG - 2025-12-31 17:33:59 --> Children data: Array
+(
+)
+
+WARNING - 2025-12-31 17:34:22 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:34:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:22 --> user_id: 1
+DEBUG - 2025-12-31 17:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:26 --> user_id: 1
+DEBUG - 2025-12-31 17:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:26 --> user_id: 1
+ERROR - 2025-12-31 17:34:32 --> Reason received: ""
+DEBUG - 2025-12-31 17:34:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:36 --> user_id: 1
+DEBUG - 2025-12-31 17:34:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 17:34:41 --> Admission ID 91 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 17:34:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:43 --> user_id: 1
+DEBUG - 2025-12-31 17:34:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:34:49 --> user_id: 1
+DEBUG - 2025-12-31 17:35:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:35:40 --> user_id: 1
+DEBUG - 2025-12-31 17:35:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:35:48 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:35:48 --> Number of children found: 0
+DEBUG - 2025-12-31 17:35:48 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:35:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:35:54 --> user_id: 1
+DEBUG - 2025-12-31 17:35:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:35:57 --> user_id: 1
+DEBUG - 2025-12-31 17:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:36:01 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('91', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 17:36:01 --> Generating QR code for Guardian ID: 6954ee81b9861
+INFO - 2025-12-31 17:36:03 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/6954ee81b9861.png
+INFO - 2025-12-31 17:36:03 --> getMonthyTuitionFee called for user_id: 91
+INFO - 2025-12-31 17:36:03 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 17:36:03 --> Monthly tuition fee for admission ID 91: 2500
+INFO - 2025-12-31 17:36:03 --> Monthly schedule successfully created for child ID: 91
+WARNING - 2025-12-31 17:36:03 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:03 --> user_id: 1
+DEBUG - 2025-12-31 17:36:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:08 --> user_id: 1
+DEBUG - 2025-12-31 17:36:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:11 --> user_id: 1
+DEBUG - 2025-12-31 17:36:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:17 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:17 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:36:20 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(751): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:20 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:20 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:20 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:22 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:22 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:22 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:36:22 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:22 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:22 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+            [remaining_balance] => 8000.00
+        )
+
+)
+
+WARNING - 2025-12-31 17:36:23 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(592): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->getPaymentsByPlan('3', '122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:36:24 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(751): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:24 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:24 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:24 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:36:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:36:26 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(617): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParentTuition('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:26 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:26 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+WARNING - 2025-12-31 17:36:26 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(601): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Children IDs: []
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Children IDs: []
+INFO - 2025-12-31 17:36:26 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-31 17:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:36:28 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(751): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('122')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:36:28 --> Fetching children for guardian ID: 122
+DEBUG - 2025-12-31 17:36:28 --> Number of children found: 1
+DEBUG - 2025-12-31 17:36:28 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 122
+            [admission_id] => 91
+            [full_name] => Kalisha Blaire Parilla
+            [profile_pic] => 1767169273_dc0e39e9c199439af704.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:36:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:36 --> Current User ID: 122
+DEBUG - 2025-12-31 17:36:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:36:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:46:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:46:50 --> user_id: 1
+DEBUG - 2025-12-31 17:46:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 17:47:04 --> Guardian Update POST data: {"csrf_test_name":"d16a4342b5547c1dfdb48ecf7eab01b7","existingPicture":"default.webp","user_id":"122","id":"37","first_name":"Clair Jolly","middle_name":"","last_name":"Si","relationship":"Mother","contact_number":"09178449343","email":"karencagayat@gmail.com","municipality":"Santa Cruz","barangay":"Calios","street":"ROAD 2 ATDRAMM VILLAGE"}
+INFO - 2025-12-31 17:47:04 --> Updated guardians_account table for guardian_id 37: Success
+INFO - 2025-12-31 17:47:04 --> Updated users table for user_id 122: Success
+DEBUG - 2025-12-31 17:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:47:09 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:47:09 --> user_id: 1
+INFO - 2025-12-31 17:48:02 --> User inserted with ID: 123
+INFO - 2025-12-31 17:48:06 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 17:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 17:48:06 --> Guardian record inserted for user ID: 123
+DEBUG - 2025-12-31 17:48:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:48:06 --> Fetching children for guardian ID: 123
+DEBUG - 2025-12-31 17:48:06 --> Number of children found: 0
+DEBUG - 2025-12-31 17:48:06 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:48:06 --> Current User ID: 123
+DEBUG - 2025-12-31 17:48:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:48:08 --> Fetching children for guardian ID: 123
+DEBUG - 2025-12-31 17:48:08 --> Number of children found: 0
+DEBUG - 2025-12-31 17:48:08 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:52:56 --> user_id: 123
+DEBUG - 2025-12-31 17:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:52:56 --> Fetching children for guardian ID: 123
+DEBUG - 2025-12-31 17:52:56 --> Number of children found: 0
+DEBUG - 2025-12-31 17:52:56 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 17:52:56 --> Current User ID: 123
+DEBUG - 2025-12-31 17:53:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:00 --> user_id: 1
+ERROR - 2025-12-31 17:53:05 --> Reason received: ""
+DEBUG - 2025-12-31 17:53:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:09 --> user_id: 1
+DEBUG - 2025-12-31 17:53:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 17:53:21 --> Admission ID 92 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 17:53:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:23 --> user_id: 1
+DEBUG - 2025-12-31 17:53:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:26 --> user_id: 1
+DEBUG - 2025-12-31 17:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 17:53:29 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('92', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 17:53:29 --> Generating QR code for Guardian ID: 6954f2994ea2e
+INFO - 2025-12-31 17:53:29 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/6954f2994ea2e.png
+INFO - 2025-12-31 17:53:29 --> getMonthyTuitionFee called for user_id: 92
+INFO - 2025-12-31 17:53:29 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 17:53:29 --> Monthly tuition fee for admission ID 92: 2500
+INFO - 2025-12-31 17:53:29 --> Monthly schedule successfully created for child ID: 92
+WARNING - 2025-12-31 17:53:29 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 17:53:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:29 --> user_id: 1
+DEBUG - 2025-12-31 17:53:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:53:33 --> Fetching children for guardian ID: 123
+DEBUG - 2025-12-31 17:53:33 --> Number of children found: 1
+DEBUG - 2025-12-31 17:53:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 123
+            [admission_id] => 92
+            [full_name] => Hanniel Tagunicar
+            [profile_pic] => 1767174776_d78683166265901b39c7.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 17:53:33 --> Current User ID: 123
+DEBUG - 2025-12-31 17:53:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:54:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:54:25 --> user_id: 1
+DEBUG - 2025-12-31 17:54:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:54:26 --> user_id: 1
+DEBUG - 2025-12-31 17:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:59:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:59:18 --> user_id: 1
+DEBUG - 2025-12-31 17:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:59:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 17:59:48 --> user_id: 1
+DEBUG - 2025-12-31 17:59:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 18:00:04 --> Guardian Update POST data: {"csrf_test_name":"d16a4342b5547c1dfdb48ecf7eab01b7","existingPicture":"default.webp","user_id":"123","id":"38","first_name":"LILIANNE GRACE","middle_name":"","last_name":"TAGUNICAR","relationship":"Mother","contact_number":"09991655382","email":"roldanoliveros1001@gmail.com","municipality":"Santa Cruz","barangay":"Bagumbayan","street":"SITIO 5"}
+INFO - 2025-12-31 18:00:04 --> Updated guardians_account table for guardian_id 38: Success
+INFO - 2025-12-31 18:00:04 --> Updated users table for user_id 123: Success
+DEBUG - 2025-12-31 18:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 18:00:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 18:01:19 --> User inserted with ID: 124
+DEBUG - 2025-12-31 18:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 18:01:23 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 18:01:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 18:01:23 --> Guardian record inserted for user ID: 124
+DEBUG - 2025-12-31 18:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 18:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 18:01:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 18:01:49 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 18:01:49 --> Number of children found: 0
+DEBUG - 2025-12-31 18:01:49 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 18:01:49 --> Current User ID: 124
+DEBUG - 2025-12-31 18:02:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 18:02:08 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 18:02:08 --> Number of children found: 0
+DEBUG - 2025-12-31 18:02:08 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:13:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:13:15 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 19:13:15 --> Number of children found: 0
+DEBUG - 2025-12-31 19:13:15 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:13:15 --> Current User ID: 124
+DEBUG - 2025-12-31 19:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:13:21 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 19:13:21 --> Number of children found: 0
+DEBUG - 2025-12-31 19:13:21 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:14:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:14:41 --> user_id: 1
+DEBUG - 2025-12-31 19:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:16:38 --> user_id: 124
+DEBUG - 2025-12-31 19:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:16:38 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 19:16:38 --> Number of children found: 0
+DEBUG - 2025-12-31 19:16:38 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:16:38 --> Current User ID: 124
+DEBUG - 2025-12-31 19:16:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:16:43 --> user_id: 1
+ERROR - 2025-12-31 19:16:51 --> Reason received: ""
+DEBUG - 2025-12-31 19:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:16:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:16:55 --> user_id: 1
+DEBUG - 2025-12-31 19:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:17:19 --> Admission ID 93 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 19:17:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:21 --> user_id: 1
+DEBUG - 2025-12-31 19:17:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:23 --> user_id: 1
+DEBUG - 2025-12-31 19:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 19:17:26 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('93', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 19:17:26 --> Generating QR code for Guardian ID: 6955064603ee2
+INFO - 2025-12-31 19:17:26 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/6955064603ee2.png
+INFO - 2025-12-31 19:17:26 --> getMonthyTuitionFee called for user_id: 93
+INFO - 2025-12-31 19:17:26 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 19:17:26 --> Monthly tuition fee for admission ID 93: 2500
+INFO - 2025-12-31 19:17:26 --> Monthly schedule successfully created for child ID: 93
+WARNING - 2025-12-31 19:17:26 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:26 --> user_id: 1
+DEBUG - 2025-12-31 19:17:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:31 --> Fetching children for guardian ID: 124
+DEBUG - 2025-12-31 19:17:31 --> Number of children found: 1
+DEBUG - 2025-12-31 19:17:31 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 124
+            [admission_id] => 93
+            [full_name] => Eloise Margrethe Kamatoy
+            [profile_pic] => 1767179798_6168deca1a7ef00e593f.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 19:17:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:44 --> user_id: 1
+WARNING - 2025-12-31 19:17:46 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(956): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:17:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:17:46 --> Child Payment Debug: Array
+(
+    [full_name] => Kalisha blaire Si Parilla
+    [admission_id] => 91
+    [user_id] => 122
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:17:46 --> Parent Debug: Array
+(
+    [id] => 37
+    [user_id] => 122
+    [first_name] => Clair Jolly
+    [middle_name] => 
+    [last_name] => Si
+    [relationship] => Mother
+    [contact_number] => 09178449343
+    [email] => karencagayat@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Calios
+    [street] => ROAD 2 ATDRAMM VILLAGE
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 16:16:06
+    [address] => Santa Cruz, Calios, ROAD 2 ATDRAMM VILLAGE
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kalisha blaire Si Parilla
+                    [admission_id] => 91
+                    [user_id] => 122
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:17:46 --> Child Payment Debug: Array
+(
+    [full_name] => Hanniel  Tagunicar
+    [admission_id] => 92
+    [user_id] => 123
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:17:46 --> Parent Debug: Array
+(
+    [id] => 38
+    [user_id] => 123
+    [first_name] => LILIANNE GRACE
+    [middle_name] => 
+    [last_name] => TAGUNICAR
+    [relationship] => Mother
+    [contact_number] => 09991655382
+    [email] => roldanoliveros1001@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => SITIO 5
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 17:48:02
+    [address] => Santa Cruz, Bagumbayan, SITIO 5
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Hanniel  Tagunicar
+                    [admission_id] => 92
+                    [user_id] => 123
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:17:46 --> Child Payment Debug: Array
+(
+    [full_name] => Eloise margrethe  Kamatoy
+    [admission_id] => 93
+    [user_id] => 124
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:17:46 --> Parent Debug: Array
+(
+    [id] => 39
+    [user_id] => 124
+    [first_name] => MARILOU
+    [middle_name] => 
+    [last_name] => KAMATOY
+    [relationship] => Mother
+    [contact_number] => 09278495736
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Duhat
+    [street] => 
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 18:01:19
+    [address] => Santa Cruz, Duhat, 
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Eloise margrethe  Kamatoy
+                    [admission_id] => 93
+                    [user_id] => 124
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:18:09 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"124","id":"39","first_name":"MARILOU","middle_name":"","last_name":"KAMATOY","relationship":"Mother","contact_number":"09278495736","email":"loukamatoy@gmail.com","municipality":"Santa Cruz","barangay":"Duhat","street":""}
+INFO - 2025-12-31 19:18:09 --> Updated guardians_account table for guardian_id 39: Success
+INFO - 2025-12-31 19:18:09 --> Updated users table for user_id 124: Success
+DEBUG - 2025-12-31 19:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:18:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:18:16 --> user_id: 1
+DEBUG - 2025-12-31 19:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:18:26 --> user_id: 1
+DEBUG - 2025-12-31 19:18:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:22:36 --> User inserted with ID: 125
+INFO - 2025-12-31 19:22:39 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 19:22:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:22:39 --> Guardian record inserted for user ID: 125
+DEBUG - 2025-12-31 19:22:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:22:40 --> Fetching children for guardian ID: 125
+DEBUG - 2025-12-31 19:22:40 --> Number of children found: 0
+DEBUG - 2025-12-31 19:22:40 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:22:40 --> Current User ID: 125
+DEBUG - 2025-12-31 19:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:22:42 --> Fetching children for guardian ID: 125
+DEBUG - 2025-12-31 19:22:42 --> Number of children found: 0
+DEBUG - 2025-12-31 19:22:42 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:35 --> user_id: 125
+DEBUG - 2025-12-31 19:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:35 --> Fetching children for guardian ID: 125
+DEBUG - 2025-12-31 19:26:35 --> Number of children found: 0
+DEBUG - 2025-12-31 19:26:35 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:26:35 --> Current User ID: 125
+DEBUG - 2025-12-31 19:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:42 --> user_id: 1
+ERROR - 2025-12-31 19:26:46 --> Reason received: ""
+DEBUG - 2025-12-31 19:26:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:50 --> user_id: 1
+DEBUG - 2025-12-31 19:26:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:26:54 --> Admission ID 94 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 19:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:56 --> user_id: 1
+DEBUG - 2025-12-31 19:26:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:26:58 --> user_id: 1
+DEBUG - 2025-12-31 19:27:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 19:27:00 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('94', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 19:27:00 --> Generating QR code for Guardian ID: 69550884d1361
+INFO - 2025-12-31 19:27:00 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69550884d1361.png
+INFO - 2025-12-31 19:27:00 --> getMonthyTuitionFee called for user_id: 94
+INFO - 2025-12-31 19:27:00 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 19:27:00 --> Monthly tuition fee for admission ID 94: 2500
+INFO - 2025-12-31 19:27:00 --> Monthly schedule successfully created for child ID: 94
+WARNING - 2025-12-31 19:27:01 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:27:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:27:01 --> user_id: 1
+DEBUG - 2025-12-31 19:27:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:27:03 --> user_id: 1
+DEBUG - 2025-12-31 19:27:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:27:06 --> Fetching children for guardian ID: 125
+DEBUG - 2025-12-31 19:27:06 --> Number of children found: 1
+DEBUG - 2025-12-31 19:27:06 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 125
+            [admission_id] => 94
+            [full_name] => Gabriel Lorenz Litan
+            [profile_pic] => 1767180395_e1d0989f71cefac5da1e.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 19:27:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:27:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 19:31:03 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(956): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:31:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:03 --> Child Payment Debug: Array
+(
+    [full_name] => Kalisha blaire Si Parilla
+    [admission_id] => 91
+    [user_id] => 122
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Parent Debug: Array
+(
+    [id] => 37
+    [user_id] => 122
+    [first_name] => Clair Jolly
+    [middle_name] => 
+    [last_name] => Si
+    [relationship] => Mother
+    [contact_number] => 09178449343
+    [email] => karencagayat@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Calios
+    [street] => ROAD 2 ATDRAMM VILLAGE
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 16:16:06
+    [address] => Santa Cruz, Calios, ROAD 2 ATDRAMM VILLAGE
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kalisha blaire Si Parilla
+                    [admission_id] => 91
+                    [user_id] => 122
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Child Payment Debug: Array
+(
+    [full_name] => Hanniel  Tagunicar
+    [admission_id] => 92
+    [user_id] => 123
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Parent Debug: Array
+(
+    [id] => 38
+    [user_id] => 123
+    [first_name] => LILIANNE GRACE
+    [middle_name] => 
+    [last_name] => TAGUNICAR
+    [relationship] => Mother
+    [contact_number] => 09991655382
+    [email] => roldanoliveros1001@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => SITIO 5
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 17:48:02
+    [address] => Santa Cruz, Bagumbayan, SITIO 5
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Hanniel  Tagunicar
+                    [admission_id] => 92
+                    [user_id] => 123
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Child Payment Debug: Array
+(
+    [full_name] => Eloise margrethe  Kamatoy
+    [admission_id] => 93
+    [user_id] => 124
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Parent Debug: Array
+(
+    [id] => 39
+    [user_id] => 124
+    [first_name] => MARILOU
+    [middle_name] => 
+    [last_name] => KAMATOY
+    [relationship] => Mother
+    [contact_number] => 09278495736
+    [email] => loukamatoy@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Duhat
+    [street] => 
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 18:01:19
+    [address] => Santa Cruz, Duhat, 
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Eloise margrethe  Kamatoy
+                    [admission_id] => 93
+                    [user_id] => 124
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Child Payment Debug: Array
+(
+    [full_name] => Gabriel lorenz Navarro Litan
+    [admission_id] => 94
+    [user_id] => 125
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 19:31:03 --> Parent Debug: Array
+(
+    [id] => 40
+    [user_id] => 125
+    [first_name] => MA. MARIELLE
+    [middle_name] => 
+    [last_name] => LITAN
+    [relationship] => Mother
+    [contact_number] => 09556756124
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => SITIO 3
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 19:22:36
+    [address] => Santa Cruz, Bagumbayan, SITIO 3
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Gabriel lorenz Navarro Litan
+                    [admission_id] => 94
+                    [user_id] => 125
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 19:31:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:31:32 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"125","id":"40","first_name":"MA. MARIELLE","middle_name":"","last_name":"LITAN","relationship":"Mother","contact_number":"09556756124","email":"litanmayeh@gmail.com","municipality":"Santa Cruz","barangay":"Bagumbayan","street":"SITIO 3"}
+INFO - 2025-12-31 19:31:32 --> Updated guardians_account table for guardian_id 40: Success
+INFO - 2025-12-31 19:31:32 --> Updated users table for user_id 125: Success
+DEBUG - 2025-12-31 19:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:34 --> user_id: 1
+DEBUG - 2025-12-31 19:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:31:49 --> user_id: 1
+DEBUG - 2025-12-31 19:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:32:09 --> user_id: 1
+INFO - 2025-12-31 19:33:45 --> User inserted with ID: 126
+INFO - 2025-12-31 19:33:49 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 19:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:33:49 --> Guardian record inserted for user ID: 126
+DEBUG - 2025-12-31 19:33:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:33:49 --> Fetching children for guardian ID: 126
+DEBUG - 2025-12-31 19:33:49 --> Number of children found: 0
+DEBUG - 2025-12-31 19:33:49 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:33:49 --> Current User ID: 126
+DEBUG - 2025-12-31 19:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:33:52 --> Fetching children for guardian ID: 126
+DEBUG - 2025-12-31 19:33:52 --> Number of children found: 0
+DEBUG - 2025-12-31 19:33:52 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:37:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:37:26 --> user_id: 126
+DEBUG - 2025-12-31 19:37:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:37:27 --> Fetching children for guardian ID: 126
+DEBUG - 2025-12-31 19:37:27 --> Number of children found: 0
+DEBUG - 2025-12-31 19:37:27 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:37:27 --> Current User ID: 126
+DEBUG - 2025-12-31 19:38:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:05 --> user_id: 1
+ERROR - 2025-12-31 19:38:13 --> Reason received: ""
+DEBUG - 2025-12-31 19:38:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:17 --> user_id: 1
+DEBUG - 2025-12-31 19:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:38:21 --> Admission ID 95 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 19:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:23 --> user_id: 1
+DEBUG - 2025-12-31 19:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:26 --> user_id: 1
+DEBUG - 2025-12-31 19:38:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 19:38:28 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('95', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 19:38:28 --> Generating QR code for Guardian ID: 69550b34ca954
+INFO - 2025-12-31 19:38:28 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69550b34ca954.png
+INFO - 2025-12-31 19:38:28 --> getMonthyTuitionFee called for user_id: 95
+INFO - 2025-12-31 19:38:28 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 19:38:28 --> Monthly tuition fee for admission ID 95: 2500
+INFO - 2025-12-31 19:38:28 --> Monthly schedule successfully created for child ID: 95
+WARNING - 2025-12-31 19:38:29 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:38:29 --> user_id: 1
+DEBUG - 2025-12-31 19:38:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:39:05 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"126","id":"41","first_name":"FRANCESCA ANNIES","middle_name":"","last_name":"UNTIVERO","relationship":"Mother","contact_number":"09474558360","email":"francescauntivero@deped.gov.ph","municipality":"Santa Cruz","barangay":"Bagumbayan","street":"BLK 9 LOT 25 LYNVILLE 8"}
+INFO - 2025-12-31 19:39:05 --> Updated guardians_account table for guardian_id 41: Success
+INFO - 2025-12-31 19:39:05 --> Updated users table for user_id 126: Success
+DEBUG - 2025-12-31 19:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:08 --> user_id: 1
+DEBUG - 2025-12-31 19:39:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:14 --> user_id: 1
+DEBUG - 2025-12-31 19:39:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:15 --> user_id: 1
+DEBUG - 2025-12-31 19:39:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:39:27 --> user_id: 1
+DEBUG - 2025-12-31 19:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:40:25 --> Fetching children for guardian ID: 126
+DEBUG - 2025-12-31 19:40:25 --> Number of children found: 1
+DEBUG - 2025-12-31 19:40:25 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 126
+            [admission_id] => 95
+            [full_name] => Sia Cassandra Untivero
+            [profile_pic] => 1767181046_440c2dc482c78741cbaf.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 19:40:25 --> Current User ID: 126
+DEBUG - 2025-12-31 19:40:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:40:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:42:24 --> User inserted with ID: 127
+INFO - 2025-12-31 19:42:28 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 19:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:42:28 --> Guardian record inserted for user ID: 127
+DEBUG - 2025-12-31 19:42:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:42:28 --> Fetching children for guardian ID: 127
+DEBUG - 2025-12-31 19:42:28 --> Number of children found: 0
+DEBUG - 2025-12-31 19:42:28 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:42:28 --> Current User ID: 127
+DEBUG - 2025-12-31 19:42:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:42:31 --> Fetching children for guardian ID: 127
+DEBUG - 2025-12-31 19:42:31 --> Number of children found: 0
+DEBUG - 2025-12-31 19:42:31 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:55:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:25 --> user_id: 127
+DEBUG - 2025-12-31 19:55:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:26 --> Fetching children for guardian ID: 127
+DEBUG - 2025-12-31 19:55:26 --> Number of children found: 0
+DEBUG - 2025-12-31 19:55:26 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 19:55:26 --> Current User ID: 127
+DEBUG - 2025-12-31 19:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:29 --> user_id: 1
+ERROR - 2025-12-31 19:55:33 --> Reason received: ""
+DEBUG - 2025-12-31 19:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:37 --> user_id: 1
+DEBUG - 2025-12-31 19:55:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:55:43 --> Admission ID 96 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 19:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:45 --> user_id: 1
+DEBUG - 2025-12-31 19:55:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:46 --> user_id: 1
+DEBUG - 2025-12-31 19:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 19:55:49 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('96', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 19:55:49 --> Generating QR code for Guardian ID: 69550f450c561
+INFO - 2025-12-31 19:55:49 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69550f450c561.png
+INFO - 2025-12-31 19:55:49 --> getMonthyTuitionFee called for user_id: 96
+INFO - 2025-12-31 19:55:49 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 19:55:49 --> Monthly tuition fee for admission ID 96: 2500
+INFO - 2025-12-31 19:55:49 --> Monthly schedule successfully created for child ID: 96
+WARNING - 2025-12-31 19:55:49 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 19:55:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:55:49 --> user_id: 1
+DEBUG - 2025-12-31 19:55:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 19:56:27 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"127","id":"42","first_name":"CRISTINE","middle_name":"","last_name":"LEDESMA","relationship":"Mother","contact_number":"09278027749","email":"cristine_leonardo@yahoo.com","municipality":"Santa Cruz","barangay":"Patimbao","street":"SITIO 6 AGLAHI SUBD"}
+INFO - 2025-12-31 19:56:27 --> Updated guardians_account table for guardian_id 42: Success
+INFO - 2025-12-31 19:56:27 --> Updated users table for user_id 127: Success
+DEBUG - 2025-12-31 19:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:29 --> user_id: 1
+DEBUG - 2025-12-31 19:56:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:43 --> user_id: 1
+DEBUG - 2025-12-31 19:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:56:51 --> user_id: 1
+DEBUG - 2025-12-31 19:58:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 19:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:00:08 --> User inserted with ID: 128
+INFO - 2025-12-31 20:00:12 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 20:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:00:12 --> Guardian record inserted for user ID: 128
+DEBUG - 2025-12-31 20:00:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:00:12 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:00:12 --> Number of children found: 0
+DEBUG - 2025-12-31 20:00:12 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:00:12 --> Current User ID: 128
+DEBUG - 2025-12-31 20:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:00:19 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:00:19 --> Number of children found: 0
+DEBUG - 2025-12-31 20:00:19 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:03:37 --> user_id: 128
+DEBUG - 2025-12-31 20:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:03:37 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:03:37 --> Number of children found: 0
+DEBUG - 2025-12-31 20:03:37 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:03:37 --> Current User ID: 128
+DEBUG - 2025-12-31 20:03:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:03:45 --> user_id: 1
+ERROR - 2025-12-31 20:03:54 --> Reason received: ""
+DEBUG - 2025-12-31 20:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:03:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:03:58 --> user_id: 1
+DEBUG - 2025-12-31 20:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:04:02 --> Admission ID 97 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 20:04:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:04:04 --> user_id: 1
+DEBUG - 2025-12-31 20:04:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:04:06 --> user_id: 1
+DEBUG - 2025-12-31 20:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 20:04:08 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('97', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 20:04:08 --> Generating QR code for Guardian ID: 69551138e7881
+INFO - 2025-12-31 20:04:08 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69551138e7881.png
+INFO - 2025-12-31 20:04:09 --> getMonthyTuitionFee called for user_id: 97
+INFO - 2025-12-31 20:04:09 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 20:04:09 --> Monthly tuition fee for admission ID 97: 2500
+INFO - 2025-12-31 20:04:09 --> Monthly schedule successfully created for child ID: 97
+WARNING - 2025-12-31 20:04:09 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 20:04:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:04:09 --> user_id: 1
+DEBUG - 2025-12-31 20:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:04:13 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:04:13 --> Number of children found: 1
+DEBUG - 2025-12-31 20:04:13 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 128
+            [admission_id] => 97
+            [full_name] => Josethen Kenamarie Villanueva
+            [profile_pic] => 1767182617_dc67162bec7cefc23598.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 20:04:13 --> Current User ID: 128
+DEBUG - 2025-12-31 20:04:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 20:04:15 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(751): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('128')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 20:04:15 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:04:15 --> Number of children found: 1
+DEBUG - 2025-12-31 20:04:15 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 128
+            [admission_id] => 97
+            [full_name] => Josethen Kenamarie Villanueva
+            [profile_pic] => 1767182617_dc67162bec7cefc23598.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 20:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 20:04:16 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(617): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParentTuition('128')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 20:04:16 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:04:16 --> Number of children found: 1
+DEBUG - 2025-12-31 20:04:16 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 128
+            [admission_id] => 97
+            [full_name] => Josethen Kenamarie Villanueva
+            [profile_pic] => 1767182617_dc67162bec7cefc23598.jpg
+        )
+
+)
+
+WARNING - 2025-12-31 20:04:17 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(601): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->tuition('4', '128')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Children IDs: []
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Partial Payment: 0
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Children Amounts: []
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Children IDs: []
+INFO - 2025-12-31 20:04:17 --> Compute Totals - Partial Payment: 0
+DEBUG - 2025-12-31 20:04:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 20:04:20 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(751): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('128')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 20:04:20 --> Fetching children for guardian ID: 128
+DEBUG - 2025-12-31 20:04:20 --> Number of children found: 1
+DEBUG - 2025-12-31 20:04:20 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 128
+            [admission_id] => 97
+            [full_name] => Josethen Kenamarie Villanueva
+            [profile_pic] => 1767182617_dc67162bec7cefc23598.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 20:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:04:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:44:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:44:32 --> user_id: 1
+DEBUG - 2025-12-31 20:44:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:44:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:44:46 --> user_id: 1
+DEBUG - 2025-12-31 20:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:47:30 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"128","id":"43","first_name":"JENNIFER KRISTEL","middle_name":"","last_name":"VILLANUEVA","relationship":"Mother","contact_number":"09178795041","email":"jenniferkristelcayetano@gmail.com","municipality":"Santa Cruz","barangay":"Patimbao","street":"527"}
+INFO - 2025-12-31 20:47:30 --> Updated guardians_account table for guardian_id 43: Success
+INFO - 2025-12-31 20:47:30 --> Updated users table for user_id 128: Success
+DEBUG - 2025-12-31 20:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:47:33 --> user_id: 1
+DEBUG - 2025-12-31 20:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:47:50 --> user_id: 1
+INFO - 2025-12-31 20:48:57 --> User inserted with ID: 129
+INFO - 2025-12-31 20:49:00 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 20:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:49:00 --> Guardian record inserted for user ID: 129
+DEBUG - 2025-12-31 20:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:49:00 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:49:00 --> Number of children found: 0
+DEBUG - 2025-12-31 20:49:00 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:49:00 --> Current User ID: 129
+DEBUG - 2025-12-31 20:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:50:38 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:50:38 --> Number of children found: 0
+DEBUG - 2025-12-31 20:50:38 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:39 --> user_id: 129
+DEBUG - 2025-12-31 20:53:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:39 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:53:39 --> Number of children found: 0
+DEBUG - 2025-12-31 20:53:39 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:53:39 --> Current User ID: 129
+DEBUG - 2025-12-31 20:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:48 --> user_id: 1
+DEBUG - 2025-12-31 20:53:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:50 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:53:50 --> Number of children found: 0
+DEBUG - 2025-12-31 20:53:50 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:53 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:53:53 --> Number of children found: 0
+DEBUG - 2025-12-31 20:53:53 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:53:53 --> Current User ID: 129
+DEBUG - 2025-12-31 20:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:53:54 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:53:54 --> Number of children found: 0
+DEBUG - 2025-12-31 20:53:54 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:54:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:54:05 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:54:05 --> Number of children found: 0
+DEBUG - 2025-12-31 20:54:05 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:54:05 --> Current User ID: 129
+ERROR - 2025-12-31 20:54:52 --> Reason received: ""
+DEBUG - 2025-12-31 20:54:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:54:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:54:56 --> user_id: 1
+DEBUG - 2025-12-31 20:55:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:55:01 --> Admission ID 98 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 20:55:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:55:03 --> user_id: 1
+DEBUG - 2025-12-31 20:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:55:05 --> user_id: 1
+DEBUG - 2025-12-31 20:55:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 20:55:08 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('98', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 20:55:08 --> Generating QR code for Guardian ID: 69551d2cf15a8
+INFO - 2025-12-31 20:55:09 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69551d2cf15a8.png
+INFO - 2025-12-31 20:55:09 --> getMonthyTuitionFee called for user_id: 98
+INFO - 2025-12-31 20:55:09 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 20:55:09 --> Monthly tuition fee for admission ID 98: 2500
+INFO - 2025-12-31 20:55:09 --> Monthly schedule successfully created for child ID: 98
+WARNING - 2025-12-31 20:55:09 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 20:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:55:09 --> user_id: 1
+DEBUG - 2025-12-31 20:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:55:12 --> Fetching children for guardian ID: 129
+DEBUG - 2025-12-31 20:55:12 --> Number of children found: 1
+DEBUG - 2025-12-31 20:55:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 129
+            [admission_id] => 98
+            [full_name] => Amiyah Emerithz Lim
+            [profile_pic] => 1767185619_8e187498565e049c7396.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 20:55:12 --> Current User ID: 129
+DEBUG - 2025-12-31 20:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:57:47 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"129","id":"44","first_name":"ANALYN","middle_name":"","last_name":"CAI SHI","relationship":"Mother","contact_number":"09272333769","email":"roldanoliveros1002@gmail.com","municipality":"Pagsanjan","barangay":"Bi\u00f1an","street":""}
+INFO - 2025-12-31 20:57:47 --> Updated guardians_account table for guardian_id 44: Success
+INFO - 2025-12-31 20:57:47 --> Updated users table for user_id 129: Success
+DEBUG - 2025-12-31 20:57:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:57:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:57:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:57:50 --> user_id: 1
+DEBUG - 2025-12-31 20:58:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:58:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:58:06 --> user_id: 1
+INFO - 2025-12-31 20:59:32 --> User inserted with ID: 130
+INFO - 2025-12-31 20:59:35 --> Guardian email sent to: roldanoliveros0612@gmail.com
+DEBUG - 2025-12-31 20:59:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 20:59:35 --> Guardian record inserted for user ID: 130
+DEBUG - 2025-12-31 20:59:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:59:36 --> Fetching children for guardian ID: 130
+DEBUG - 2025-12-31 20:59:36 --> Number of children found: 0
+DEBUG - 2025-12-31 20:59:36 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 20:59:36 --> Current User ID: 130
+DEBUG - 2025-12-31 20:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 20:59:38 --> Fetching children for guardian ID: 130
+DEBUG - 2025-12-31 20:59:38 --> Number of children found: 0
+DEBUG - 2025-12-31 20:59:38 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 21:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:06:23 --> user_id: 1
+DEBUG - 2025-12-31 21:06:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:06:23 --> user_id: 1
+DEBUG - 2025-12-31 21:09:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:27 --> user_id: 130
+DEBUG - 2025-12-31 21:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:27 --> Fetching children for guardian ID: 130
+DEBUG - 2025-12-31 21:11:27 --> Number of children found: 0
+DEBUG - 2025-12-31 21:11:27 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 21:11:27 --> Current User ID: 130
+DEBUG - 2025-12-31 21:11:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:31 --> user_id: 1
+ERROR - 2025-12-31 21:11:38 --> Reason received: ""
+DEBUG - 2025-12-31 21:11:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:42 --> user_id: 1
+DEBUG - 2025-12-31 21:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 21:11:46 --> Admission ID 99 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 21:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:48 --> user_id: 1
+DEBUG - 2025-12-31 21:11:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:50 --> user_id: 1
+DEBUG - 2025-12-31 21:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 21:11:53 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('99', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 21:11:53 --> Generating QR code for Guardian ID: 69552119370fa
+INFO - 2025-12-31 21:11:53 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69552119370fa.png
+INFO - 2025-12-31 21:11:53 --> getMonthyTuitionFee called for user_id: 99
+INFO - 2025-12-31 21:11:53 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 21:11:53 --> Monthly tuition fee for admission ID 99: 2500
+INFO - 2025-12-31 21:11:53 --> Monthly schedule successfully created for child ID: 99
+WARNING - 2025-12-31 21:11:53 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 21:11:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:11:53 --> user_id: 1
+DEBUG - 2025-12-31 21:12:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:12:05 --> Fetching children for guardian ID: 130
+DEBUG - 2025-12-31 21:12:05 --> Number of children found: 1
+DEBUG - 2025-12-31 21:12:05 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 130
+            [admission_id] => 99
+            [full_name] => Eonna Zerrilmarasigan Bartolome
+            [profile_pic] => 1767186687_3ac2e06481119341b47b.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 21:12:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:14:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:15:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:15:34 --> user_id: 1
+DEBUG - 2025-12-31 21:15:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 21:15:44 --> Guardian Update POST data: {"csrf_test_name":"c079266d3c8df4c00f64ad6f95dfb68b","existingPicture":"default.webp","user_id":"130","id":"45","first_name":"ZERRINA","middle_name":"","last_name":"BARTOLOME","relationship":"Mother","contact_number":"09456709396","email":"zemarasigan@gmail.com","municipality":"Santa Cruz","barangay":"Calios","street":"PUROK MARCELO"}
+INFO - 2025-12-31 21:15:44 --> Updated guardians_account table for guardian_id 45: Success
+INFO - 2025-12-31 21:15:44 --> Updated users table for user_id 130: Success
+DEBUG - 2025-12-31 21:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:16:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:16:04 --> user_id: 1
+DEBUG - 2025-12-31 21:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 21:16:45 --> user_id: 1
+DEBUG - 2025-12-31 23:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 23:27:05 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 23:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:27:05 --> user_id: 1
+DEBUG - 2025-12-31 23:27:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:27:08 --> user_id: 1
+WARNING - 2025-12-31 23:27:11 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(956): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->payment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 23:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Kalisha blaire Si Parilla
+    [admission_id] => 91
+    [user_id] => 122
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 37
+    [user_id] => 122
+    [first_name] => Clair Jolly
+    [middle_name] => 
+    [last_name] => Si
+    [relationship] => Mother
+    [contact_number] => 09178449343
+    [email] => karencagayat@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Calios
+    [street] => ROAD 2 ATDRAMM VILLAGE
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 16:16:06
+    [address] => Santa Cruz, Calios, ROAD 2 ATDRAMM VILLAGE
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kalisha blaire Si Parilla
+                    [admission_id] => 91
+                    [user_id] => 122
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Hanniel  Tagunicar
+    [admission_id] => 92
+    [user_id] => 123
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 38
+    [user_id] => 123
+    [first_name] => LILIANNE GRACE
+    [middle_name] => 
+    [last_name] => TAGUNICAR
+    [relationship] => Mother
+    [contact_number] => 09991655382
+    [email] => roldanoliveros1001@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => SITIO 5
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 17:48:02
+    [address] => Santa Cruz, Bagumbayan, SITIO 5
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Hanniel  Tagunicar
+                    [admission_id] => 92
+                    [user_id] => 123
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Eloise margrethe  Kamatoy
+    [admission_id] => 93
+    [user_id] => 124
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 39
+    [user_id] => 124
+    [first_name] => MARILOU
+    [middle_name] => 
+    [last_name] => KAMATOY
+    [relationship] => Mother
+    [contact_number] => 09278495736
+    [email] => loukamatoy@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Duhat
+    [street] => 
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 18:01:19
+    [address] => Santa Cruz, Duhat, 
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Eloise margrethe  Kamatoy
+                    [admission_id] => 93
+                    [user_id] => 124
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Gabriel lorenz Navarro Litan
+    [admission_id] => 94
+    [user_id] => 125
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 40
+    [user_id] => 125
+    [first_name] => MA. MARIELLE
+    [middle_name] => 
+    [last_name] => LITAN
+    [relationship] => Mother
+    [contact_number] => 09556756124
+    [email] => litanmayeh@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => SITIO 3
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 19:22:36
+    [address] => Santa Cruz, Bagumbayan, SITIO 3
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Gabriel lorenz Navarro Litan
+                    [admission_id] => 94
+                    [user_id] => 125
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Sia cassandra Lopez Untivero
+    [admission_id] => 95
+    [user_id] => 126
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 41
+    [user_id] => 126
+    [first_name] => FRANCESCA ANNIES
+    [middle_name] => 
+    [last_name] => UNTIVERO
+    [relationship] => Mother
+    [contact_number] => 09474558360
+    [email] => francescauntivero@deped.gov.ph
+    [municipality] => Santa Cruz
+    [barangay] => Bagumbayan
+    [street] => BLK 9 LOT 25 LYNVILLE 8
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 19:33:45
+    [address] => Santa Cruz, Bagumbayan, BLK 9 LOT 25 LYNVILLE 8
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Sia cassandra Lopez Untivero
+                    [admission_id] => 95
+                    [user_id] => 126
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Alonzo isaac  Ledesma
+    [admission_id] => 96
+    [user_id] => 127
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 42
+    [user_id] => 127
+    [first_name] => CRISTINE
+    [middle_name] => 
+    [last_name] => LEDESMA
+    [relationship] => Mother
+    [contact_number] => 09278027749
+    [email] => cristine_leonardo@yahoo.com
+    [municipality] => Santa Cruz
+    [barangay] => Patimbao
+    [street] => SITIO 6 AGLAHI SUBD
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 19:42:24
+    [address] => Santa Cruz, Patimbao, SITIO 6 AGLAHI SUBD
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Alonzo isaac  Ledesma
+                    [admission_id] => 96
+                    [user_id] => 127
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Josethen kenamarie  Villanueva
+    [admission_id] => 97
+    [user_id] => 128
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 43
+    [user_id] => 128
+    [first_name] => JENNIFER KRISTEL
+    [middle_name] => 
+    [last_name] => VILLANUEVA
+    [relationship] => Mother
+    [contact_number] => 09178795041
+    [email] => jenniferkristelcayetano@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Patimbao
+    [street] => 527
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 20:00:08
+    [address] => Santa Cruz, Patimbao, 527
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Josethen kenamarie  Villanueva
+                    [admission_id] => 97
+                    [user_id] => 128
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Amiyah emerithz Shi Lim
+    [admission_id] => 98
+    [user_id] => 129
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 44
+    [user_id] => 129
+    [first_name] => ANALYN
+    [middle_name] => 
+    [last_name] => CAI SHI
+    [relationship] => Mother
+    [contact_number] => 09272333769
+    [email] => roldanoliveros1002@gmail.com
+    [municipality] => Pagsanjan
+    [barangay] => Biñan
+    [street] => 
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 20:48:57
+    [address] => Pagsanjan, Biñan, 
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Amiyah emerithz Shi Lim
+                    [admission_id] => 98
+                    [user_id] => 129
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Child Payment Debug: Array
+(
+    [full_name] => Eonna zerrilmarasigan  Bartolome
+    [admission_id] => 99
+    [user_id] => 130
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Parent Debug: Array
+(
+    [id] => 45
+    [user_id] => 130
+    [first_name] => ZERRINA
+    [middle_name] => 
+    [last_name] => BARTOLOME
+    [relationship] => Mother
+    [contact_number] => 09456709396
+    [email] => zemarasigan@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Calios
+    [street] => PUROK MARCELO
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-31 20:59:32
+    [address] => Santa Cruz, Calios, PUROK MARCELO
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Eonna zerrilmarasigan  Bartolome
+                    [admission_id] => 99
+                    [user_id] => 130
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-31 23:27:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:28:26 --> User inserted with ID: 131
+INFO - 2025-12-31 23:28:30 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 23:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:28:30 --> Guardian record inserted for user ID: 131
+DEBUG - 2025-12-31 23:28:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:28:30 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:28:30 --> Number of children found: 0
+DEBUG - 2025-12-31 23:28:30 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:28:30 --> Current User ID: 131
+DEBUG - 2025-12-31 23:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:28:38 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:28:38 --> Number of children found: 0
+DEBUG - 2025-12-31 23:28:38 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:31:31 --> user_id: 131
+DEBUG - 2025-12-31 23:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:31:31 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:31:31 --> Number of children found: 0
+DEBUG - 2025-12-31 23:31:31 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:31:31 --> Current User ID: 131
+DEBUG - 2025-12-31 23:31:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:31:35 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:31:35 --> Number of children found: 0
+DEBUG - 2025-12-31 23:31:35 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:31:35 --> Current User ID: 131
+DEBUG - 2025-12-31 23:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:31:45 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:31:45 --> Number of children found: 0
+DEBUG - 2025-12-31 23:31:45 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:31:45 --> Current User ID: 131
+DEBUG - 2025-12-31 23:32:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:15 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:32:15 --> Number of children found: 0
+DEBUG - 2025-12-31 23:32:15 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:32:15 --> Current User ID: 131
+DEBUG - 2025-12-31 23:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:39 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:32:39 --> Number of children found: 0
+DEBUG - 2025-12-31 23:32:39 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:32:39 --> Current User ID: 131
+DEBUG - 2025-12-31 23:32:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:47 --> Invalid username or password
+DEBUG - 2025-12-31 23:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:32:52 --> Invalid username or password
+DEBUG - 2025-12-31 23:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:10 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:33:10 --> Number of children found: 0
+DEBUG - 2025-12-31 23:33:10 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:33:10 --> Current User ID: 131
+DEBUG - 2025-12-31 23:33:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:29 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:33:29 --> Number of children found: 0
+DEBUG - 2025-12-31 23:33:29 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:37 --> user_id: 1
+ERROR - 2025-12-31 23:33:44 --> Reason received: ""
+DEBUG - 2025-12-31 23:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:48 --> user_id: 1
+DEBUG - 2025-12-31 23:33:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:33:52 --> Admission ID 100 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 23:33:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:54 --> user_id: 1
+DEBUG - 2025-12-31 23:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:33:56 --> user_id: 1
+DEBUG - 2025-12-31 23:33:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 23:33:59 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('100', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 23:33:59 --> Generating QR code for Guardian ID: 69554267b51eb
+INFO - 2025-12-31 23:33:59 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/69554267b51eb.png
+INFO - 2025-12-31 23:33:59 --> getMonthyTuitionFee called for user_id: 100
+INFO - 2025-12-31 23:33:59 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 23:33:59 --> Monthly tuition fee for admission ID 100: 2500
+INFO - 2025-12-31 23:33:59 --> Monthly schedule successfully created for child ID: 100
+WARNING - 2025-12-31 23:34:00 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 23:34:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:00 --> user_id: 1
+DEBUG - 2025-12-31 23:34:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:04 --> user_id: 1
+DEBUG - 2025-12-31 23:34:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:15 --> user_id: 1
+DEBUG - 2025-12-31 23:34:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:18 --> user_id: 1
+DEBUG - 2025-12-31 23:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:31 --> user_id: 1
+DEBUG - 2025-12-31 23:34:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:34:48 --> Guardian Update POST data: {"csrf_test_name":"de6c41ebbf2288848fd07f4df6dc3d46","existingPicture":"default.webp","user_id":"131","id":"46","first_name":"JOSHUAN","middle_name":"","last_name":"PEREZ","relationship":"Father","contact_number":"09567382694","email":"defiestaveronica4@gmail.com","municipality":"Santa Cruz","barangay":"Bagumbayan","street":""}
+INFO - 2025-12-31 23:34:48 --> Updated guardians_account table for guardian_id 46: Success
+INFO - 2025-12-31 23:34:48 --> Updated users table for user_id 131: Success
+DEBUG - 2025-12-31 23:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:55 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:34:55 --> Number of children found: 1
+DEBUG - 2025-12-31 23:34:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 131
+            [admission_id] => 100
+            [full_name] => Troy Perez
+            [profile_pic] => 1767195091_06566f913f7f8d6735cc.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 23:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:34:57 --> Fetching children for guardian ID: 131
+DEBUG - 2025-12-31 23:34:57 --> Number of children found: 1
+DEBUG - 2025-12-31 23:34:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 131
+            [admission_id] => 100
+            [full_name] => Troy Perez
+            [profile_pic] => 1767195091_06566f913f7f8d6735cc.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 23:34:57 --> Current User ID: 131
+DEBUG - 2025-12-31 23:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:36:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:38:33 --> User inserted with ID: 132
+INFO - 2025-12-31 23:38:37 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 23:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:38:37 --> Guardian record inserted for user ID: 132
+DEBUG - 2025-12-31 23:38:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:38:37 --> Fetching children for guardian ID: 132
+DEBUG - 2025-12-31 23:38:37 --> Number of children found: 0
+DEBUG - 2025-12-31 23:38:37 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:38:37 --> Current User ID: 132
+DEBUG - 2025-12-31 23:38:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:38:40 --> Fetching children for guardian ID: 132
+DEBUG - 2025-12-31 23:38:40 --> Number of children found: 0
+DEBUG - 2025-12-31 23:38:40 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:41:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:41:39 --> user_id: 132
+DEBUG - 2025-12-31 23:41:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:41:40 --> Fetching children for guardian ID: 132
+DEBUG - 2025-12-31 23:41:40 --> Number of children found: 0
+DEBUG - 2025-12-31 23:41:40 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:41:40 --> Current User ID: 132
+DEBUG - 2025-12-31 23:41:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:41:47 --> user_id: 1
+ERROR - 2025-12-31 23:41:51 --> Reason received: ""
+DEBUG - 2025-12-31 23:41:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:41:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:41:55 --> user_id: 1
+DEBUG - 2025-12-31 23:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:41:59 --> Admission ID 101 status updated to 'Pre-enrollee' by admin. Reason: None
+DEBUG - 2025-12-31 23:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:01 --> user_id: 1
+DEBUG - 2025-12-31 23:42:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:02 --> user_id: 1
+DEBUG - 2025-12-31 23:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-31 23:42:04 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Models\StudentModel.php(557): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 APPPATH\Controllers\Payment.php(620): App\Models\StudentModel->processCashPayment('101', '2000.00', 'Cash', '2025-12-31', '18')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payCashEnrollment()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+INFO - 2025-12-31 23:42:04 --> Generating QR code for Guardian ID: 6955444cee35f
+INFO - 2025-12-31 23:42:05 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\capstone\public/assets/qrstudentId/6955444cee35f.png
+INFO - 2025-12-31 23:42:05 --> getMonthyTuitionFee called for user_id: 101
+INFO - 2025-12-31 23:42:05 --> Monthly tuition fee retrieved: 2500
+INFO - 2025-12-31 23:42:05 --> Monthly tuition fee for admission ID 101: 2500
+INFO - 2025-12-31 23:42:05 --> Monthly schedule successfully created for child ID: 101
+WARNING - 2025-12-31 23:42:05 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\AdminController.php(43): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-31 23:42:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:05 --> user_id: 1
+DEBUG - 2025-12-31 23:42:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:06 --> Fetching children for guardian ID: 132
+DEBUG - 2025-12-31 23:42:06 --> Number of children found: 1
+DEBUG - 2025-12-31 23:42:06 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 132
+            [admission_id] => 101
+            [full_name] => Seth Levin Perante
+            [profile_pic] => 1767195699_9783a797bc6c328cecee.jpg
+        )
+
+)
+
+DEBUG - 2025-12-31 23:42:06 --> Current User ID: 132
+DEBUG - 2025-12-31 23:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:27 --> user_id: 1
+DEBUG - 2025-12-31 23:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:40 --> user_id: 1
+DEBUG - 2025-12-31 23:42:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:42:56 --> Guardian Update POST data: {"csrf_test_name":"de6c41ebbf2288848fd07f4df6dc3d46","existingPicture":"default.webp","user_id":"132","id":"47","first_name":"LIZA","middle_name":"","last_name":"PERANTE","relationship":"Mother","contact_number":"09681100977","email":"liza.perante@deped.gov.ph","municipality":"Santa Cruz","barangay":"Patimbao","street":"005 SITIO 3"}
+INFO - 2025-12-31 23:42:56 --> Updated guardians_account table for guardian_id 47: Success
+INFO - 2025-12-31 23:42:56 --> Updated users table for user_id 132: Success
+DEBUG - 2025-12-31 23:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:57:36 --> User inserted with ID: 133
+INFO - 2025-12-31 23:57:39 --> Guardian email sent to: roldanoliveros0621@gmail.com
+DEBUG - 2025-12-31 23:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-12-31 23:57:39 --> Guardian record inserted for user ID: 133
+DEBUG - 2025-12-31 23:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-31 23:57:40 --> Fetching children for guardian ID: 133
+DEBUG - 2025-12-31 23:57:40 --> Number of children found: 0
+DEBUG - 2025-12-31 23:57:40 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-31 23:57:40 --> Current User ID: 133

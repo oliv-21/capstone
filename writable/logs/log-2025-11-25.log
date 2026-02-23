@@ -1,0 +1,2004 @@
+DEBUG - 2025-11-25 14:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:17:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:17:50 --> user_id: 1
+DEBUG - 2025-11-25 14:17:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:17:53 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:17:53 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:17:53 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 14:17:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:17:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:17:55 --> Number of children found: 2
+DEBUG - 2025-11-25 14:17:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 2000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1500.00
+        )
+
+)
+
+INFO - 2025-11-25 14:18:16 --> payCashMics called. PlanID: 3, AmountPaid: 1000, Email: roldanliveros092@gmail.com, PaymentType: cash, Children: ["71","25"]
+INFO - 2025-11-25 14:18:16 --> Active opening ID: 7
+INFO - 2025-11-25 14:18:16 --> Executing payonlinemiscellaneous for PlanID 3.
+INFO - 2025-11-25 14:18:16 --> --- START: payonlinefulltuition ---
+INFO - 2025-11-25 14:18:16 --> Incoming Data: Children: ["71","25"], AmountPaid: 1000, PlanID: 3, Method: cash
+INFO - 2025-11-25 14:18:16 --> Plan Retrieved: Total Amount 8000.00
+INFO - 2025-11-25 14:18:16 --> Per Child Computation: 500
+INFO - 2025-11-25 14:18:16 --> Processing ChildID: 71
+INFO - 2025-11-25 14:18:16 --> NO Previous Payment Found. Using Full Plan Amount 8000.00
+INFO - 2025-11-25 14:18:16 --> Computed Remaining for Child 71: 7500
+INFO - 2025-11-25 14:18:16 --> INSERTED PAYMENT: {"user_id":"71","plan_id":3,"amount_paid":500,"remaining_balance":7500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending"}
+INFO - 2025-11-25 14:18:16 --> Processing ChildID: 25
+INFO - 2025-11-25 14:18:16 --> NO Previous Payment Found. Using Full Plan Amount 8000.00
+INFO - 2025-11-25 14:18:16 --> Computed Remaining for Child 25: 7500
+INFO - 2025-11-25 14:18:16 --> INSERTED PAYMENT: {"user_id":"25","plan_id":3,"amount_paid":500,"remaining_balance":7500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending"}
+INFO - 2025-11-25 14:18:16 --> --- END: payonlinefulltuition ---
+INFO - 2025-11-25 14:18:16 --> Payment processing completed for PlanID 3
+DEBUG - 2025-11-25 14:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:18:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:18:16 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:18:16 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:18:16 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 14:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:18:18 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:18:18 --> Number of children found: 2
+DEBUG - 2025-11-25 14:18:18 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 7500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 7500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 14:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:24:36 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:24:36 --> Number of children found: 2
+DEBUG - 2025-11-25 14:24:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 2000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1500.00
+        )
+
+)
+
+INFO - 2025-11-25 14:24:53 --> payCashMics called. PlanID: 3, AmountPaid: 1000, Email: roldanoliveros0921@gmail.com, PaymentType: cash, Children: ["71","25"]
+INFO - 2025-11-25 14:24:53 --> Active opening ID: 7
+INFO - 2025-11-25 14:24:53 --> Executing payonlinemiscellaneous for PlanID 3.
+INFO - 2025-11-25 14:24:53 --> --- START: payonlinefulltuition ---
+INFO - 2025-11-25 14:24:53 --> Incoming Data: Children: ["71","25"], AmountPaid: 1000, PlanID: 3, Method: cash
+INFO - 2025-11-25 14:24:53 --> Plan Retrieved: Total Amount 8000.00
+INFO - 2025-11-25 14:24:53 --> Per Child Computation: 500
+INFO - 2025-11-25 14:24:53 --> Processing ChildID: 71
+INFO - 2025-11-25 14:24:53 --> NO Previous Payment Found. Using Full Plan Amount 8000.00
+INFO - 2025-11-25 14:24:53 --> Computed Remaining for Child 71: 7500
+INFO - 2025-11-25 14:24:53 --> INSERTED PAYMENT: {"user_id":"71","plan_id":3,"amount_paid":500,"remaining_balance":7500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending"}
+INFO - 2025-11-25 14:24:53 --> Processing ChildID: 25
+INFO - 2025-11-25 14:24:53 --> NO Previous Payment Found. Using Full Plan Amount 8000.00
+INFO - 2025-11-25 14:24:53 --> Computed Remaining for Child 25: 7500
+INFO - 2025-11-25 14:24:53 --> INSERTED PAYMENT: {"user_id":"25","plan_id":3,"amount_paid":500,"remaining_balance":7500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending"}
+INFO - 2025-11-25 14:24:53 --> --- END: payonlinefulltuition ---
+INFO - 2025-11-25 14:24:53 --> Payment processing completed for PlanID 3
+DEBUG - 2025-11-25 14:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:24:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:24:53 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:24:53 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:24:53 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 14:24:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:24:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:24:55 --> Number of children found: 2
+DEBUG - 2025-11-25 14:24:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 7500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 7500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:25:31 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:25:31 --> Number of children found: 2
+DEBUG - 2025-11-25 14:25:31 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 2000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1500.00
+        )
+
+)
+
+INFO - 2025-11-25 14:25:49 --> payCashMics called. PlanID: 3, AmountPaid: 1000, Email: roldanoliveros0921@gmail.com, PaymentType: cash, Children: ["71","25"]
+INFO - 2025-11-25 14:25:49 --> Active opening ID: 7
+INFO - 2025-11-25 14:25:49 --> Executing payonlinemiscellaneous for PlanID 3.
+INFO - 2025-11-25 14:25:49 --> --- START: paycashTuitionMonthly (DIVIDED) ---
+INFO - 2025-11-25 14:25:49 --> Incoming Children: ["71","25"]
+INFO - 2025-11-25 14:25:49 --> Total Paid = 1000, Per Child = 500
+INFO - 2025-11-25 14:25:49 --> Inserted Payment: {"user_id":"71","amount_paid":500,"remaining_balance":1500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":3}
+INFO - 2025-11-25 14:25:49 --> Inserted Payment: {"user_id":"25","amount_paid":500,"remaining_balance":1000,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":3}
+INFO - 2025-11-25 14:25:49 --> --- END: paycashTuitionMonthly (DIVIDED) ---
+INFO - 2025-11-25 14:25:49 --> Payment processing completed for PlanID 3
+DEBUG - 2025-11-25 14:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:25:49 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:25:49 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 14:25:49 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 14:25:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:25:52 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:25:52 --> Number of children found: 2
+DEBUG - 2025-11-25 14:25:52 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1000.00
+        )
+
+)
+
+DEBUG - 2025-11-25 14:29:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:29:54 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:29:54 --> Number of children found: 2
+DEBUG - 2025-11-25 14:29:54 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 14:29:54 --> Current User ID: 66
+DEBUG - 2025-11-25 14:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:29:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:30:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:30:00 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:30:00 --> Number of children found: 2
+DEBUG - 2025-11-25 14:30:00 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 14:30:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:30:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:30:04 --> Number of children found: 2
+DEBUG - 2025-11-25 14:30:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 14:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 14:51:42 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 14:51:42 --> Number of children found: 2
+DEBUG - 2025-11-25 14:51:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:15:12 --> Number of children found: 2
+DEBUG - 2025-11-25 17:15:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:15:12 --> Current User ID: 66
+DEBUG - 2025-11-25 17:15:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:14 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:15:14 --> Number of children found: 2
+DEBUG - 2025-11-25 17:15:14 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:17 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:15:17 --> Number of children found: 2
+DEBUG - 2025-11-25 17:15:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:43 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:15:43 --> Number of children found: 2
+DEBUG - 2025-11-25 17:15:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:15:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:15:58 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:15:58 --> Number of children found: 2
+DEBUG - 2025-11-25 17:15:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:31:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:31:31 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:31:31 --> Number of children found: 2
+DEBUG - 2025-11-25 17:31:31 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:31:31 --> Current User ID: 66
+DEBUG - 2025-11-25 17:31:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:31:34 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:31:34 --> Number of children found: 2
+DEBUG - 2025-11-25 17:31:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:31:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:31:36 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:31:36 --> Number of children found: 2
+DEBUG - 2025-11-25 17:31:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:32:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:32:09 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:32:09 --> Number of children found: 2
+DEBUG - 2025-11-25 17:32:09 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 17:32:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 17:32:24 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 17:32:24 --> Number of children found: 2
+DEBUG - 2025-11-25 17:32:24 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:31 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:21:31 --> Number of children found: 2
+DEBUG - 2025-11-25 20:21:31 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:21:31 --> Current User ID: 66
+DEBUG - 2025-11-25 20:21:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:33 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:21:33 --> Number of children found: 2
+DEBUG - 2025-11-25 20:21:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:21:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:21:35 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:21:35 --> Number of children found: 2
+DEBUG - 2025-11-25 20:21:35 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:30:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-25 20:30:34 --> Payment Data: amount=4000, fullname=roldanoliveros, email=roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["71","25"], planId=4,pay_type=monthly,paymentDate2025-11-25
+DEBUG - 2025-11-25 20:30:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-11-25 20:30:39 --> --- START: paycashTuitionMonthly ---
+INFO - 2025-11-25 20:30:39 --> Incoming Children: ["71","25"]
+INFO - 2025-11-25 20:30:39 --> Processing ChildID: 71
+INFO - 2025-11-25 20:30:39 --> Class Info: Tuition=25000 Monthly=2500 Misc=2000
+INFO - 2025-11-25 20:30:39 --> Existing Payment: OldRemain=20000.00 NewRemain=17500
+INFO - 2025-11-25 20:30:39 --> Inserted Payment: {"user_id":"71","amount_paid":"2500","remaining_balance":17500,"payment_method":"Online","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":4}
+INFO - 2025-11-25 20:30:39 --> Processing ChildID: 25
+INFO - 2025-11-25 20:30:39 --> Class Info: Tuition=15000 Monthly=1500 Misc=1500
+INFO - 2025-11-25 20:30:39 --> Existing Payment: OldRemain=10000.00 NewRemain=8500
+INFO - 2025-11-25 20:30:39 --> Inserted Payment: {"user_id":"25","amount_paid":"1500","remaining_balance":8500,"payment_method":"Online","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":4}
+INFO - 2025-11-25 20:30:39 --> --- END: paycashTuitionMonthly ---
+INFO - 2025-11-25 20:30:48 --> Payment receipt PDF emailed to: roldanoliveros0921@gmail.com
+DEBUG - 2025-11-25 20:30:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:30:48 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:30:48 --> Number of children found: 2
+DEBUG - 2025-11-25 20:30:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:30:48 --> Current User ID: 66
+DEBUG - 2025-11-25 20:30:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:30:53 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:30:53 --> Number of children found: 2
+DEBUG - 2025-11-25 20:30:53 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:02 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:31:02 --> Number of children found: 2
+DEBUG - 2025-11-25 20:31:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:53 --> user_id: 1
+DEBUG - 2025-11-25 20:31:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:56 --> user_id: 1
+DEBUG - 2025-11-25 20:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:31:58 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:31:58 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:31:58 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 20:32:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:00 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:32:00 --> Number of children found: 2
+DEBUG - 2025-11-25 20:32:00 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:07 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:32:07 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:32:07 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 20:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:08 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:32:08 --> Number of children found: 2
+DEBUG - 2025-11-25 20:32:08 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1000.00
+        )
+
+)
+
+INFO - 2025-11-25 20:32:38 --> payCashMics called. PlanID: 3, AmountPaid: 1000, Email: roldanoliveros0921@gmail.com, PaymentType: cash, Children: ["71","25"]
+INFO - 2025-11-25 20:32:38 --> Active opening ID: 7
+INFO - 2025-11-25 20:32:38 --> Executing payonlinemiscellaneous for PlanID 3.
+INFO - 2025-11-25 20:32:38 --> --- START: paycashTuitionMonthly (DIVIDED) ---
+INFO - 2025-11-25 20:32:38 --> Incoming Children: ["71","25"]
+INFO - 2025-11-25 20:32:38 --> Total Paid = 1000, Per Child = 500
+INFO - 2025-11-25 20:32:38 --> Inserted Payment: {"user_id":"71","amount_paid":500,"remaining_balance":1000,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":3}
+INFO - 2025-11-25 20:32:38 --> Inserted Payment: {"user_id":"25","amount_paid":500,"remaining_balance":500,"payment_method":"cash","payment_date":"2025-11-25","status":"Pending","opening_id":"7","plan_id":3}
+INFO - 2025-11-25 20:32:38 --> --- END: paycashTuitionMonthly (DIVIDED) ---
+INFO - 2025-11-25 20:32:38 --> Payment processing completed for PlanID 3
+DEBUG - 2025-11-25 20:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:38 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:32:38 --> Child Payment Debug: Array
+(
+    [full_name] => Roldan Araneta Oliveros
+    [admission_id] => 71
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-11-25 20:32:38 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Araneta
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => 1761732445_677643c97dd7d53cb001.jpg
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Roldan Araneta Oliveros
+                    [admission_id] => 71
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-11-25 20:32:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:32:40 --> Number of children found: 4
+DEBUG - 2025-11-25 20:32:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1000.00
+        )
+
+    [3] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:32:44 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:32:44 --> Number of children found: 4
+DEBUG - 2025-11-25 20:32:44 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1000.00
+        )
+
+    [3] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:39:44 --> Fetching children for guardian ID: 66
+ERROR - 2025-11-25 20:39:44 --> mysqli_sql_exception: Unknown column 'p1.id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `a`.`use...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`use...')
+#2 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`use...')
+#3 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`use...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Models\Admission_Model.php(187): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+#6 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+#7 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\copstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-11-25 20:39:44 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p1.id' in 'where clause'
+[Method: GET, Route: admin-paymentInfo/66]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 2 APPPATH\Models\Admission_Model.php(187): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-25 20:39:44 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p1.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 4 APPPATH\Models\Admission_Model.php(187): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-25 20:39:44 --> [Caused by] mysqli_sql_exception: Unknown column 'p1.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN `guardiansaccount` `g` ON `g`.`user_id` = `a`.`user_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 5 APPPATH\Models\Admission_Model.php(187): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-25 20:39:56 --> ParseError: syntax error, unexpected identifier "ppublic", expecting "function" or "const"
+[Method: GET, Route: admin-paymentInfo/66]
+in APPPATH\Models\Admission_Model.php on line 154.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Admission_Model.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\Admission_Model')
+ 3 APPPATH\Controllers\AdminController.php(1262): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\Admission_Model')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-25 20:40:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:40:04 --> Fetching children for guardian ID: 66
+ERROR - 2025-11-25 20:40:04 --> mysqli_sql_exception: Unknown column 'p1.id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `a`.`use...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`use...')
+#2 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`use...')
+#3 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`use...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Models\Admission_Model.php(188): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+#6 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+#7 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\copstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-11-25 20:40:04 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p1.id' in 'where clause'
+[Method: GET, Route: admin-paymentInfo/66]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 2 APPPATH\Models\Admission_Model.php(188): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-25 20:40:04 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'p1.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 4 APPPATH\Models\Admission_Model.php(188): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-11-25 20:40:04 --> [Caused by] mysqli_sql_exception: Unknown column 'p1.id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = \'66\'
+AND `a`.`status` = \'Enrolled\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `a`.`user_id` AS `guardian_id`, `a`.`admission_id`, CONCAT(a.last_name, \' \', a.first_name) AS full_name, `s`.`profile_pic`, COALESCE(p.remaining_balance, c.miscellaneous) AS remaining_balance
+FROM `admissions` `a`
+LEFT JOIN 
+        (SELECT user_id, remaining_balance
+         FROM payments p1
+         WHERE p1.id = (
+            SELECT MAX(id)
+            FROM payments p2
+            WHERE p2.user_id = p1.user_id
+              AND p2.plan_id = 3
+         )
+        ) AS p ON `p`.`user_id` = `a`.`admission_id`
+LEFT JOIN `students` `s` ON `s`.`user_id` = `a`.`admission_id`
+LEFT JOIN `classes` `c` ON `c`.`classname` = `s`.`class_level`
+WHERE `a`.`user_id` = :a.user_id:
+AND `a`.`status` = :a.status:', [...], false)
+ 5 APPPATH\Models\Admission_Model.php(188): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\AdminController.php(1275): App\Models\Admission_Model->getChildrenByGuardianWithRemainingMisc('66')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->paymentMiscCash('66')
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-11-25 20:41:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:02 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:41:02 --> Number of children found: 2
+DEBUG - 2025-11-25 20:41:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:41:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:19 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:41:19 --> Number of children found: 2
+DEBUG - 2025-11-25 20:41:19 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:41:19 --> Current User ID: 66
+DEBUG - 2025-11-25 20:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:20 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:41:20 --> Number of children found: 2
+DEBUG - 2025-11-25 20:41:20 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:41:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:41:22 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:41:22 --> Number of children found: 2
+DEBUG - 2025-11-25 20:41:22 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:41:22 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:41:22 --> Number of children found: 4
+DEBUG - 2025-11-25 20:41:22 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1500.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 1000.00
+        )
+
+    [2] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [3] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:42:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:42:32 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:42:32 --> Number of children found: 2
+DEBUG - 2025-11-25 20:42:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:42:32 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:42:32 --> Number of children found: 2
+DEBUG - 2025-11-25 20:42:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:42:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-11-25 20:42:39 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:42:39 --> Number of children found: 2
+DEBUG - 2025-11-25 20:42:39 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-11-25 20:42:39 --> Fetching children for guardian ID: 66
+DEBUG - 2025-11-25 20:42:39 --> Number of children found: 2
+DEBUG - 2025-11-25 20:42:39 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [remaining_balance] => 1000.00
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1758436120_6596822b60e287637732.png
+            [remaining_balance] => 500.00
+        )
+
+)
+
+DEBUG - 2025-11-25 20:42:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

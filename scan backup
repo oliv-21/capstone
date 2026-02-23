@@ -1,0 +1,508 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Brightside Admin Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito:wght@300;400;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+
+
+  <!-- Bootstrap CSS -->
+  <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+
+  <!-- Custom Admin CSS -->
+  <link rel="stylesheet" href="assets/css/admin.css">
+  <meta name="csrf-token" content="<?= csrf_hash() ?>">
+  <script src="https://unpkg.com/html5-qrcode" type="text/javascript"></script>
+</head>
+
+<body>
+  <div class="wrapper">
+    <!-- Sidebar -->
+
+
+    <div class="main col-md-12">
+      <!-- Top Navbar -->
+      <nav class="navbar navbar-expand-lg bg-white border-bottom pe-4">
+        <div class="container-fluid">
+  
+          <h4 class="text-primary m-0 fw-bold ps-2">Attendance Monitoring</h4>
+          <div class="dropdown ms-auto">
+            <a href="#" class="d-flex align-items-center text-dark text-decoration-none dropdown-toggle"
+              id="profileDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+              <i class="fas fa-user-circle me-2 text-primary fa-2x"></i>
+              <span class="fw-bold ms-2">Staff</span>
+            </a>
+            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
+              <li><a class="dropdown-item" href="<?= base_url('staffprofile'); ?>"><i class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile</a></li>
+              <li><a class="dropdown-item text-danger"  href="<?= base_url(); ?>login"><i
+                    class="fa-solid fa-right-from-bracket me-2"></i>Logout</a></li>
+            </ul>
+          </div>
+        </div>
+      </nav>
+
+      <main class="px-4 py-4">
+        <div class="container-fluid">
+
+          <!-- Header: Class, Date, Time, Radio buttons -->
+          <div class="row mb-4 align-items-center">
+            <div class="col-md-4 d-flex align-items-center">
+              <label for="class" class="form-label fw-bold text-secondary me-2 mb-0 fs-5">Class</label>
+              <select class="form-select rounded border-secondary" id="class">
+                <option selected disabled>Select a Class</option>
+                <?php foreach ($classes as $class): ?>
+                  <option value="<?= esc($class['classname']) ?>">
+                    <?= esc($class['classname']) ?>
+                  </option>
+                <?php endforeach; ?>
+              </select>
+            </div>
+
+            <div class="col-md-4 d-flex align-items-center justify-content-evenly">
+              <div>
+                <span class="fw-bold text-secondary fs-5 me-2"><i class="fa-solid fa-calendar-days me-1"></i> Date</span>
+                <span class="text-dark fs-5 me-3 border border-secondary rounded bg-white px-3 py-1" id="date"></span>
+              </div>
+             
+              <div>
+                <span class="fw-bold text-secondary fs-5 me-2"><i class="fa-solid fa-clock me-1"></i> Time</span>
+                <span class="text-dark fs-5 border border-secondary rounded bg-white px-3 py-1" id="time"></span>
+              </div>
+
+            </div>
+
+            <div class="col-md-4 d-flex justify-content-md-end justify-content-center">
+              <div class="radio-group">
+                <label class="me-3">
+                  <input type="radio" name="markType" value="arrival" checked /> Arrival
+                </label>
+                <label>
+                  <input type="radio" name="markType" value="pickup" /> Pickup
+                </label>
+              </div>
+            </div>
+          </div>
+
+          <!-- Main Row: Table (left) and Camera (right) -->
+          <div class="row">
+            <!-- Left: Student Table -->
+            <div class="col-md-8 mb-4">
+              <div class="table-responsive">
+                <table id="membersTable" class="table table-hover align-middle table-striped table-bordered">
+                  <thead class="primary-table-header">
+                    <tr>
+                      <th>Student Name</th>
+                      <th>Class Name</th>
+                      <th>Arrival Time</th>
+                      <th>Leave Time</th>
+                      <th>Status</th>
+                    </tr>
+                  </thead>
+                  <tbody id="admissionTable">
+                    <?php foreach ($students as $student): ?>
+                      <tr data-student-id="<?= $student->user_id ?>" data-contactnumber="<?= $student->contact_number ?>">
+                        <td><?= esc($student->full_name); ?></td>
+                        <td><?= esc($student->class_level); ?></td>
+                        <td class="arrival-time"><?= esc($student->arrival_time ?? ''); ?></td>
+                        <td class="leave-time"><?= esc($student->leave_time ?? ''); ?></td>
+                        <td>
+                          <button class="btn btn-sm status-btn <?= ($student->status === 'Present') ? 'btn-success' : 'btn-danger' ?>" disabled>
+                            <?= esc($student->status ?? 'Absent'); ?>
+                          </button>
+                        </td>
+
+                      </tr>
+                    <?php endforeach; ?>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+
+            <!-- Right: QR Scanner -->
+            <div class="col-md-4">
+              <div class="card shadow-sm p-3">
+                <h5 class="text-center text-primary fw-semibold mb-3">QR Code Scanner</h5>
+                <div id="reader" class="mb-3" style="width: 100%; height: auto;"></div>
+                <div id="status" class="text-center text-muted">Ready to scan...</div>
+                <div id="log">
+                 
+                  <div id="log-entries"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </main>
+
+    </div>
+  </div>
+
+
+  <!-- Optional Backdrop -->
+  <div id="sidebarBackdrop" class="sidebar-backdrop d-lg-none"></div>
+
+  <!-- Bootstrap JS -->
+  <script src="dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/admin.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+  <!-- jQuery (required for DataTables) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- DataTables JS -->
+<script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/1.13.6/js/dataTables.bootstrap5.min.js"></script>
+
+
+<script>
+    // Sidebar Toggle
+    function setupSidebarToggle() {
+      const sidebar = document.getElementById('adminSidebar');
+      const toggle = document.getElementById('sidebarToggle');
+      const backdrop = document.getElementById('sidebarBackdrop');
+      if (toggle && sidebar && backdrop) {
+        toggle.addEventListener('click', () => {
+          sidebar.classList.toggle('active');
+          backdrop.classList.toggle('show');
+        });
+        backdrop.addEventListener('click', () => {
+          sidebar.classList.remove('active');
+          backdrop.classList.remove('show');
+        });
+      }
+    }
+    document.addEventListener('DOMContentLoaded', () => {
+      setupSidebarToggle();
+    });
+
+    // Date and Time
+    function updateDateTime() {
+      const now = new Date();
+      const date = now.toLocaleDateString();
+      const time = now.toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' });
+      const dateElement = document.getElementById("date");
+      const timeElement = document.getElementById("time");
+      if (dateElement) dateElement.textContent = `${date}`;
+      if (timeElement) timeElement.textContent = `${time}`;
+    }
+    setInterval(updateDateTime, 1000);
+    updateDateTime();
+
+    // Attendance Logic 
+    document.addEventListener('DOMContentLoaded', function () {
+      document.getElementById('admissionTable').addEventListener('click', function (e) {
+        const row = e.target.closest('tr');
+        if (!row) return;
+
+        if (e.target.closest('.arrived-btn')) {
+          const userId = row.getAttribute('data-student-id');
+          const contactnumber = row.getAttribute('data-contactnumber');
+          Swal.fire({
+            title: 'Child Arrived?',
+            text: "Are you sure you want to mark this child as arrived?",
+            icon: 'question',
+            showCancelButton: true,
+            confirmButtonText: 'Yes, Arrived',
+            cancelButtonText: 'Cancel',
+            confirmButtonColor: '#ff6b6b',
+            cancelButtonColor: '#5a1e1e'
+          }).then((result) => {
+            if (result.isConfirmed) {
+              const now = new Date();
+              const dateStr = now.toLocaleDateString('en-CA'); // 'YYYY-MM-DD' in local timezone
+
+              const timeStr = now.toTimeString().slice(0, 8); // HH:MM:SS
+              
+              // Send attendance data to backend
+              fetch('attendance/mark-arrival', {
+                method: 'POST',
+                headers: {
+                  'Content-Type': 'application/json',
+                  'X-Requested-With': 'XMLHttpRequest',
+                  'X-CSRF-TOKEN': '<?= csrf_hash() ?>' // if CSRF enabled
+                },
+                body: JSON.stringify({
+                  contactnumber: contactnumber, 
+                  user_id: userId,
+                  date: dateStr,
+                  arrival_time: timeStr,
+                  status: 'Present'
+                })
+              })
+              .then(response => response.json())
+              .then(data => {
+                if (data.success) {
+                  row.querySelector('.arrival-time').textContent = timeStr;
+                  const statusBtn = row.querySelector('.status-btn');
+                  statusBtn.textContent = 'Present';
+                  statusBtn.classList.remove('btn-warning');
+                  statusBtn.classList.add('btn-success');
+                  row.querySelector('.arrived-btn').disabled = true;
+                  row.querySelector('.pickedup-btn').disabled = false;
+                  Swal.fire('Arrived!', 'Child has been marked as arrived.', 'success');
+                } else {
+                  Swal.fire('Error', data.message || 'Failed to mark arrival.', 'error');
+                }
+              })
+              .catch(() => {
+                Swal.fire('Error', 'Could not connect to server.', 'error');
+              });
+            }
+          });
+        }
+      });
+
+    });
+
+
+  // modal ng pickup
+    document.addEventListener("DOMContentLoaded", function () {
+      const pickupButtons = document.querySelectorAll(".pickedup-btn");
+      const guardianList = document.getElementById("guardianList");
+      const pickupForm = document.getElementById("pickupForm");
+
+      // When a Picked Up button is clicked
+      pickupButtons.forEach(button => {
+        button.addEventListener("click", function () {
+          const userId = this.getAttribute("data-user-id");
+          document.getElementById('user_id').value = userId;
+          document.getElementById('date').value = new Date().toISOString().slice(0, 10);
+
+          guardianList.innerHTML = '<div class="text-center">Loading guardians...</div>';
+
+          fetch(`guardians/${userId}`)
+            .then(response => response.json())
+            .then(data => {
+              guardianList.innerHTML = "";
+              if (data.length === 0) {
+                guardianList.innerHTML = '<p class="text-center text-muted">No guardians found.</p>';
+                return;
+              }
+              data.forEach((guardian, index) => {
+                const radioId = `pickupGuardian${index + 1}`;
+                const card = `
+                  <div class="col-6 col-md-3 text-center">
+                    <input type="radio" class="btn-check" name="pickupPerson" id="${radioId}" value="${guardian.guardian_id}" required>
+                    <label class="btn d-flex flex-column align-items-center rounded-1" for="${radioId}" style="cursor: pointer;">
+                      <div class="card">
+                        <img src="public/assets/img/${guardian.photo || 'default.jpg'}" alt="guardian photo" class="card-img-top" style="object-fit: fill; height: 200px;">
+                        <div class="card-body text-center">
+                          <h5 class="card-title mb-1 fw-semibold">${guardian.full_name}</h5>
+                          <p class="text-muted mb-0">${guardian.relationship}</p>
+                          <input type="hidden" name="user_id" id="user_id" value="${guardian.user_id}">
+                        </div>
+                      </div>
+                    </label>
+                  </div>`;
+                guardianList.insertAdjacentHTML("beforeend", card);
+              });
+            })
+            .catch(error => {
+              console.error("Error loading guardians:", error);
+              guardianList.innerHTML = '<p class="text-center text-danger">Failed to load guardians.</p>';
+            });
+        });
+      });
+
+     
+      pickupForm.addEventListener("submit", function(e) {
+        e.preventDefault();
+
+        const selectedGuardian = document.querySelector('input[name="pickupPerson"]:checked');
+        if (!selectedGuardian) {
+          Swal.fire('Error', 'Please select who will pick up the child.', 'error');
+          return;
+        }
+
+        const userId = document.getElementById('user_id').value;
+
+        const leaveTime = new Date().toTimeString().slice(0, 8);
+        const guardianId = selectedGuardian.value;
+         
+
+        fetch('<?= site_url('attendance/mark-pickup') ?>', {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Requested-With': 'XMLHttpRequest',
+            'X-CSRF-TOKEN': document.querySelector('meta[name="csrf-token"]').getAttribute('content')
+          },
+          body: JSON.stringify({
+            contactnumber: contactnumber,
+            user_id: userId,
+            date: date,
+            leave_time: leaveTime,
+            guardian_id: guardianId
+          })
+        })
+        .then(res => res.json())
+        .then(response => {
+          if (response.success) {
+            Swal.fire('Success!', 'Pickup recorded successfully.', 'success').then(() => {
+              location.reload();
+            });
+          } else {
+            Swal.fire('Error', response.message || 'Failed to record pickup.', 'error');
+          }
+        })
+        .catch(() => {
+          Swal.fire('Error', 'Failed to connect to server.', 'error');
+        });
+
+        // Close modal
+        const modal = bootstrap.Modal.getInstance(document.getElementById('pickupModal'));
+        modal.hide();
+      });
+    });
+
+
+    //   $(document).ready(function () {
+    $(document).ready(function () {
+      var table = $('#membersTable').DataTable({
+        searching: true,
+        lengthChange: true
+      });
+
+      // Filter table by class selection
+      $('#class').on('change', function () {
+        var selectedClass = this.value;
+        table.column(1).search(selectedClass).draw(); // column 1 = "Class Name"
+      });
+
+      // Optional: Add back the manual search field if you still want it
+      $('#customSearchInput').on('keyup', function () {
+        table.search(this.value).draw();
+      });
+
+      $('#customSearchBtn').on('click', function () {
+        table.search($('#customSearchInput').val()).draw();
+      });
+    });
+  </script>
+
+  
+  <script>
+    
+    const statusDiv = document.getElementById('status');
+    const logEntriesDiv = document.getElementById('log-entries');
+
+    
+
+    async function sendScanData(qrText) {
+      const now = new Date();
+      const dateStr = now.toISOString().split('T')[0];
+      const timeStr = now.toLocaleTimeString();
+
+      const markType = document.querySelector('input[name="markType"]:checked').value;
+
+      const payload = {
+        guardian_qr_id: qrText,
+        date: dateStr,
+        arrival_time: timeStr,
+        status: 'Present'
+      };
+
+      statusDiv.textContent = 'Sending data...';
+      console.log('[sendScanData] Sending payload:', payload);
+
+      // Choose URL based on radio button value
+      let url = '';
+      if (markType === 'arrival') {
+        url = 'attendance/mark-arrivalqr';
+      } else if (markType === 'pickup') {
+        url = 'attendance/mark-pickupqr';
+      }
+
+      console.log(`[sendScanData] Fetching: POST ${url}`);
+
+      try {
+        const res = await fetch(url, {
+          method: 'post',
+          headers: {
+            'Content-Type': 'application/json',
+            'X-Requested-With': 'XMLHttpRequest'
+          },
+          body: JSON.stringify(payload)
+        });
+
+        console.log('[sendScanData] Response status:', res.status);
+
+        let data;
+        try {
+          data = await res.json();
+          console.log('[sendScanData] Response JSON:', data);
+        } catch(jsonErr) {
+          console.error('[sendScanData] Failed to parse JSON:', jsonErr);
+         
+          alert('❌ Error: Invalid server response');
+          return;
+        }
+
+        if (res.ok && data.success) {
+         
+          alert(`✅ ${markType.charAt(0).toUpperCase() + markType.slice(1)} marked successfully!`);
+          
+        } else {
+          statusDiv.textContent = '❌ Failed: ' + (data.message || 'Unknown error');
+          console.warn('[sendScanData] Mark failed:', data);
+          alert('❌ Failed: ' + (data.message || 'Unknown error'));
+        }
+      } catch (err) {
+        
+        console.error('[sendScanData] Fetch error:', err);
+        alert('❌ Error: ' + err.message);
+      }
+    }
+
+    const html5QrCode = new Html5Qrcode("reader");
+
+    const qrCodeSuccessCallback = async (decodedText) => {
+      console.log('[qrCodeSuccessCallback] QR Code detected:', decodedText);
+      await html5QrCode.pause();
+      statusDiv.textContent = 'Processing...';
+      console.log('[qrCodeSuccessCallback] Scanner paused');
+
+      await sendScanData(decodedText);
+
+      setTimeout(async () => {
+        try {
+          await html5QrCode.resume();
+          statusDiv.textContent = 'Ready to scan...';
+          console.log('[qrCodeSuccessCallback] Scanner resumed');
+        } catch (resumeErr) {
+          statusDiv.textContent = '⚠️ Failed to resume scanner.';
+          console.error('[qrCodeSuccessCallback] Resume error:', resumeErr);
+        }
+      }, 3000);
+    };
+
+    const config = { fps: 10, qrbox: 250 };
+    console.log('[INIT] Starting html5QrCode with config:', config);
+
+    html5QrCode.start(
+      { facingMode: "environment" },
+      config,
+      qrCodeSuccessCallback
+    ).then(() => {
+      statusDiv.textContent = '📸 Scanner started. Point camera at QR code.';
+      console.log('[INIT] Scanner started');
+    }).catch(err => {
+      statusDiv.textContent = '❌ Unable to start scanner: ' + err;
+      console.error('[INIT] Unable to start scanner:', err);
+    });
+  </script>
+
+
+</body>
+
+</html>

@@ -1,0 +1,1562 @@
+DEBUG - 2025-10-25 15:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:26:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:26:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:27:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:27:05 --> user_id: 73
+DEBUG - 2025-10-25 15:31:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:31:00 --> user_id: 73
+DEBUG - 2025-10-25 15:31:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:31:02 --> user_id: 73
+DEBUG - 2025-10-25 15:32:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:32:50 --> user_id: 66
+DEBUG - 2025-10-25 15:32:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:32:50 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 15:32:50 --> Number of children found: 2
+DEBUG - 2025-10-25 15:32:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 15:32:50 --> Current User ID: 66
+CRITICAL - 2025-10-25 15:32:50 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:33:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:33:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 15:33:37 --> Number of children found: 2
+DEBUG - 2025-10-25 15:33:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 15:33:37 --> Current User ID: 66
+CRITICAL - 2025-10-25 15:33:37 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:33:50 --> user_id: 66
+DEBUG - 2025-10-25 15:33:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:33:50 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 15:33:50 --> Number of children found: 2
+DEBUG - 2025-10-25 15:33:50 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 15:33:50 --> Current User ID: 66
+CRITICAL - 2025-10-25 15:33:50 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:33:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:33:56 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 15:33:56 --> Number of children found: 2
+DEBUG - 2025-10-25 15:33:56 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 15:33:56 --> Current User ID: 66
+CRITICAL - 2025-10-25 15:33:56 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:34:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:34:27 --> user_id: 70
+DEBUG - 2025-10-25 15:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:01 --> user_id: 70
+DEBUG - 2025-10-25 15:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:36:35 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:36:35 --> Number of children found: 0
+DEBUG - 2025-10-25 15:36:35 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:36:35 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:36:35 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:38:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:38:16 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:38:16 --> Number of children found: 0
+DEBUG - 2025-10-25 15:38:16 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:38:16 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:38:16 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:41:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:41:52 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:41:52 --> Number of children found: 0
+DEBUG - 2025-10-25 15:41:52 --> Children data: Array
+(
+)
+
+CRITICAL - 2025-10-25 15:41:52 --> ErrorException: Undefined variable $userStatus
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Controllers\GuardianAccountController.php on line 384.
+ 1 APPPATH\Controllers\GuardianAccountController.php(384): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userStatus', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\GuardianAccountController.php', 384)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:42:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:42:23 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:42:23 --> Number of children found: 0
+DEBUG - 2025-10-25 15:42:23 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:42:23 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:42:23 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:44:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:44:40 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:44:40 --> Number of children found: 0
+DEBUG - 2025-10-25 15:44:40 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:44:40 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:44:40 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:44:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:44:50 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:44:50 --> Number of children found: 0
+DEBUG - 2025-10-25 15:44:50 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:44:50 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:44:50 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:44:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:44:54 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:44:54 --> Number of children found: 0
+DEBUG - 2025-10-25 15:44:54 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:44:54 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:44:54 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:45:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:45:07 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:45:07 --> Number of children found: 0
+DEBUG - 2025-10-25 15:45:07 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:45:07 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:45:07 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:45:20 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:45:20 --> Number of children found: 0
+DEBUG - 2025-10-25 15:45:20 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:45:20 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:45:20 --> ErrorException: Undefined variable $allEnrolled
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 220.
+ 1 APPPATH\Views\guardian\dashboard.php(220): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $allEnrolled', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 220)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:45:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:45:28 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:45:28 --> Number of children found: 0
+DEBUG - 2025-10-25 15:45:28 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:45:28 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:45:28 --> ErrorException: Attempt to read property "full_name" on string
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 232.
+ 1 APPPATH\Views\guardian\dashboard.php(232): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "full_name" on string', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 232)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:45:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:45:35 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:45:35 --> Number of children found: 0
+DEBUG - 2025-10-25 15:45:35 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:45:35 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:45:35 --> ErrorException: Attempt to read property "full_name" on string
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 224.
+ 1 APPPATH\Views\guardian\dashboard.php(224): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "full_name" on string', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 224)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:45:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:45:42 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:45:42 --> Number of children found: 0
+DEBUG - 2025-10-25 15:45:42 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:45:42 --> Current User ID: 70
+DEBUG - 2025-10-25 15:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:47:58 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:47:58 --> Number of children found: 0
+DEBUG - 2025-10-25 15:47:58 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:47:58 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:47:58 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:50:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:50:06 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:50:06 --> Number of children found: 0
+DEBUG - 2025-10-25 15:50:06 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:50:06 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:50:06 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:50:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:50:27 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:50:27 --> Number of children found: 0
+DEBUG - 2025-10-25 15:50:27 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:50:27 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:50:28 --> ErrorException: Attempt to read property "full_name" on string
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 221.
+ 1 APPPATH\Views\guardian\dashboard.php(221): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "full_name" on string', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 221)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(413): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:51:04 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:51:04 --> Number of children found: 0
+DEBUG - 2025-10-25 15:51:04 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:51:04 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:51:04 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:51:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:51:16 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:51:16 --> Number of children found: 0
+DEBUG - 2025-10-25 15:51:16 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:51:16 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:51:16 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:51:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:51:21 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:51:21 --> Number of children found: 0
+DEBUG - 2025-10-25 15:51:21 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:51:21 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:51:21 --> ErrorException: Undefined variable $guardian
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 208.
+ 1 APPPATH\Views\guardian\dashboard.php(208): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardian', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 208)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:52:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:52:50 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:52:50 --> Number of children found: 0
+DEBUG - 2025-10-25 15:52:50 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:52:50 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:52:50 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(393): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:54:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:54:49 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:54:49 --> Number of children found: 0
+DEBUG - 2025-10-25 15:54:49 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:54:49 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:54:49 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(408): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:55:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:55:20 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:55:20 --> Number of children found: 0
+DEBUG - 2025-10-25 15:55:20 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:55:20 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:55:20 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(408): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:55:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:55:24 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:55:24 --> Number of children found: 0
+DEBUG - 2025-10-25 15:55:24 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:55:24 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:55:24 --> ErrorException: Undefined variable $isProfileIncomplete
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 222.
+ 1 APPPATH\Views\guardian\dashboard.php(222): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $isProfileIncomplete', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 222)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(408): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:55:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:55:33 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:55:33 --> Number of children found: 0
+DEBUG - 2025-10-25 15:55:33 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:55:33 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:55:33 --> ErrorException: Attempt to read property "full_name" on string
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 221.
+ 1 APPPATH\Views\guardian\dashboard.php(221): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "full_name" on string', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 221)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(408): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:56:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:56:30 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:56:30 --> Number of children found: 0
+DEBUG - 2025-10-25 15:56:30 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:56:30 --> Current User ID: 70
+CRITICAL - 2025-10-25 15:56:30 --> ErrorException: Attempt to read property "full_name" on string
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Views\guardian\dashboard.php on line 221.
+ 1 APPPATH\Views\guardian\dashboard.php(221): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Attempt to read property "full_name" on string', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 221)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(409): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 15:58:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:22 --> Fetching children for guardian ID: 70
+DEBUG - 2025-10-25 15:58:22 --> Number of children found: 0
+DEBUG - 2025-10-25 15:58:22 --> Children data: Array
+(
+)
+
+DEBUG - 2025-10-25 15:58:22 --> Current User ID: 70
+DEBUG - 2025-10-25 15:58:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 15:58:47 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 15:58:47 --> Number of children found: 2
+DEBUG - 2025-10-25 15:58:47 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 15:58:47 --> Current User ID: 66
+DEBUG - 2025-10-25 16:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:00:36 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:00:36 --> Number of children found: 2
+DEBUG - 2025-10-25 16:00:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:00:36 --> Current User ID: 66
+DEBUG - 2025-10-25 16:00:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:00:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:00:54 --> user_id: 66
+DEBUG - 2025-10-25 16:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:00:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:00:55 --> Number of children found: 2
+DEBUG - 2025-10-25 16:00:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:00:55 --> Current User ID: 66
+DEBUG - 2025-10-25 16:01:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:01:55 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:01:55 --> Number of children found: 2
+DEBUG - 2025-10-25 16:01:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:01:55 --> Current User ID: 66
+DEBUG - 2025-10-25 16:02:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:25 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:02:25 --> Number of children found: 2
+DEBUG - 2025-10-25 16:02:25 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:02:25 --> Current User ID: 66
+DEBUG - 2025-10-25 16:02:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:27 --> Current User ID: 66
+DEBUG - 2025-10-25 16:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:02:57 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:02:57 --> Number of children found: 2
+DEBUG - 2025-10-25 16:02:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:02:57 --> Current User ID: 66
+DEBUG - 2025-10-25 16:03:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:03:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:03:12 --> Number of children found: 2
+DEBUG - 2025-10-25 16:03:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:03:12 --> Current User ID: 66
+DEBUG - 2025-10-25 16:03:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:03:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:03:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:07:12 --> Number of children found: 2
+DEBUG - 2025-10-25 16:07:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:07:12 --> Current User ID: 66
+DEBUG - 2025-10-25 16:07:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:41 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:07:41 --> Number of children found: 2
+DEBUG - 2025-10-25 16:07:41 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:07:41 --> Current User ID: 66
+DEBUG - 2025-10-25 16:07:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:42 --> Current User ID: 66
+DEBUG - 2025-10-25 16:07:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:07:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:08:23 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:08:23 --> Number of children found: 2
+DEBUG - 2025-10-25 16:08:23 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:08:23 --> Current User ID: 66
+DEBUG - 2025-10-25 16:08:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:08:26 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:08:26 --> Number of children found: 2
+DEBUG - 2025-10-25 16:08:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:08:26 --> Current User ID: 66
+DEBUG - 2025-10-25 16:09:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:09:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:09:28 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:09:28 --> Number of children found: 2
+DEBUG - 2025-10-25 16:09:28 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:09:28 --> Current User ID: 66
+DEBUG - 2025-10-25 16:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:11:01 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:11:01 --> Number of children found: 2
+DEBUG - 2025-10-25 16:11:01 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:11:01 --> Current User ID: 66
+DEBUG - 2025-10-25 16:15:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:15:42 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:15:42 --> Number of children found: 2
+DEBUG - 2025-10-25 16:15:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:15:42 --> Current User ID: 66
+DEBUG - 2025-10-25 16:15:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:15:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:15:46 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:15:46 --> Number of children found: 2
+DEBUG - 2025-10-25 16:15:46 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:15:46 --> Current User ID: 66
+DEBUG - 2025-10-25 16:16:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:16:03 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:16:03 --> Number of children found: 2
+DEBUG - 2025-10-25 16:16:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:16:03 --> Current User ID: 66
+DEBUG - 2025-10-25 16:20:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:20:54 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:20:54 --> Number of children found: 2
+DEBUG - 2025-10-25 16:20:54 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:20:54 --> Current User ID: 66
+CRITICAL - 2025-10-25 16:38:54 --> Error: Class "App\Controllers\OpeningModel" not found
+[Method: GET, Route: guardian/dashboard]
+in APPPATH\Controllers\GuardianAccountController.php on line 34.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainDashboard()
+ 2 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 3 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 16:39:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 16:39:21 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 16:39:21 --> Number of children found: 2
+DEBUG - 2025-10-25 16:39:21 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 16:39:21 --> Current User ID: 66
+DEBUG - 2025-10-25 20:11:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:11:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:14:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:30:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:30:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:30:32 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 20:30:32 --> Number of children found: 2
+DEBUG - 2025-10-25 20:30:32 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 20:30:32 --> Current User ID: 66
+DEBUG - 2025-10-25 20:46:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:46:48 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 20:46:48 --> Number of children found: 2
+DEBUG - 2025-10-25 20:46:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 20:46:48 --> Current User ID: 66
+DEBUG - 2025-10-25 20:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:47:01 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 20:47:01 --> Number of children found: 2
+DEBUG - 2025-10-25 20:47:01 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 20:47:01 --> Current User ID: 66
+DEBUG - 2025-10-25 20:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:47:07 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 20:47:07 --> Number of children found: 2
+DEBUG - 2025-10-25 20:47:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 20:47:07 --> Current User ID: 66
+DEBUG - 2025-10-25 20:47:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:47:13 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 20:47:13 --> Number of children found: 2
+DEBUG - 2025-10-25 20:47:13 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 20:47:13 --> Current User ID: 66
+DEBUG - 2025-10-25 20:47:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 20:47:14 --> ErrorException: Undefined variable $students
+[Method: GET, Route: payment-history/66]
+in APPPATH\Views\guardian\paymenthistory.php on line 104.
+ 1 APPPATH\Views\guardian\paymenthistory.php(104): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\paymenthistory.php', 104)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\paymenthistory.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/paymenthistory', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(543): view('guardian/paymenthistory', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 20:47:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:55:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 20:55:05 --> ErrorException: Undefined variable $paymentModel
+[Method: GET, Route: payment-history/66]
+in APPPATH\Controllers\GuardianAccountController.php on line 533.
+ 1 APPPATH\Controllers\GuardianAccountController.php(533): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $paymentModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\GuardianAccountController.php', 533)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 20:55:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 20:57:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 20:57:51 --> ErrorException: Undefined variable $scheduleModel
+[Method: GET, Route: payment-history/66]
+in APPPATH\Controllers\GuardianAccountController.php on line 535.
+ 1 APPPATH\Controllers\GuardianAccountController.php(535): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $scheduleModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\GuardianAccountController.php', 535)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 20:58:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 20:58:30 --> ErrorException: Undefined variable $scheduleModel
+[Method: GET, Route: payment-history/66]
+in APPPATH\Controllers\GuardianAccountController.php on line 535.
+ 1 APPPATH\Controllers\GuardianAccountController.php(535): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $scheduleModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\GuardianAccountController.php', 535)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 20:59:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:01:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:02:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:02:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:03:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:04:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:04:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:05:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:05:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:06:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:06:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:08:00 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 21:08:00 --> Number of children found: 2
+DEBUG - 2025-10-25 21:08:00 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 21:08:00 --> Current User ID: 66
+DEBUG - 2025-10-25 21:08:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:08:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:08:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:09:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:09:45 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 21:09:45 --> Number of children found: 2
+DEBUG - 2025-10-25 21:09:45 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 21:09:45 --> Current User ID: 66
+DEBUG - 2025-10-25 21:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:09:48 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 21:09:48 --> Number of children found: 2
+DEBUG - 2025-10-25 21:09:48 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 21:09:48 --> Current User ID: 66
+DEBUG - 2025-10-25 21:09:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:10:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:10:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 21:10:48 --> ErrorException: Undefined variable $students
+[Method: GET, Route: parent-paymentInfo/66]
+in APPPATH\Views\guardian\parentPayment.php on line 51.
+ 1 APPPATH\Views\guardian\parentPayment.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php', 51)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/parentPayment', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(416): view('guardian/parentPayment', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParent('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 21:10:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 21:10:56 --> ErrorException: Undefined variable $students
+[Method: GET, Route: parent-paymentInfo/66]
+in APPPATH\Views\guardian\parentPayment.php on line 51.
+ 1 APPPATH\Views\guardian\parentPayment.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php', 51)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/parentPayment', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(416): view('guardian/parentPayment', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParent('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 21:11:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-25 21:11:15 --> ErrorException: Undefined variable $students
+[Method: GET, Route: parent-paymentInfo/66]
+in APPPATH\Views\guardian\parentPayment.php on line 51.
+ 1 APPPATH\Views\guardian\parentPayment.php(51): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php', 51)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\parentPayment.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/parentPayment', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(416): view('guardian/parentPayment', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->paymenParent('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-25 21:11:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:12:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:12:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:12:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:12:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:12:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:13:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:30:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:31:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-25 21:31:59 --> Payment Data: amount=500, fullname=roldan Oliveros, email=roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["25"], planId=4,pay_type=partial,paymentDate2025-10-25
+DEBUG - 2025-10-25 21:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-25 21:32:03 --> --- START: payonlinefulltuition ---
+INFO - 2025-10-25 21:32:03 --> Incoming Data: Children: ["25"], AmountPaid: 500, PlanID: 4, Method: Online
+INFO - 2025-10-25 21:32:03 --> Plan Retrieved: Total Amount 25000.00
+INFO - 2025-10-25 21:32:03 --> Per Child Computation: 500
+INFO - 2025-10-25 21:32:03 --> Processing ChildID: 25
+INFO - 2025-10-25 21:32:03 --> NO Previous Payment Found. Using Full Plan Amount 25000.00
+INFO - 2025-10-25 21:32:03 --> Computed Remaining for Child 25: 24500
+INFO - 2025-10-25 21:32:03 --> INSERTED PAYMENT: {"user_id":"25","plan_id":4,"amount_paid":500,"remaining_balance":24500,"payment_method":"Online","payment_date":"2025-10-25","status":"Pending"}
+INFO - 2025-10-25 21:32:03 --> --- END: payonlinefulltuition ---
+DEBUG - 2025-10-25 21:32:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:32:03 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 21:32:03 --> Number of children found: 2
+DEBUG - 2025-10-25 21:32:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 21:32:03 --> Current User ID: 66
+DEBUG - 2025-10-25 21:32:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:32:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:33:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:33:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:37:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:37:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:41:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:41:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:41:58 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-25 21:41:58 --> Number of children found: 2
+DEBUG - 2025-10-25 21:41:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-25 21:41:58 --> Current User ID: 66
+DEBUG - 2025-10-25 21:41:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:42:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:42:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:49:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-25 21:56:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

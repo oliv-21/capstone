@@ -1,0 +1,553 @@
+DEBUG - 2025-10-18 00:08:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:19 --> Child Payment Debug: Array
+(
+    [full_name] => Zie Aranera Oliveros
+    [admission_id] => 25
+    [user_id] => 66
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-10-18 00:08:19 --> Parent Debug: Array
+(
+    [id] => 10
+    [user_id] => 66
+    [first_name] => Roldan
+    [middle_name] => Oliveros
+    [last_name] => Oliveros
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0621@gmail.com
+    [municipality] => Nagcarlan
+    [barangay] => Buboy
+    [street] => Poblacion
+    [profile_pic] => default.webp
+    [created_at] => 2025-10-11 23:25:45
+    [address] => Nagcarlan, Buboy, Poblacion
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Zie Aranera Oliveros
+                    [admission_id] => 25
+                    [user_id] => 66
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-10-18 00:08:19 --> Parent Debug: Array
+(
+    [id] => 11
+    [user_id] => 67
+    [first_name] => 123d
+    [middle_name] => 13
+    [last_name] => 123
+    [relationship] => Guardian
+    [contact_number] => 09205804090
+    [email] => roldanoliveros0612@gmail.com
+    [municipality] => Cavinti
+    [barangay] => Bangco
+    [street] => Magsaysay
+    [profile_pic] => default.webp
+    [created_at] => 2025-10-12 19:19:58
+    [address] => Cavinti, Bangco, Magsaysay
+    [children] => Array
+        (
+        )
+
+)
+
+DEBUG - 2025-10-18 00:08:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:08:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:09:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:09:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:26:16 --> user_id: 66
+DEBUG - 2025-10-18 00:26:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:28:31 --> user_id: 1
+DEBUG - 2025-10-18 00:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:41:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:42:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:43:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:50:01 --> user_id: 1
+DEBUG - 2025-10-18 00:50:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:52:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:55:39 --> user_id: 1
+DEBUG - 2025-10-18 00:55:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:56:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 00:56:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:40:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:42:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:42:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:46:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-18 02:51:45 --> ErrorException: Undefined variable $students
+[Method: GET, Route: Studentview/25]
+in APPPATH\Views\user\viewStudent.php on line 353.
+ 1 APPPATH\Views\user\viewStudent.php(353): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\user\\viewStudent.php', 353)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\user\\viewStudent.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('user/viewStudent', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(210): view('user/viewStudent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->studentView('25')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 02:51:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:52:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 02:58:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 03:00:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 03:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-18 03:01:42 --> ErrorException: Undefined variable $students
+[Method: GET, Route: Studentview/25]
+in APPPATH\Views\user\viewStudent.php on line 351.
+ 1 APPPATH\Views\user\viewStudent.php(351): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\user\\viewStudent.php', 351)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\user\\viewStudent.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('user/viewStudent', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(210): view('user/viewStudent', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->studentView('25')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 03:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 03:02:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:13:51 --> user_id: 1
+DEBUG - 2025-10-18 19:14:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:14:12 --> user_id: 1
+DEBUG - 2025-10-18 19:14:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:14:15 --> user_id: 1
+INFO - 2025-10-18 19:14:17 --> Generating QR code for Guardian ID: 68f37689b65bd
+INFO - 2025-10-18 19:14:19 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f37689b65bd.png
+DEBUG - 2025-10-18 19:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:14:19 --> user_id: 1
+DEBUG - 2025-10-18 19:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:28:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:48:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:48:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-18 19:48:21 --> ErrorException: Undefined variable $session
+[Method: GET, Route: Studentview/25]
+in APPPATH\Controllers\GuardianAccountController.php on line 203.
+ 1 APPPATH\Controllers\GuardianAccountController.php(203): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $session', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\GuardianAccountController.php', 203)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->studentView('25')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 19:49:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:49:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:49:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 19:50:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 19:50:30 --> Payment Data: amount=, fullname=Roldan Oliveros, email=Roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:04:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:04:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:04:29 --> Payment Data: amount=₱2000.00, fullname=roldanoliveros, email=Roldanoliveros0921@gmail.com, number=roldan Oliveros, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:06:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:06:41 --> Payment Data: amount=, fullname=, email=, number=, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:08:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:08:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:08:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:09:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:09:06 --> Payment Data: amount=2000.00, fullname=roldanoliveros, email=roldanoliveros@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:09:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-10-18 20:09:11 --> mysqli_sql_exception: Unknown column 'month' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\copstone\system\BaseModel.php(713): CodeIgniter\Model->doFirst()
+#6 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Controllers\Payment.php(249): CodeIgniter\BaseModel->first()
+#7 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(933): App\Controllers\Payment->success()
+#8 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#9 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#11 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#12 C:\Users\User\Desktop\xamp\htdocs\copstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#13 {main}
+CRITICAL - 2025-10-18 20:09:11 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'month' in 'where clause'
+[Method: GET, Route: payment/success]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `payments`
+WHERE `user_id` = :user_id:
+AND `month` = :month:
+AND `status` = :status:
+AND `method` = :method:
+ LIMIT 1', [...], false)
+ 2 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 4 APPPATH\Controllers\Payment.php(249): CodeIgniter\BaseModel->first()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->success()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 20:09:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'month' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `payments`
+WHERE `user_id` = \'66\'
+AND `month` = \'September 2025\'
+AND `status` = \'Paid\'
+AND `method` = \'online\'
+ LIMIT 1')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `payments`
+WHERE `user_id` = \'66\'
+AND `month` = \'September 2025\'
+AND `status` = \'Paid\'
+AND `method` = \'online\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `payments`
+WHERE `user_id` = :user_id:
+AND `month` = :month:
+AND `status` = :status:
+AND `method` = :method:
+ LIMIT 1', [...], false)
+ 4 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 6 APPPATH\Controllers\Payment.php(249): CodeIgniter\BaseModel->first()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->success()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 20:09:11 --> [Caused by] mysqli_sql_exception: Unknown column 'month' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *
+FROM `payments`
+WHERE `user_id` = \'66\'
+AND `month` = \'September 2025\'
+AND `status` = \'Paid\'
+AND `method` = \'online\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *
+FROM `payments`
+WHERE `user_id` = \'66\'
+AND `month` = \'September 2025\'
+AND `status` = \'Paid\'
+AND `method` = \'online\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *
+FROM `payments`
+WHERE `user_id` = \'66\'
+AND `month` = \'September 2025\'
+AND `status` = \'Paid\'
+AND `method` = \'online\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `payments`
+WHERE `user_id` = :user_id:
+AND `month` = :month:
+AND `status` = :status:
+AND `method` = :method:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(713): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\Payment.php(249): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->success()
+ 9 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+10 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+12 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+13 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 20:13:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:14:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:14:16 --> Payment Data: amount=2000.00, fullname=Roldan oliveros, email=Roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:15:16 --> Payment Data: amount=, fullname=, email=, number=, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:15:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:15:45 --> Payment Data: amount=2000.00, fullname=roldan, email=roldanoliveros@gmail.com, number=09205804090, method=paymaya, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-18 20:16:25 --> ErrorException: Undefined variable $admissionModel
+[Method: GET, Route: registration/success]
+in APPPATH\Models\StudentModel.php on line 635.
+ 1 APPPATH\Models\StudentModel.php(635): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $admissionModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\StudentModel.php', 635)
+ 2 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment(null, '2000.00', null, '2025-10-18', '7')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 20:21:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:21:13 --> Generating QR code for Guardian ID: 68f386398b2ac
+INFO - 2025-10-18 20:21:13 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f386398b2ac.png
+CRITICAL - 2025-10-18 20:21:13 --> CodeIgniter\Database\Exceptions\DatabaseException: Updates are not allowed unless they contain a "where" or "like" clause.
+[Method: GET, Route: registration/success]
+in SYSTEMPATH\Model.php on line 456.
+ 1 SYSTEMPATH\BaseModel.php(1027): CodeIgniter\Model->doUpdate(null, [...])
+ 2 SYSTEMPATH\Model.php(863): CodeIgniter\BaseModel->update(null, [...])
+ 3 APPPATH\Models\StudentModel.php(667): CodeIgniter\Model->update(null, [...])
+ 4 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment(null, '2000.00', null, '2025-10-18', '7')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 20:26:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-10-18 20:26:01 --> processOnlinePayment failed: Admission ID is missing.
+DEBUG - 2025-10-18 20:26:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:26:34 --> Payment Data: amount=2000.00, fullname=roldanoliveros, email=Roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:26:34 --> Payment Data: amount=2000.00, fullname=roldanoliveros, email=Roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:26:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-10-18 20:26:38 --> processOnlinePayment failed: Admission ID is missing.
+DEBUG - 2025-10-18 20:26:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:29:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:29:03 --> user_id: 1
+DEBUG - 2025-10-18 20:29:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:29:05 --> user_id: 1
+DEBUG - 2025-10-18 20:29:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 20:29:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:29:54 --> Payment Data: amount=2000.00, fullname=Roldan Oliceros, email=Roldanoliveros0921@gmail.com, number=0920580490, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 20:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 20:29:58 --> Generating QR code for Guardian ID: 68f388469bd87
+INFO - 2025-10-18 20:29:58 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f388469bd87.png
+ERROR - 2025-10-18 20:29:58 --> mysqli_sql_exception: Column 'payment_method' cannot be null in C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `pa...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pa...')
+#2 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pa...')
+#3 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pa...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\copstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Models\StudentModel.php(703): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', NULL, '2025-10-18', '7')
+#9 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+#10 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#11 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\Users\User\Desktop\xamp\htdocs\copstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2025-10-18 20:29:58 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'payment_method' cannot be null
+[Method: GET, Route: registration/success]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 20:29:58 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'payment_method' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 20:29:58 --> [Caused by] mysqli_sql_exception: Column 'payment_method' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 21:29:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:29:48 --> Generating QR code for Guardian ID: 68f3964c7ed2b
+INFO - 2025-10-18 21:29:48 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f3964c7ed2b.png
+CRITICAL - 2025-10-18 21:29:48 --> Exception: This admission record is already enrolled as a student.
+[Method: GET, Route: registration/success]
+in APPPATH\Models\StudentModel.php on line 675.
+ 1 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 21:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:30:16 --> Generating QR code for Guardian ID: 68f3966899f35
+INFO - 2025-10-18 21:30:16 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f3966899f35.png
+CRITICAL - 2025-10-18 21:30:16 --> Exception: This admission record is already enrolled as a student.
+[Method: GET, Route: registration/success]
+in APPPATH\Models\StudentModel.php on line 675.
+ 1 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 21:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:31:51 --> Payment Data: amount=2000.00, fullname=Roldan Oliveros, email=roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 21:31:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:31:57 --> Generating QR code for Guardian ID: 68f396cd9719d
+INFO - 2025-10-18 21:31:57 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f396cd9719d.png
+ERROR - 2025-10-18 21:31:57 --> mysqli_sql_exception: Column 'payment_method' cannot be null in C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `pa...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `pa...')
+#2 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `pa...')
+#3 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `pa...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+#5 C:\Users\User\Desktop\xamp\htdocs\copstone\system\BaseModel.php(839): CodeIgniter\Model->doInsert(Array)
+#6 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Model.php(800): CodeIgniter\BaseModel->insert(Array, true)
+#7 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Models\StudentModel.php(703): CodeIgniter\Model->insert(Array)
+#8 C:\Users\User\Desktop\xamp\htdocs\copstone\app\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', NULL, '2025-10-18', '7')
+#9 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+#10 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+#11 C:\Users\User\Desktop\xamp\htdocs\copstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#12 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#13 C:\Users\User\Desktop\xamp\htdocs\copstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#14 C:\Users\User\Desktop\xamp\htdocs\copstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#15 {main}
+CRITICAL - 2025-10-18 21:31:57 --> CodeIgniter\Database\Exceptions\DatabaseException: Column 'payment_method' cannot be null
+[Method: GET, Route: registration/success]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 2 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 3 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 4 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 5 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 6 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 21:31:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Column 'payment_method' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 4 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 5 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 6 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 7 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 8 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+ 9 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+10 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+11 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+13 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+14 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-10-18 21:31:57 --> [Caused by] mysqli_sql_exception: Column 'payment_method' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (25, \'2000.00\', \'0.00\', NULL, \'2025-10-18\', \'Paid\')')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2345): CodeIgniter\Database\BaseConnection->query('INSERT INTO `payments` (`user_id`, `amount_paid`, `remaining_balance`, `payment_method`, `payment_date`, `status`) VALUES (:user_id:, :amount_paid:, :remaining_balance:, :payment_method:, :payment_date:, :status:)', [...], false)
+ 5 SYSTEMPATH\Model.php(394): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(839): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(800): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Models\StudentModel.php(703): CodeIgniter\Model->insert([...])
+ 9 APPPATH\Controllers\Payment.php(849): App\Models\StudentModel->processOnlinePayment('25', '2000.00', null, '2025-10-18', '7')
+10 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Payment->payOnlineEnrollment()
+11 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Payment))
+12 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+14 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+15 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-18 21:38:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:38:26 --> user_id: 1
+DEBUG - 2025-10-18 21:39:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:39:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:39:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:39:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:40:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:40:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:40:41 --> Payment Data: amount=2000.00, fullname=Roldanoliveros, email=roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=
+DEBUG - 2025-10-18 21:40:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-18 21:40:45 --> Generating QR code for Guardian ID: 68f398ddc0f8e
+INFO - 2025-10-18 21:40:45 --> QR code saved to file: C:\Users\User\Desktop\xamp\htdocs\copstone\public/assets/qrstudentId/68f398ddc0f8e.png
+DEBUG - 2025-10-18 21:40:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:40:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:47:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:51:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:51:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 21:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 22:26:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 22:26:47 --> user_id: 1
+DEBUG - 2025-10-18 22:35:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-18 22:48:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

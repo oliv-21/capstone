@@ -1,0 +1,327 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8" />
+  <title>Brightside Teacher Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito:wght@300;400;600;700&display=swap"
+    rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+
+  <!-- Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom CSS -->
+  <link rel="stylesheet" href="assets/css/admin.css">
+</head>
+
+
+<body>
+  <div class="wrapper d-flex">
+    <!-- Sidebar -->
+    <nav id="teacherSidebar" class="admin-sidebar col-lg-2 bg-white border-end ps-3 vh-100">
+      <div class="d-flex align-items-center mb-2 mt-3">
+        <img id="schoolLogo" src="assets/img/logoicon.png" alt="Logo" class="me-3 ms-1" style="width: 38px;">
+        <span id="schoolName" class="text-primary fw-bold fs-3">Brightside</span>
+      </div>
+      <div class="d-flex flex-column align-items-start">
+        <hr class="mb-2" />
+        <a href="<?= base_url(); ?>teacher-dashboard" class="nav-link d-flex align-items-center ">
+          <i class="fas fa-tachometer-alt me-4 fa-lg fa-fw text-secondary"></i> Dashboard
+        </a>
+        <a href="<?= base_url(); ?>teacher-students" class="nav-link d-flex align-items-center">
+          <i class="fas fa-chalkboard-teacher me-4 fa-lg fa-fw text-secondary"></i> Enrolled Students
+        </a>
+        <a href="<?= base_url(); ?>teacher-grades" class="nav-link d-flex align-items-center ">
+          <i class="fas fa-calendar-check me-4 fa-lg fa-fw text-secondary"></i> Progress Report
+        </a>
+        <a href="<?= base_url(); ?>teacher-materials" class="nav-link d-flex align-items-center">
+          <i class="fas fa-book me-4 fa-lg fa-fw text-secondary"></i> Materials
+        </a>
+        <a href="<?= base_url(); ?>teacher-annoucement" class="nav-link d-flex align-items-center">
+          <i class="fa-solid fa-bell me-4 fa-lg fa-fw text-secondary"></i> Announcements
+        </a>
+        <a href="<?= base_url(); ?>teacher-dashboard" class="nav-link d-flex align-items-center active">
+          <i class="fas fa-layer-group me-4 fa-lg fa-fw text-secondary"></i> Interactive Learning
+        </a>
+      </div>
+    </nav>
+
+    <!-- Main Content -->
+    <div class="main col-md-10">
+      <!-- Top Navbar -->
+      <nav class="navbar navbar-expand-lg bg-white border-bottom pe-4 p-1">
+        <div class="container-fluid">
+          <button class="btn d-md-none me-2" id="sidebarToggle">
+            <i class="fas fa-bars"></i>
+          </button>
+
+          <div class="d-flex align-items-center ms-auto py-1">
+            <!-- Notification Dropdown -->
+            <div class="dropdown me-3 position-relative border-start border-2 ps-3 ">
+              <a href="#" class="text-decoration-none text-primary position-relative" id="notifDropdown"
+                data-bs-toggle="dropdown" aria-expanded="false">
+                <i class="fa-solid fa-bell fa-lg fa-fw"></i>
+                <!-- <span class="position-absolute top-0 start-100 translate-middle badge rounded-pill bg-danger">2</span> -->
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end shadow-sm overflow-auto" aria-labelledby="notifDropdown"
+                style="width: 350px; max-height:320px;">
+                <li class="dropdown-header fw-bold">Notifications</li>
+                <li><hr class="dropdown-divider"></li>
+                <li class="px-3 py-2 small">
+                  <strong>New Assignment</strong><br>
+                  <span class="text-muted">Math worksheet uploaded.</span>
+                </li>
+                <li class="px-3 py-2 small">
+                  <strong>New Message</strong><br>
+                  <span class="text-muted">Parent sent a message.</span>
+                </li>
+              </ul>
+            </div>
+            <div class="me-3 position-relative border-start border-2 ps-3">
+              <a href="<?= base_url(); ?>teacher-chats" class="text-decoration-none text-primary">
+                <i class="fa-solid fa-comment-dots fa-lg fa-fw"></i>
+              </a>
+            </div>
+
+            <!-- Profile Dropdown -->
+            <div class="dropdown border-start border-2 ps-4">
+              <a href="#" class="d-flex align-items-center text-dark text-decoration-none dropdown-toggle"
+                id="profileDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                <img src="<?= base_url('public/assets/profilepic/' . esc($profilepic)) ?>" alt="Profile Image" class="me-2 rounded-circle" style="width: 36px; height: 36px; object-fit: cover;">
+                <span class="fw-bold ms-2"><?= esc($teacher['lastname']) ?></span>
+              </a>
+              <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
+                <li><a class="dropdown-item" href="<?= base_url('teacherProfile-info'); ?>"><i class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile Info</a></li>
+                <li><a class="dropdown-item" href="<?= base_url('teacherProfile'); ?>"><i class='fa-solid fa-lock me-3 mb-3 text-primary mt-2'></i>forget Password</a></li>
+                <li>
+                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
+                      <?= csrf_field() ?>
+                      <button type="submit" class="dropdown-item text-danger">
+                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                      </button>
+                  </form>
+                </li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </nav>
+            <!-- Page Content -->
+      <!-- MAIN (enhanced with simple drawings, house simplified & fish improved) -->
+      <main class="px-4 py-4" style="height: calc(100vh - 56px); overflow-y:auto;">
+        <div class="container-fluid text-center">
+          <div class="d-flex justify-content-between align-items-end mb-3 game-top">
+            <div class="text-start">
+              <a href="<?= base_url(); ?>teacher-interactive-learning" class="btn btn-link text-decoration-none text-dark "><i class="fa-solid fa-arrow-left me-2"></i> Back to Games</a>
+              <h3 class="fw-bold mb-1 text-primary">Animal Names — Click & Listen!</h3>
+              <div class="small-note">Click each animal emoji to hear its name. Have fun learning and listening to all animals!</div>
+            </div>
+
+            <div class="controls-row d-flex gap-3 me-5 ">
+              <button class="btn btn-primary" id="animalsHint" >Play All</button>
+            </div>
+          </div>
+
+          <section id="animals" class="game" aria-hidden="false" style="display:block; margin-top:18px;">
+            <div class="topbar" style="display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:12px;">
+              <div style="display:flex; gap:12px; align-items:center;">
+              </div>
+            </div>
+            <div class="animals-grid" id="animalsGrid" style="display:grid; grid-template-columns:repeat(3,1fr); gap:12px;">
+              <!-- Animals populated by JS -->
+            </div>
+          </section>
+        </div>
+      </main>
+    </div>
+  </div>
+
+  <!-- Sidebar Backdrop -->
+  <div id="sidebarBackdrop" class="sidebar-backdrop d-lg-none"></div>
+
+  <!-- Bootstrap JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/js/admin.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+
+  <script>
+    const animals = [
+      {name:'Dog', emoji:'🐶'},
+      {name:'Cat', emoji:'🐱'},
+      {name:'Cow', emoji:'🐮'},
+      {name:'Sheep', emoji:'🐑'},
+      {name:'Duck', emoji:'🦆'},
+      {name:'Frog', emoji:'🐸'},
+      {name:'Lion', emoji:'🦁'},
+      {name:'Elephant', emoji:'🐘'},
+      {name:'Monkey', emoji:'🐒'},
+      {name:'Bird', emoji:'🐦'},
+      {name:'Fish', emoji:'🐟'},
+      {name:'Horse', emoji:'🐴'},
+      {name:'Pig', emoji:'🐷'},
+      {name:'Rabbit', emoji:'🐰'},
+      {name:'Turtle', emoji:'🐢'}
+    ];
+
+    const animalsGrid = document.getElementById('animalsGrid');
+
+    function speak(text){
+      try {
+        const utterance = new SpeechSynthesisUtterance(text);
+        utterance.rate = 0.9;
+        utterance.pitch = 1.1;
+        speechSynthesis.cancel();
+        speechSynthesis.speak(utterance);
+      } catch(e) {
+        console.warn('Speech not supported', e);
+      }
+    }
+
+    function playTone(freq = 880, duration = 0.12) {
+      try {
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const osc = ctx.createOscillator();
+        const gain = ctx.createGain();
+        osc.type = 'sine';
+        osc.frequency.value = freq;
+        osc.connect(gain);
+        gain.connect(ctx.destination);
+        gain.gain.setValueAtTime(0.0001, ctx.currentTime);
+        gain.gain.exponentialRampToValueAtTime(0.2, ctx.currentTime + 0.02);
+        osc.start();
+        gain.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
+        setTimeout(() => {
+          osc.stop();
+          ctx.close();
+        }, duration * 1000 + 50);
+      } catch(e) { /* ignore */ }
+    }
+
+    function successChime() {
+      playTone(880,0.09);
+      setTimeout(() => playTone(1200,0.08), 80);
+    }
+
+    function spawnConfetti(x = window.innerWidth / 2, y = window.innerHeight / 3, count = 14) {
+      // Simple DOM-based confetti using colored divs (no external library needed)
+      for (let i = 0; i < count; i++) {
+        const confetti = document.createElement('div');
+        confetti.style.position = 'fixed';
+        confetti.style.left = x + 'px';
+        confetti.style.top = y + 'px';
+        confetti.style.width = '8px';
+        confetti.style.height = '8px';
+        confetti.style.backgroundColor = `hsl(${Math.random() * 360}, 100%, 50%)`;
+        confetti.style.pointerEvents = 'none';
+        confetti.style.zIndex = '9999';
+        confetti.style.borderRadius = '50%';
+        document.body.appendChild(confetti);
+
+        // Animate with GSAP (or fallback to CSS)
+        if (typeof gsap !== 'undefined') {
+          gsap.to(confetti, {
+            x: (Math.random() - 0.5) * 400,
+            y: Math.random() * 400 + 200,
+            rotation: Math.random() * 720,
+            opacity: 0,
+            scale: 0,
+            duration: 2 + Math.random() * 1,
+            ease: 'power2.out',
+            onComplete: () => confetti.remove()
+          });
+        } else {
+          // Fallback CSS animation
+          confetti.style.transition = 'all 2s ease-out';
+          confetti.style.transform = `translate(${ (Math.random() - 0.5) * 400 }px, ${Math.random() * 400 + 200}px) rotate(${Math.random() * 720}deg) scale(0)`;
+          confetti.style.opacity = '0';
+          setTimeout(() => confetti.remove(), 2000);
+        }
+      }
+    }
+
+
+    // Populate animals grid and setup click listeners
+    animals.forEach(a => {
+      const card = document.createElement('div');
+      card.className = 'animal-card';
+      card.style.background = '#fff';
+      card.style.borderRadius = '12px';
+      card.style.padding = '12px';
+      card.style.display = 'flex';
+      card.style.flexDirection = 'column';
+      card.style.alignItems = 'center';
+      card.style.justifyContent = 'center';
+      card.style.cursor = 'pointer';
+      card.style.boxShadow = '0 8px 18px rgba(0,0,0,0.06)';
+      card.style.transition = 'transform 0.2s ease';
+
+      const emojiDiv = document.createElement('div');
+      emojiDiv.className = 'animal-emoji';
+      emojiDiv.style.fontSize = '48px';
+      emojiDiv.textContent = a.emoji;
+
+      const nameDiv = document.createElement('div');
+      nameDiv.style.marginTop = '8px';
+      nameDiv.style.fontWeight = '700';
+      nameDiv.textContent = a.name;
+
+      card.appendChild(emojiDiv);
+      card.appendChild(nameDiv);
+
+      card.addEventListener('click', () => {
+        // Animate emoji bounce (now works with GSAP included)
+        if (typeof gsap !== 'undefined') {
+          gsap.fromTo(emojiDiv, { y: -10, scale: 0.9 }, { y: 0, scale: 1.05, duration: 0.45, ease: 'bounce.out' });
+        }
+        speak(a.name);
+        successChime();
+        spawnConfetti(); // Now implements actual confetti
+      });
+
+      animalsGrid.appendChild(card);
+    });
+
+    // Play all animals' names in sequence on "Play All" button click
+    document.getElementById('animalsHint').addEventListener('click', () => {
+      let index = 0;
+
+      function playNext() {
+        if (index >= animals.length) return;
+
+        const a = animals[index];
+        const emojiDiv = animalsGrid.children[index].querySelector('.animal-emoji');
+
+        // Animate emoji
+        if (typeof gsap !== 'undefined') {
+          gsap.fromTo(emojiDiv, { scale: 0.8 }, { scale: 1.05, duration: 0.35 });
+        }
+
+        // Speak the name
+        const utterance = new SpeechSynthesisUtterance(a.name);
+        utterance.rate = 0.9;
+        utterance.pitch = 1.1;
+
+        utterance.onend = () => {
+          index++;
+          playNext(); // play the next animal only after the current one finishes
+        };
+
+        speechSynthesis.cancel(); // stop any previous speech
+        speechSynthesis.speak(utterance);
+      }
+
+      playNext();
+    });
+
+  </script>
+</body>
+
+</html>

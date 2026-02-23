@@ -1,0 +1,5278 @@
+DEBUG - 2025-10-26 17:39:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:40:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:40:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:40:24 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:40:24 --> Number of children found: 2
+DEBUG - 2025-10-26 17:40:24 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:40:24 --> Current User ID: 66
+DEBUG - 2025-10-26 17:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:48:58 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:48:58 --> Number of children found: 2
+DEBUG - 2025-10-26 17:48:58 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:48:58 --> Current User ID: 66
+DEBUG - 2025-10-26 17:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:49:00 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:49:00 --> Number of children found: 2
+DEBUG - 2025-10-26 17:49:00 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:49:00 --> Current User ID: 66
+DEBUG - 2025-10-26 17:49:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:49:07 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:49:07 --> Number of children found: 2
+DEBUG - 2025-10-26 17:49:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:49:07 --> Current User ID: 66
+DEBUG - 2025-10-26 17:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:50:17 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:50:17 --> Number of children found: 2
+DEBUG - 2025-10-26 17:50:17 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:50:17 --> Current User ID: 66
+DEBUG - 2025-10-26 17:51:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:51:07 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:51:07 --> Number of children found: 2
+DEBUG - 2025-10-26 17:51:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:51:07 --> Current User ID: 66
+DEBUG - 2025-10-26 17:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:51:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:51:40 --> Number of children found: 2
+DEBUG - 2025-10-26 17:51:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:51:40 --> Current User ID: 66
+DEBUG - 2025-10-26 17:51:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:51:47 --> Current User ID: 66
+DEBUG - 2025-10-26 17:53:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:53:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 17:53:37 --> Number of children found: 2
+DEBUG - 2025-10-26 17:53:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 17:53:37 --> Current User ID: 66
+DEBUG - 2025-10-26 17:53:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:53:38 --> Current User ID: 66
+DEBUG - 2025-10-26 17:53:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:53:53 --> Current User ID: 66
+DEBUG - 2025-10-26 17:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:54:44 --> Current User ID: 66
+DEBUG - 2025-10-26 17:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:55:09 --> Current User ID: 66
+DEBUG - 2025-10-26 17:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:55:36 --> Current User ID: 66
+DEBUG - 2025-10-26 17:56:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:56:02 --> Current User ID: 66
+DEBUG - 2025-10-26 17:56:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 17:56:32 --> Current User ID: 66
+DEBUG - 2025-10-26 18:00:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:00:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:00:04 --> Number of children found: 2
+DEBUG - 2025-10-26 18:00:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:00:04 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:00:04 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:00:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:00:17 --> Current User ID: 66
+DEBUG - 2025-10-26 18:00:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:00:19 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:00:19 --> Number of children found: 2
+DEBUG - 2025-10-26 18:00:19 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:00:19 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:00:19 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:00:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:00:32 --> Current User ID: 66
+DEBUG - 2025-10-26 18:00:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:00:34 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:00:34 --> Number of children found: 2
+DEBUG - 2025-10-26 18:00:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:00:34 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:00:34 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:02:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:02:26 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:02:26 --> Number of children found: 2
+DEBUG - 2025-10-26 18:02:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:02:26 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:02:26 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:03:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:03:28 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:03:28 --> Number of children found: 2
+DEBUG - 2025-10-26 18:03:28 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:03:28 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:03:28 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 189.
+ 1 APPPATH\Views\guardian\dashboard.php(189): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 189)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:03:37 --> Current User ID: 66
+DEBUG - 2025-10-26 18:04:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:04:02 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:04:02 --> Number of children found: 2
+DEBUG - 2025-10-26 18:04:02 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:04:02 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:04:02 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:06:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:06:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:06:04 --> Number of children found: 2
+DEBUG - 2025-10-26 18:06:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:06:04 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:06:04 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 191.
+ 1 APPPATH\Views\guardian\dashboard.php(191): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 191)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:06:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:06:12 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:06:12 --> Number of children found: 2
+DEBUG - 2025-10-26 18:06:12 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:06:12 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:06:13 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(389): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:07:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:07:57 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:07:57 --> Number of children found: 2
+DEBUG - 2025-10-26 18:07:57 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:07:57 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:07:57 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(388): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:10:37 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:10:37 --> Number of children found: 2
+DEBUG - 2025-10-26 18:10:37 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:10:37 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:10:37 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(388): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:11:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:11:33 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:11:33 --> Number of children found: 2
+DEBUG - 2025-10-26 18:11:33 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:11:33 --> Current User ID: 66
+CRITICAL - 2025-10-26 18:11:33 --> ErrorException: Undefined variable $students
+[Method: GET, Route: guardian/dashboard/66]
+in APPPATH\Views\guardian\dashboard.php on line 105.
+ 1 APPPATH\Views\guardian\dashboard.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/dashboard', [], true)
+ 5 APPPATH\Controllers\GuardianAccountController.php(388): view('guardian/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->mainFromStudentDashboard('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 18:13:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:04 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:13:04 --> Number of children found: 2
+DEBUG - 2025-10-26 18:13:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:13:04 --> Current User ID: 66
+DEBUG - 2025-10-26 18:13:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:30 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:13:30 --> Number of children found: 2
+DEBUG - 2025-10-26 18:13:30 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:13:30 --> Current User ID: 66
+DEBUG - 2025-10-26 18:13:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:32 --> Current User ID: 66
+DEBUG - 2025-10-26 18:13:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:13:34 --> getAllremarks called for user_id=66. Found 0 remarks.
+DEBUG - 2025-10-26 18:13:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:13:40 --> Number of children found: 2
+DEBUG - 2025-10-26 18:13:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:13:40 --> Current User ID: 66
+DEBUG - 2025-10-26 18:13:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:13:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:14:34 --> Payment Data: amount=5000, fullname=Roldan Oliveros, email=Roldanoliveros0921@gmail.com, number=09205804090, method=gcash, type=, card=, exp_month=0, exp_year=0, cvc=, bank_code=, childern=["25","71"], planId=4,pay_type=monthly,paymentDate2025-10-26
+DEBUG - 2025-10-26 18:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:14:40 --> --- START: payonlinefulltuition ---
+INFO - 2025-10-26 18:14:40 --> Incoming Data: Children: ["25","71"], AmountPaid: 5000, PlanID: 4, Method: Online
+INFO - 2025-10-26 18:14:40 --> Plan Retrieved: Total Amount 25000.00
+INFO - 2025-10-26 18:14:40 --> Per Child Computation: 2500
+INFO - 2025-10-26 18:14:40 --> Processing ChildID: 25
+INFO - 2025-10-26 18:14:40 --> NO Previous Payment Found. Using Full Plan Amount 25000.00
+INFO - 2025-10-26 18:14:40 --> Computed Remaining for Child 25: 22500
+INFO - 2025-10-26 18:14:40 --> INSERTED PAYMENT: {"user_id":"25","plan_id":4,"amount_paid":2500,"remaining_balance":22500,"payment_method":"Online","payment_date":"2025-10-26","status":"Pending"}
+INFO - 2025-10-26 18:14:40 --> Processing ChildID: 71
+INFO - 2025-10-26 18:14:40 --> NO Previous Payment Found. Using Full Plan Amount 25000.00
+INFO - 2025-10-26 18:14:40 --> Computed Remaining for Child 71: 22500
+INFO - 2025-10-26 18:14:40 --> INSERTED PAYMENT: {"user_id":"71","plan_id":4,"amount_paid":2500,"remaining_balance":22500,"payment_method":"Online","payment_date":"2025-10-26","status":"Pending"}
+INFO - 2025-10-26 18:14:40 --> --- END: payonlinefulltuition ---
+DEBUG - 2025-10-26 18:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:14:40 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:14:40 --> Number of children found: 2
+DEBUG - 2025-10-26 18:14:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:14:40 --> Current User ID: 66
+DEBUG - 2025-10-26 18:14:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:14:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:16:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:16:11 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:16:11 --> Number of children found: 2
+DEBUG - 2025-10-26 18:16:11 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:16:11 --> Current User ID: 66
+DEBUG - 2025-10-26 18:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:16:16 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 2
+            [username] => attendance
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1752500194_0af467351368e5d19bbc.jpg
+            [full_name] => Attendance Attendance
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 18:16:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:16:41 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 2
+            [username] => attendance
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1752500194_0af467351368e5d19bbc.jpg
+            [full_name] => Attendance Attendance
+            [unread_count] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 18:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 18:17:03 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 18:17:03 --> Number of children found: 2
+DEBUG - 2025-10-26 18:17:03 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 18:17:03 --> Current User ID: 66
+DEBUG - 2025-10-26 18:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 18:32:07 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 2
+            [username] => attendance
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1752500194_0af467351368e5d19bbc.jpg
+            [full_name] => Attendance Attendance
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [6] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 19:22:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:22:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:22:50 --> user_id: 1
+DEBUG - 2025-10-26 19:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 19:22:53 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 19:22:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 19:22:57 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 19:23:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:23:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:23:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 19:23:36 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 19:23:36 --> Number of children found: 2
+DEBUG - 2025-10-26 19:23:36 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 19:23:36 --> Current User ID: 66
+DEBUG - 2025-10-26 20:14:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:14:35 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 20:14:35 --> Number of children found: 2
+DEBUG - 2025-10-26 20:14:35 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 20:14:35 --> Current User ID: 66
+DEBUG - 2025-10-26 20:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:14:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:14:55 --> user_id: 1
+DEBUG - 2025-10-26 20:15:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 20:15:01 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 20:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 20:15:58 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 20:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 20:15:59 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [5] => Array
+        (
+            [id] => 72
+            [username] => asdasd
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 
+            [full_name] => 
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 20:15:59 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/72]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(117): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('72')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 20:16:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 20:16:59 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 20:16:59 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/72]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(117): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('72')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 20:17:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 20:17:01 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 20:17:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:17:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:17:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 20:17:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:28:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:34:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:34:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:34:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:34:59 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 22:34:59 --> Number of children found: 2
+DEBUG - 2025-10-26 22:34:59 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 22:34:59 --> Current User ID: 66
+DEBUG - 2025-10-26 22:37:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 22:37:29 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 22:37:29 --> Number of children found: 2
+DEBUG - 2025-10-26 22:37:29 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 22:37:29 --> Current User ID: 66
+DEBUG - 2025-10-26 22:37:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 22:37:32 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 22:37:32 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/guardian-chat.php"
+[Method: GET, Route: student-chat]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/guardian-chat.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('user/guardian-chat', [], true)
+ 3 APPPATH\Controllers\MessageController.php(37): view('user/guardian-chat', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:15:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:15:59 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 23:15:59 --> Number of children found: 2
+DEBUG - 2025-10-26 23:15:59 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 23:15:59 --> Current User ID: 66
+DEBUG - 2025-10-26 23:16:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:16:01 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:16:01 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "user/guardian-chat.php"
+[Method: GET, Route: student-chat]
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(212): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('user/guardian-chat.php')
+ 2 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('user/guardian-chat', [], true)
+ 3 APPPATH\Controllers\MessageController.php(37): view('user/guardian-chat', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:16:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:16:20 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:16:20 --> ErrorException: Undefined variable $unread_announcement
+[Method: GET, Route: student-chat]
+in APPPATH\Views\guardian\guardian-chat.php on line 96.
+ 1 APPPATH\Views\guardian\guardian-chat.php(96): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $unread_announcement', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-chat.php', 96)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(37): view('guardian/guardian-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:19:02 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:19:02 --> ErrorException: Undefined variable $user_id
+[Method: GET, Route: student-chat]
+in APPPATH\Controllers\MessageController.php on line 36.
+ 1 APPPATH\Controllers\MessageController.php(36): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\MessageController.php', 36)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:19:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:19:23 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:19:23 --> ErrorException: Undefined variable $user_id
+[Method: GET, Route: student-chat]
+in APPPATH\Controllers\MessageController.php on line 37.
+ 1 APPPATH\Controllers\MessageController.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $user_id', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\MessageController.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:19:44 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:19:44 --> ErrorException: Undefined variable $students
+[Method: GET, Route: student-chat]
+in APPPATH\Views\guardian\guardian-chat.php on line 105.
+ 1 APPPATH\Views\guardian\guardian-chat.php(105): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $students', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-chat.php', 105)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\guardian\\guardian-chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('guardian/guardian-chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(41): view('guardian/guardian-chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-10-26 23:21:32 --> ErrorException: Undefined variable $guardianModel
+[Method: GET, Route: student-chat]
+in APPPATH\Controllers\MessageController.php on line 24.
+ 1 APPPATH\Controllers\MessageController.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $guardianModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Controllers\\MessageController.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->index()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:22:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:22:17 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:22:35 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:23:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:23:43 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:24:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:24:34 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:24:37 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:25:01 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:25:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:25:10 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:25:20 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:25:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:25:22 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:27:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:27:35 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:27:38 --> Fetching children for guardian ID: 66
+DEBUG - 2025-10-26 23:27:38 --> Number of children found: 2
+DEBUG - 2025-10-26 23:27:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 25
+            [full_name] => Oliveros zie
+            [profile_pic] => 1752420767_9459efda9027940a87c4.webp
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 66
+            [admission_id] => 71
+            [full_name] => Oliveros Roldan
+            [profile_pic] => 1760718376_4415351e0873d15d40f2.jpg
+        )
+
+)
+
+DEBUG - 2025-10-26 23:27:38 --> Current User ID: 66
+DEBUG - 2025-10-26 23:27:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:27:41 --> Retrieved contacts for user_id '66' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 1
+            [username] => admin
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => 1759905491_874f7f16139ab4958c84.png
+            [full_name] => admin Admin
+            [unread_count] => 0
+        )
+
+    [1] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:28:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:28:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:28:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:28:52 --> user_id: 1
+DEBUG - 2025-10-26 23:28:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:28:55 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:28:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:28:58 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:28:58 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(122): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:29:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:29:41 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:29:41 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(122): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:31:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:31:20 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:31:20 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(122): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:31:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:31:24 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:31:24 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(122): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:32:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:32:04 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:32:04 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(123): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:33:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:33:22 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:33:22 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\AdminStaffModel::profileandfullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(123): CodeIgniter\Model->__call('profileandfullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:38:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:38:04 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:38:04 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:38:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:38:24 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:38:24 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:38:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:38:29 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:38:29 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:12 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:39:12 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:14 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:39:14 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:27 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:39:27 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:29 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:39:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:38 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:39:38 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:41 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:39:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:43 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:39:43 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:39:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:39:59 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:40:00 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:40:00 --> ErrorException: Undefined variable $userId
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Models\Teacher_Model.php on line 176.
+ 1 APPPATH\Models\Teacher_Model.php(176): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $userId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Models\\Teacher_Model.php', 176)
+ 2 APPPATH\Controllers\MessageController.php(122): App\Models\Teacher_Model->profileFullname('66')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:40:18 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:40:18 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Teacher_Model::profileFullname
+[Method: GET, Route: admin-chats/66]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\MessageController.php(122): CodeIgniter\Model->__call('profileFullname', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:42:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:42:12 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+CRITICAL - 2025-10-26 23:42:12 --> ErrorException: Undefined array key "full_name"
+[Method: GET, Route: admin-chats/66]
+in APPPATH\Views\admin\chat.php on line 143.
+ 1 APPPATH\Views\admin\chat.php(143): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "full_name"', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\admin\\chat.php', 143)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\copstone\\app\\Views\\admin\\chat.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/chat', [], true)
+ 5 APPPATH\Controllers\MessageController.php(133): view('admin/chat', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\MessageController->indexAdmin('66')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\MessageController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-10-26 23:42:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:42:56 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:03 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:04 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:06 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:07 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:08 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:10 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:11 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:13 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:20 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:43:24 --> user_id: 1
+DEBUG - 2025-10-26 23:43:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:25 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:27 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:31 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:38 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:39 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:41 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:50 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:43:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:43:52 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:46:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:46:54 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:47:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:47:28 --> user_id: 1
+DEBUG - 2025-10-26 23:47:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:47:30 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:47:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:47:32 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:47:34 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:27 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:29 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:31 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:32 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-10-26 23:49:34 --> user_id: 1
+DEBUG - 2025-10-26 23:49:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:36 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+
+DEBUG - 2025-10-26 23:49:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2025-10-26 23:49:38 --> Retrieved contacts for user_id '1' | Contacts: Array
+(
+    [0] => Array
+        (
+            [id] => 66
+            [username] => olive
+            [last_message] => test send
+            [sent_at] => 2025-10-26 23:25:10
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 1
+        )
+
+    [1] => Array
+        (
+            [id] => 71
+            [username] => elca
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Elca Sad
+            [unread_count] => 0
+        )
+
+    [2] => Array
+        (
+            [id] => 41
+            [username] => roldant
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => 1759499986_37e2dcf3dacfb4d5bf28.jpg
+            [full_name] => roldant Oliveros
+            [unread_count] => 0
+        )
+
+    [3] => Array
+        (
+            [id] => 70
+            [username] => utoy
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldan Oliveros
+            [unread_count] => 0
+        )
+
+    [4] => Array
+        (
+            [id] => 73
+            [username] => oliv
+            [last_message] => 
+            [sent_at] => 
+            [profile_pic] => default.webp
+            [full_name] => Roldanoliveros Oliveros
+            [unread_count] => 0
+        )
+
+)
+

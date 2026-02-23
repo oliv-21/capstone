@@ -1,0 +1,624 @@
+<?php
+
+namespace App\Controllers;
+require_once( 'vendor/autoload.php' );
+use App\Models\Admin_Model;
+use App\Models\UserModel;
+use App\Models\StudentModel;
+use App\Models\Attendance_Model;
+use Semaphore\SemaphoreClient;
+use App\Models\ClassModel;
+use App\Models\GuardianModel;
+
+use CodeIgniter\API\ResponseTrait;
+
+class AttendanceController extends BaseController
+{
+   
+    public function attendance()
+    {
+        $this->maybeMarkAbsentees();
+
+        $studentModel = new \App\Models\StudentModel();
+        $students = $studentModel->attendanceDetails();
+
+        $class_model = new \App\Models\ClassModel();
+        $data = [];
+        $data['classes'] = $class_model->findAll();
+        $data['students'] = $students;
+
+        return view('attendance/attendance', $data);
+    }
+
+    public function staffprofile()
+    {   
+        $userModel = new \App\Models\UserModel();
+        $email = $userModel->email();
+        $profilepicModel = new \App\Models\AdminStaffModel();
+        $profilepic = $profilepicModel->profilepic();
+        
+
+
+        // Mag-log sa app/Logs/log-XXXX.php
+        log_message('debug', 'Email fetched: ' . $email);
+
+        $data = [
+            'email' => $email,
+            'profilepic' => $profilepic
+        ];
+        $this->maybeMarkAbsentees();
+
+        return view('attendance/staff-profile', $data);
+    }
+   
+     public function staffprofilepost()
+    {
+        $userModel = new \App\Models\UserModel();
+        $staffModel = new \App\Models\AdminStaffModel();
+
+        $userId = session()->get('user_id');
+        if (!$userId) {
+            return redirect()->back()->with('error', 'User not logged in.');
+        }
+
+        // Get email from POST
+        $newEmail = $this->request->getPost('email');
+
+        // Update email in users table
+        $userModel->update($userId, ['email' => $newEmail]);
+
+        // Handle profile image
+        $file = $this->request->getFile('profile_image');
+        if ($file && $file->isValid() && !$file->hasMoved()) {
+            $newName = $file->getRandomName();
+            $file->move('public/assets/profilepic', $newName); // moves to public/assets/img
+            $staffModel->where('user_id', $userId)->set(['profilepic' => $newName])->update();
+        }
+
+        return redirect()->to('/staffprofile')->with('success', 'Profile updated.');
+    }
+
+
+
+    
+  
+    use ResponseTrait;
+    public function markArrival()
+    {
+        if (!$this->request->isAJAX() || !$this->request->is('post')) {
+            return $this->failForbidden('Invalid request');
+        }
+
+        $data = $this->request->getJSON(true);
+        log_message('debug', 'User data: ' . print_r($data, true));
+        
+
+        if (empty($data['user_id']) || empty($data['date']) || empty($data['arrival_time'])) {
+            return $this->failValidationErrors('Missing required fields');
+        }
+
+        $attendanceModel = new Attendance_Model();
+
+        $existing = $attendanceModel->where('user_id', $data['user_id'])
+            ->where('date', $data['date'])
+            ->first();
+
+        if ($existing) {
+            return $this->fail('Attendance already marked for today');
+        }
+
+        $insertData = [
+            'user_id' => $data['user_id'],
+            'date' => $data['date'],
+            'arrival_time' => $data['arrival_time'],
+            'status' => $data['status'] ?? 'Present',
+            'leave_time'=>'',
+            'picked_up_by' => '',
+        ];
+
+        if ($attendanceModel->insert($insertData)) {
+                $email = \Config\Services::email();
+                $userModel = new \App\Models\UserModel();
+                $user = $userModel->find($data['user_id']);
+                log_message('debug', 'User data: ' . print_r($user, true));
+
+                if ($user && !empty($user['email'])) {
+                    $email->setFrom('ecohaven28@gmail.com', 'Brightside');
+                    $email->setTo($user['email']);
+                    $email->setSubject('Child Arrival Notification');
+                    $email->setMessage("
+                        <p>Dear Parent/Guardian,</p>
+                        <p>This is to inform you that your child <strong>{$user['username']}</strong> has arrived at <strong>{$data['arrival_time']}</strong> on <strong>{$data['date']}</strong>.</p>
+                        <p>Thank you.</p>
+                    ");
+
+                    if (! $email->send()) {
+                        log_message('error', 'Email sending failed: ' . $email->printDebugger(['headers']));
+                        return $this->failServerError('Attendance saved but failed to send notification email.');
+                    }
+                }
+           if ($user) {
+            try {
+                $ch = curl_init();
+
+                $parameters = array(
+                    'apikey' => '5f2f71805ebd9df167abafa73c4cda61', 
+                    'number' => '09500925977',
+                    'message' => "Hello Your {$user['username']} has arrived at school at {$data['arrival_time']} on {$data['date']}.",
+                    'sendername' => 'SEMAPHORE'
+                );
+
+                curl_setopt($ch, CURLOPT_URL, 'https://semaphore.co/api/v4/messages');
+                curl_setopt($ch, CURLOPT_POST, 1);
+                curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($parameters));
+                curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+                $output = curl_exec($ch);
+                curl_close($ch);
+
+                // Optional: decode response and check for errors
+                $response = json_decode($output, true);
+                if (isset($response['errors'])) {
+                    log_message('error', 'SMS Error: ' . json_encode($response['errors']));
+                }
+            } catch (Exception $e) {
+                log_message('error', 'SMS Exception: ' . $e->getMessage());
+            }
+        }
+
+
+            return $this->respond(['success' => true]);
+        } else {
+            return $this->failServerError('Failed to save attendance');
+        }
+    }
+    public function markPickup()
+    {
+        if (!$this->request->isAJAX() || !$this->request->is('post')) {
+            return $this->failForbidden('Invalid request');
+        }
+
+        $data = $this->request->getJSON(true);
+
+        if (
+            empty($data['user_id']) ||
+            empty($data['leave_time']) ||
+            empty($data['guardian_id']) ||
+            empty($data['date'])
+        ) {
+            return $this->failValidationErrors('Missing required fields');
+        }
+
+        $attendanceModel = new \App\Models\Attendance_Model();
+
+        $existing = $attendanceModel->where('user_id', $data['user_id'])
+            ->where('date', $data['date'])
+            ->first();
+
+        if (!$existing) {
+            return $this->failNotFound('Attendance record not found');
+        }
+
+        $updateData = [
+            'leave_time' => $data['leave_time'],
+            'picked_up_by' => $data['guardian_id'],
+        ];
+
+        // Get guardian details
+        $guardianModel = new \App\Models\GuardianModel();
+        $guardianDetails = $guardianModel->find($data['guardian_id']);
+        log_message('debug', 'Guardian data: ' . print_r($guardianDetails, true));
+
+        if ($attendanceModel->update($existing->id, $updateData)) {
+
+            $userModel = new \App\Models\UserModel();
+            $user = $userModel->find($data['user_id']);
+            log_message('debug', 'User data: ' . print_r($user, true));
+
+            if ($user && !empty($user['email'])) {
+                $email = \Config\Services::email();
+
+                $email->setFrom('ecohaven28@gmail.com', 'Brightside');
+                $email->setTo($user['email']);
+                $email->setSubject('Child Arrival Notification');
+
+                $username = is_array($user['username']) ? '[Invalid Username]' : $user['username'];
+                $leaveTime = is_array($data['leave_time']) ? '[Invalid Time]' : $data['leave_time'];
+                $date = isset($data['date']['value']) ? $data['date']['value'] : '[Invalid Date]';
+
+                $guardianName = isset($guardianDetails->full_name) ? $guardianDetails->full_name : 'Unknown';
+
+                $message = "<html>
+                    <body>
+                        <p>Dear Parent/Guardian,</p>
+                        <p>This is to inform you that your child <strong>" . htmlspecialchars((string)$username) . "</strong> was picked up at <strong>" . htmlspecialchars((string)$leaveTime) . "</strong> on <strong>" . htmlspecialchars((string)$date) . "</strong>.</p>
+                        <p>Picked up by: <strong>" . htmlspecialchars((string)$guardianName) . "</strong></p>
+                        <p>Thank you.</p>
+                    </body>
+                </html>";
+
+                $email->setMessage($message);
+
+                if (!$email->send()) {
+                    log_message('error', 'Email sending failed: ' . print_r($email->printDebugger(['headers', 'subject', 'body']), true));
+                    return $this->failServerError('Attendance saved but failed to send notification email.');
+                }
+            }
+
+            return $this->respond(['success' => true]);
+        } else {
+            return $this->failServerError('Failed to save attendance');
+        }
+    }
+    public function getGuardiansByUserId($userId)
+    {
+        $guardianModel = new \App\Models\GuardianModel();
+        $guardians = $guardianModel
+            ->where('user_id', $userId)
+            ->findAll();
+
+        return $this->response->setJSON($guardians);
+    }
+    //lilipat
+    public function markDailyAbsentees()
+    {
+        $today = date('Y-m-d');
+        $studentModel = new StudentModel();
+        $attendanceModel = new Attendance_Model();
+
+        // Get all enrolled students
+        $allStudents = $studentModel->select('user_id')->findAll();
+
+        // Get user_ids that already have attendance today
+        $presentStudents = $attendanceModel
+            ->select('user_id')
+            ->where('date', $today)
+            ->findAll();
+
+        $presentIds = array_column($presentStudents, 'user_id');
+
+        $absentData = [];
+
+        foreach ($allStudents as $student) {
+            if (!in_array($student['user_id'], $presentIds)) {
+                $absentData[] = [
+                    'user_id' => $student['user_id'],
+                    'date' => $today,
+                    'status' => 'Absent',
+                    'arrival_time' => '',
+                    'leave_time' => '',
+                    'picked_up_by' => '',
+                ];
+            }
+        }
+
+        if (!empty($absentData)) {
+            $attendanceModel->insertBatch($absentData);
+        }
+
+        return $this->response->setJSON([
+            'message' => 'Absentees marked successfully',
+            'count' => count($absentData)
+        ]);
+    }
+    public function maybeMarkAbsentees()
+    {
+        $currentHour = date('H');
+
+    // Only trigger at 6PM (18:00)
+        if ($currentHour == '18') {
+            $url = base_url('mark-absentees');
+            $ch = curl_init($url);
+            curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+            curl_exec($ch); 
+            curl_close($ch);
+        }
+    }
+
+
+
+
+
+
+    
+    public function markArrivalqrcode()
+    {
+        
+        header('Access-Control-Allow-Origin: *');
+        header('Access-Control-Allow-Headers: Content-Type, X-Requested-With');
+        header('Access-Control-Allow-Methods: POST, OPTIONS');
+
+        if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+            // Handle preflight
+            exit(0);
+        }
+
+        if (!$this->request->isAJAX() || !$this->request->is('post')) {
+            return $this->failForbidden('Invalid request');
+        }
+
+        $data = $this->request->getJSON(true);
+
+        if (empty($data['guardian_qr_id']) || empty($data['date']) || empty($data['arrival_time'])) {
+            return $this->failValidationErrors('Missing required fields');
+        }
+
+        $qrCode = $data['guardian_qr_id'];
+
+        // Remove "Guardian ID: " prefix if it exists (trim spaces too)
+        $qrCode = trim(str_replace('Guardian ID:', '', $qrCode));
+
+        if (substr($qrCode, -4) !== '.png') {
+            $qrCode .= '.png';
+        }
+
+        log_message('debug', 'Processed QR Code: ' . $qrCode);
+
+        // Load Guardian model and find guardian by QR code
+        $guardianModel = new \App\Models\GuardianModel();
+        $guardian = $guardianModel->getUserIdByQrCode($qrCode);
+        log_message('debug', 'guardian: ' . json_encode($guardian));
+
+        if (!$guardian) {
+            return $this->failNotFound('Guardian QR code not found');
+        }
+        $userId = $guardian->user_id;
+
+        $attendanceModel = new \App\Models\Attendance_Model();
+
+        // Check if attendance already marked for the child on that date
+        $existing = $attendanceModel->where('user_id', $userId)
+            ->where('date', $data['date'])
+            ->first();
+
+        if ($existing) {
+            return $this->fail('Attendance already marked for today');
+        }
+
+        $insertData = [
+            'user_id' => $userId,
+            'date' => $data['date'],
+            'arrival_time' => $data['arrival_time'],
+            'status' => $data['status'] ?? 'Present',
+            'accompanied_by' => $qrCode,
+            'leave_time' => '',  
+            'picked_up_by' => '',
+        ];
+
+        if ($attendanceModel->insert($insertData)) {
+            // Send email notification
+            $email = \Config\Services::email();
+            $userModel = new \App\Models\UserModel();
+            $user = $userModel->find($userId);
+
+            $emailSent = true;
+            if ($user && !empty($user['email'])) {
+                $email->setFrom('ecohaven28@gmail.com', 'Brightside');
+                $email->setTo($user['email']);
+                $email->setSubject('Child Arrival Notification');
+                $email->setMessage("
+                    <p>Dear Parent/Guardian,</p>
+                    <p>This is to inform you that your child <strong>{$user['username']}</strong> has arrived at <strong>{$data['arrival_time']}</strong> on <strong>{$data['date']}</strong>.</p>
+                    <p>Thank you.</p>
+                ");
+
+                if (!$email->send()) {
+                    log_message('error', 'Email sending failed: ' . $email->printDebugger(['headers']));
+                    $emailSent = false;
+                }
+            }
+            return $this->respond(['success' => true, 'email_sent' => $emailSent]);
+        } else {
+            return $this->failServerError('Failed to save attendance');
+        }
+    }
+
+    public function pickupQRcode()
+    {
+
+        $model = new \App\Models\CustomizeThemeModel();
+        $settingsRow = $model->SettingsMessage();
+        log_message('debug', 'Settings Row: ' . print_r($settingsRow, true));
+
+        $settings = is_array($settingsRow) ? $settingsRow : [];
+        log_message('debug', 'Parsed Settings: ' . print_r($settings, true));
+
+        
+        // Set CORS headers
+        header('Access-Control-Allow-Origin: *');
+        header('Access-Control-Allow-Headers: Content-Type, X-Requested-With');
+        header('Access-Control-Allow-Methods: POST, OPTIONS');
+
+        if ($_SERVER['REQUEST_METHOD'] === 'OPTIONS') {
+            exit(0); // CORS preflight
+        }
+
+        if (!$this->request->isAJAX() || !$this->request->is('post')) {
+            return $this->failForbidden('Invalid request');
+        }
+
+        $data = $this->request->getJSON(true);
+        log_message('info', 'Received JSON data: ' . print_r($data, true));
+
+        // Validate required fields
+        if (empty($data['guardian_qr_id']) || empty($data['date']) || empty($data['arrival_time'])) {
+            return $this->failValidationErrors('Missing required fields');
+        }
+
+        // Process QR Code
+        $qrCode = trim(str_replace('Guardian ID:', '', $data['guardian_qr_id']));
+        if (substr($qrCode, -4) !== '.png') {
+            $qrCode .= '.png';
+        }
+        log_message('debug', 'Processed QR Code: ' . $qrCode);
+
+        // Get guardian data
+        $guardianModel = new \App\Models\GuardianModel();
+        $guardian = $guardianModel->getUserIdByQrCode($qrCode);
+        log_message('debug', 'Guardian lookup result: ' . json_encode($guardian));
+
+        if (!$guardian) {
+            return $this->failNotFound('Guardian QR code not found');
+        }
+
+        $userId = $guardian->user_id;
+
+        // Fetch attendance record
+        $attendanceModel = new \App\Models\Attendance_Model();
+        $existing = $attendanceModel
+            ->where('user_id', $userId)
+            ->where('date', $data['date'])
+            ->first();
+
+        if (!$existing) {
+            return $this->failNotFound('Attendance record not found');
+        }
+
+        // Update attendance
+        $updateData = [
+            'leave_time' => $data['arrival_time'],
+            'picked_up_by' => $qrCode,
+        ];
+
+        // Get guardian full name
+        $guardianDetails = $guardianModel->guardianData($qrCode);
+        log_message('debug', 'Guardian details: ' . print_r($guardianDetails, true));
+        $guardianName = isset($guardianDetails->full_name) ? $guardianDetails->full_name : 'Unknown';
+
+        //studentdata
+        $studentModel = new \App\Models\StudentModel();
+        $studentDetails = $studentModel->getdataStudent($userId);
+        log_message('debug', 'Student details: ' . print_r($studentDetails, true));
+
+        $contactNumber = isset($studentDetails->contact_number) ? $studentDetails->contact_number : '';
+
+        // Normalize number to start with 63
+        if (preg_match('/^0\d{10}$/', $contactNumber)) {
+            $contactNumber = '63' . substr($contactNumber, 1);
+        } elseif (preg_match('/^\+63/', $contactNumber)) {
+            $contactNumber = str_replace('+', '', $contactNumber);
+        }
+
+        log_message('debug', 'Contact number: ' . $contactNumber);
+
+        
+    
+
+        if ($attendanceModel->update($existing->id, $updateData)) {
+
+            $userModel = new \App\Models\UserModel();
+            $user = $userModel->find($userId);
+            log_message('debug', 'User data: ' . print_r($user, true));
+
+            $username = is_array($user['username']) ? '[Invalid Username]' : $user['username'];
+            $leaveTime = is_array($data['arrival_time']) ? '[Invalid Time]' : $data['arrival_time'];
+            $date = $data['date'];
+
+            
+            if (
+                isset($settings['email_enabled']) && $settings['email_enabled'] == 1 &&
+                $user && !empty($user['email'])
+            ) {
+                $email = \Config\Services::email();
+                $email->setFrom('ecohaven28@gmail.com', 'Brightside');
+                $email->setTo($user['email']);
+                $email->setSubject('Child Arrival Notification');
+
+                $message = "
+                    <html>
+                        <body>
+                            <p>Dear Parent/Guardian,</p>
+                            <p>This is to inform you that your child <strong>" . htmlspecialchars($username) . "</strong> was picked up at <strong>" . htmlspecialchars($leaveTime) . "</strong> on <strong>" . htmlspecialchars($date) . "</strong>.</p>
+                            <p>Picked up by: <strong>" . htmlspecialchars($guardianName) . "</strong></p>
+                            <p>Thank you.</p>
+                        </body>
+                    </html>
+                ";
+                $email->setMessage($message);
+
+                if (!$email->send()) {
+                    log_message('error', 'Email sending failed: ' . print_r($email->printDebugger(['headers', 'subject', 'body']), true));
+                    return $this->failServerError('Attendance saved but failed to send notification email.');
+                }
+            }
+
+            // ✅ SMS section
+            if (
+                isset($settings['sms_enabled']) && $settings['sms_enabled'] == 1 &&
+                !empty($contactNumber)
+            ) {
+                try {
+                    $ch = curl_init();
+
+                    $parameters = [
+                        'apikey' => '5f2f71805ebd9df167abafa73c4cda61',
+                        'number' => $contactNumber,
+                        'message' => "Hello, your child {$username} was picked up at school at {$leaveTime} on {$date} by {$guardianName}.",
+                        'sendername' => 'Brightside'
+                    ];
+
+                    curl_setopt($ch, CURLOPT_URL, 'https://semaphore.co/api/v4/messages');
+                    curl_setopt($ch, CURLOPT_POST, 1);
+                    curl_setopt($ch, CURLOPT_POSTFIELDS, http_build_query($parameters));
+                    curl_setopt($ch, CURLOPT_RETURNTRANSFER, true);
+
+                    $output = curl_exec($ch);
+                    curl_close($ch);
+
+                    log_message('debug', 'SMS API response: ' . $output);
+
+                    $response = json_decode($output, true);
+                    if (isset($response['errors'])) {
+                        log_message('error', 'SMS Error: ' . json_encode($response['errors']));
+                    }
+                } catch (Exception $e) {
+                    log_message('error', 'SMS Exception: ' . $e->getMessage());
+                }
+            }
+
+            return $this->respond(['success' => true]);
+        }
+
+
+        return $this->failServerError('Failed to save attendance');
+    }
+
+    public function resetPasswordPost()
+    {
+        if (!session()->get('user_id')) {
+        return redirect()->to('/login');
+        }
+
+        $userId = session()->get('user_id');
+
+        $currentPassword = $this->request->getPost('current_password');
+        $newPassword = $this->request->getPost('new_password');
+        $confirmPassword = $this->request->getPost('confirm_password');
+
+        // Validate new passwords
+        if ($newPassword !== $confirmPassword) {
+            return redirect()->to('/staffprofile')->with('error', 'New passwords do not match.');
+        }
+
+        $userModel = new \App\Models\UserModel(); // Replace with your actual user model
+        $user = $userModel->find($userId);
+
+        if (!$user || $currentPassword !== $user['password_hash']) {
+        return redirect()->to('/staffprofile')->with('error', 'Current password is incorrect.');
+        }
+
+        // Hash and update password
+        $userModel->update($userId, [
+            'password_hash' => $newPassword
+        ]);
+
+
+        return redirect()->to('/attendance')->with('success', 'Password changed successfully.');
+    }
+
+
+
+
+
+
+}

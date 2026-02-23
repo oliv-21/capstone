@@ -1,0 +1,717 @@
+DEBUG - 2025-12-24 01:39:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:39:41 --> No user ID in session.
+CRITICAL - 2025-12-24 01:39:41 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: teacher-dashboard]
+in APPPATH\Views\teacher\dashboard.php on line 93.
+ 1 APPPATH\Views\teacher\dashboard.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\dashboard.php', 93)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('teacher/dashboard', [], true)
+ 5 APPPATH\Controllers\TeacherController.php(50): view('teacher/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-24 01:39:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:39:54 --> No user ID in session.
+CRITICAL - 2025-12-24 01:39:54 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: teacher-students]
+in APPPATH\Views\teacher\student.php on line 82.
+ 1 APPPATH\Views\teacher\student.php(82): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\student.php', 82)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\student.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('teacher/student', [], true)
+ 5 APPPATH\Controllers\TeacherController.php(119): view('teacher/student', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherStudents()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-24 01:39:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:39:57 --> No user ID in session.
+CRITICAL - 2025-12-24 01:39:57 --> ErrorException: Trying to access array offset on value of type null
+[Method: GET, Route: teacher-dashboard]
+in APPPATH\Views\teacher\dashboard.php on line 93.
+ 1 APPPATH\Views\teacher\dashboard.php(93): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\dashboard.php', 93)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\teacher\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('teacher/dashboard', [], true)
+ 5 APPPATH\Controllers\TeacherController.php(50): view('teacher/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\TeacherController->teacherDashboard()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\TeacherController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-24 01:40:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:40:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:45:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:47:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:48:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:48:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:49:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:50:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 01:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:07:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:07:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:07:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:08:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:11:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:18:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:18:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:18:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:24:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:24:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:25:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:26:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:22 --> Fetching children for guardian ID: 111
+DEBUG - 2025-12-24 02:27:22 --> Number of children found: 0
+DEBUG - 2025-12-24 02:27:22 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-24 02:27:22 --> Current User ID: 111
+DEBUG - 2025-12-24 02:27:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:46 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:27:46 --> Number of children found: 1
+DEBUG - 2025-12-24 02:27:46 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:27:46 --> Current User ID: 108
+DEBUG - 2025-12-24 02:27:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:27:51 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:27:51 --> Number of children found: 2
+DEBUG - 2025-12-24 02:27:51 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:27:51 --> Current User ID: 108
+DEBUG - 2025-12-24 02:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-12-24 02:34:26 --> mysqli_sql_exception: Unknown column 'a.openingclosing_id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('\r\n             ...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('\r\n             ...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('\r\n             ...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\AnnouncementModel.php(108): CodeIgniter\Database\BaseConnection->query('\r\n             ...', Array)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\GuardianAccountController.php(922): App\Models\AnnouncementModel->AnnouncementGuardianOpening('108', '16')
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\GuardianAccountController->guardianAnnouncement('108')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2025-12-24 02:34:26 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'a.openingclosing_id' in 'where clause'
+[Method: GET, Route: guardian-announcement/108]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 APPPATH\Models\AnnouncementModel.php(108): CodeIgniter\Database\BaseConnection->query('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = ?
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = ?)
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ', [...])
+ 2 APPPATH\Controllers\GuardianAccountController.php(922): App\Models\AnnouncementModel->AnnouncementGuardianOpening('108', '16')
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->guardianAnnouncement('108')
+ 4 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 5 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-24 02:34:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'a.openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = \'108\'
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = \'16\')
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = \'108\'
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = \'16\')
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ')
+ 3 APPPATH\Models\AnnouncementModel.php(108): CodeIgniter\Database\BaseConnection->query('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = ?
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = ?)
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ', [...])
+ 4 APPPATH\Controllers\GuardianAccountController.php(922): App\Models\AnnouncementModel->AnnouncementGuardianOpening('108', '16')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->guardianAnnouncement('108')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-24 02:34:26 --> [Caused by] mysqli_sql_exception: Unknown column 'a.openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = \'108\'
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = \'16\')
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = \'108\'
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = \'16\')
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = \'108\'
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = \'16\')
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ')
+ 4 APPPATH\Models\AnnouncementModel.php(108): CodeIgniter\Database\BaseConnection->query('
+               SELECT 
+                a.id AS announcement_id,
+                a.title,
+                a.message,
+                a.status,
+                a.created_at,
+                COALESCE(t.first_name, ad.firstname) AS posted_by,
+                am.class_applied
+            FROM announcement a
+            LEFT JOIN teachers t ON t.user_id = a.user_id
+            LEFT JOIN adminandstaff ad ON ad.id = a.user_id
+            LEFT JOIN admissions am ON am.user_id = ?
+            WHERE (t.teacher_department = am.class_applied
+                OR a.user_id = ad.id and a.openingclosing_id = ?)
+            GROUP BY a.id
+            ORDER BY a.created_at DESC;
+                    ', [...])
+ 5 APPPATH\Controllers\GuardianAccountController.php(922): App\Models\AnnouncementModel->AnnouncementGuardianOpening('108', '16')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->guardianAnnouncement('108')
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-24 02:34:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:34:55 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:34:55 --> Number of children found: 2
+DEBUG - 2025-12-24 02:34:55 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:34:55 --> Current User ID: 108
+DEBUG - 2025-12-24 02:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:04 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:42:04 --> Number of children found: 2
+DEBUG - 2025-12-24 02:42:04 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:42:04 --> Current User ID: 108
+DEBUG - 2025-12-24 02:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:07 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:42:07 --> Number of children found: 2
+DEBUG - 2025-12-24 02:42:07 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:42:07 --> Current User ID: 108
+DEBUG - 2025-12-24 02:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:10 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:42:10 --> Number of children found: 2
+DEBUG - 2025-12-24 02:42:10 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:42:10 --> Current User ID: 108
+DEBUG - 2025-12-24 02:42:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:18 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:42:18 --> Number of children found: 2
+DEBUG - 2025-12-24 02:42:18 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:42:18 --> Current User ID: 108
+DEBUG - 2025-12-24 02:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:42:20 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:42:20 --> Number of children found: 2
+DEBUG - 2025-12-24 02:42:20 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:42:20 --> Current User ID: 108
+DEBUG - 2025-12-24 02:46:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:46:38 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:46:38 --> Number of children found: 2
+DEBUG - 2025-12-24 02:46:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:46:38 --> Current User ID: 108
+DEBUG - 2025-12-24 02:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:46:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:46:42 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:46:42 --> Number of children found: 2
+DEBUG - 2025-12-24 02:46:42 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:46:42 --> Current User ID: 108
+DEBUG - 2025-12-24 02:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:46:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 02:46:45 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:46:45 --> Number of children found: 2
+DEBUG - 2025-12-24 02:46:45 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 02:46:45 --> Current User ID: 108
+DEBUG - 2025-12-24 02:46:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2025-12-24 02:46:47 --> [DEPRECATED] Optional parameter $planId declared before required parameter $openingId is implicitly treated as a required parameter in APPPATH\Models\PaymentModel.php on line 681.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(316): include_once('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\system\\Debug\\Exceptions.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(295): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Models\\PaymentModel.php')
+ 3 SYSTEMPATH\Autoloader\Autoloader.php(271): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Models\\PaymentModel')
+ 4 APPPATH\Controllers\GuardianAccountController.php(721): CodeIgniter\Autoloader\Autoloader->loadClass('App\\Models\\PaymentModel')
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\GuardianAccountController->Parenthistory('108')
+ 6 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GuardianAccountController))
+ 7 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-24 02:46:47 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 02:46:47 --> Number of children found: 2
+DEBUG - 2025-12-24 02:46:47 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:26 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:26 --> Number of children found: 1
+DEBUG - 2025-12-24 03:07:26 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:26 --> Current User ID: 108
+DEBUG - 2025-12-24 03:07:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:31 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:31 --> Number of children found: 2
+DEBUG - 2025-12-24 03:07:31 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:31 --> Current User ID: 108
+DEBUG - 2025-12-24 03:07:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:34 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:34 --> Number of children found: 1
+DEBUG - 2025-12-24 03:07:34 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:34 --> Current User ID: 108
+DEBUG - 2025-12-24 03:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:38 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:38 --> Number of children found: 1
+DEBUG - 2025-12-24 03:07:38 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:38 --> Current User ID: 108
+DEBUG - 2025-12-24 03:07:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:40 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:40 --> Number of children found: 2
+DEBUG - 2025-12-24 03:07:40 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 86
+            [full_name] => Cale Felix Elca
+            [profile_pic] => 1764595381_ab8cf416d0a86372ee5a.jpg
+        )
+
+    [1] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:40 --> Current User ID: 108
+DEBUG - 2025-12-24 03:07:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-24 03:07:43 --> Fetching children for guardian ID: 108
+DEBUG - 2025-12-24 03:07:43 --> Number of children found: 1
+DEBUG - 2025-12-24 03:07:43 --> Children data: Array
+(
+    [0] => stdClass Object
+        (
+            [guardian_id] => 108
+            [admission_id] => 87
+            [full_name] => Felix Eduard Rogado
+            [profile_pic] => 1764599783_a8db6a79f32c4aadbd63.jpg
+        )
+
+)
+
+DEBUG - 2025-12-24 03:07:43 --> Current User ID: 108

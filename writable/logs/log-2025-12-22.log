@@ -1,0 +1,1121 @@
+DEBUG - 2025-12-22 15:48:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:48:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:48:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:49:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:49:00 --> user_id: 1
+DEBUG - 2025-12-22 15:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:50:40 --> user_id: 1
+DEBUG - 2025-12-22 15:51:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:51:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:51:37 --> user_id: 1
+DEBUG - 2025-12-22 15:51:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:51:39 --> user_id: 1
+DEBUG - 2025-12-22 15:51:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:51:41 --> user_id: 1
+DEBUG - 2025-12-22 15:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:51:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 15:52:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:00:36 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 16:00:36 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 16:00:36 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-22 16:00:36 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 16:00:36 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-22 16:00:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:00:47 --> user_id: 1
+DEBUG - 2025-12-22 16:08:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:08:26 --> user_id: 1
+DEBUG - 2025-12-22 16:13:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:13:26 --> user_id: 1
+CRITICAL - 2025-12-22 16:13:26 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-dashboard]
+in APPPATH\Views\admin\dashboard.php on line 88.
+ 1 APPPATH\Views\admin\dashboard.php(88): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\dashboard.php', 88)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\dashboard.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/dashboard', [], true)
+ 5 APPPATH\Controllers\AdminController.php(70): view('admin/dashboard', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 16:13:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:13:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:13:54 --> Fetching children for guardian ID: 111
+DEBUG - 2025-12-22 16:13:54 --> Number of children found: 0
+DEBUG - 2025-12-22 16:13:54 --> Children data: Array
+(
+)
+
+DEBUG - 2025-12-22 16:13:54 --> Current User ID: 111
+DEBUG - 2025-12-22 16:16:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:16:16 --> user_id: 1
+CRITICAL - 2025-12-22 16:16:16 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-dashboard]
+in APPPATH\Controllers\AdminController.php on line 73.
+ 1 APPPATH\Controllers\AdminController.php(73): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 73)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 16:16:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:16:44 --> user_id: 1
+CRITICAL - 2025-12-22 16:16:44 --> ErrorException: Undefined variable $openingModel
+[Method: GET, Route: admin-dashboard]
+in APPPATH\Controllers\AdminController.php on line 59.
+ 1 APPPATH\Controllers\AdminController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openingModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 16:16:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:16:45 --> user_id: 1
+CRITICAL - 2025-12-22 16:16:45 --> ErrorException: Undefined variable $openingModel
+[Method: GET, Route: admin-dashboard]
+in APPPATH\Controllers\AdminController.php on line 59.
+ 1 APPPATH\Controllers\AdminController.php(59): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openingModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 59)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 16:17:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:17:09 --> user_id: 1
+DEBUG - 2025-12-22 16:18:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:25 --> user_id: 1
+DEBUG - 2025-12-22 16:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:27 --> user_id: 1
+DEBUG - 2025-12-22 16:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:34 --> user_id: 1
+DEBUG - 2025-12-22 16:18:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:37 --> user_id: 1
+DEBUG - 2025-12-22 16:18:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:41 --> user_id: 1
+DEBUG - 2025-12-22 16:18:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:53 --> user_id: 1
+DEBUG - 2025-12-22 16:18:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 16:18:59 --> user_id: 1
+DEBUG - 2025-12-22 18:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:32 --> user_id: 1
+ERROR - 2025-12-22 18:16:32 --> mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-22 18:16:32 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+[Method: GET, Route: admin-dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 2 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:16:32 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 4 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:16:32 --> [Caused by] mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 5 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:16:38 --> user_id: 1
+ERROR - 2025-12-22 18:16:38 --> mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-22 18:16:38 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+[Method: GET, Route: admin-dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 2 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:16:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 4 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:16:38 --> [Caused by] mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 5 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 18:17:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:17:25 --> user_id: 1
+ERROR - 2025-12-22 18:17:25 --> mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*)...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*)...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*)...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*)...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-22 18:17:25 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+[Method: GET, Route: admin-dashboard]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 2 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 3 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:17:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 4 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 5 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 18:17:25 --> [Caused by] mysqli_sql_exception: Unknown column 'openingclosing_id' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = \'16\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1733): CodeIgniter\Database\BaseConnection->query('SELECT COUNT(*) AS `numrows`
+FROM `students`
+WHERE `openingclosing_id` = :openingclosing_id:', [...], false)
+ 5 APPPATH\Models\Admin_Model.php(48): CodeIgniter\Database\BaseBuilder->countAllResults()
+ 6 APPPATH\Controllers\AdminController.php(65): App\Models\Admin_Model->getTotalStudentsOpining('16')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->admindashbord()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 18:19:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:19:53 --> user_id: 1
+DEBUG - 2025-12-22 18:21:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:21:09 --> user_id: 1
+DEBUG - 2025-12-22 18:21:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:21:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:21:12 --> user_id: 1
+DEBUG - 2025-12-22 18:21:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:21:15 --> user_id: 1
+DEBUG - 2025-12-22 18:23:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:23:57 --> user_id: 1
+DEBUG - 2025-12-22 18:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:01 --> user_id: 1
+DEBUG - 2025-12-22 18:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:04 --> user_id: 1
+DEBUG - 2025-12-22 18:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:06 --> user_id: 1
+DEBUG - 2025-12-22 18:24:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:08 --> user_id: 1
+DEBUG - 2025-12-22 18:24:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:24:10 --> user_id: 1
+DEBUG - 2025-12-22 18:27:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:27:39 --> user_id: 1
+DEBUG - 2025-12-22 18:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:27:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:27:42 --> user_id: 1
+DEBUG - 2025-12-22 18:31:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:31:50 --> user_id: 1
+DEBUG - 2025-12-22 18:32:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:32:52 --> user_id: 1
+DEBUG - 2025-12-22 18:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:32:55 --> user_id: 1
+DEBUG - 2025-12-22 18:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:32:57 --> user_id: 1
+DEBUG - 2025-12-22 18:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:33:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:33:03 --> user_id: 1
+DEBUG - 2025-12-22 18:33:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:33:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 18:33:21 --> user_id: 1
+DEBUG - 2025-12-22 20:51:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 20:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:06:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:06:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:06:53 --> user_id: 1
+DEBUG - 2025-12-22 21:06:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:06:59 --> user_id: 1
+DEBUG - 2025-12-22 21:09:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:09:00 --> user_id: 1
+CRITICAL - 2025-12-22 21:09:00 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-admission]
+in APPPATH\Views\admin\admission.php on line 135.
+ 1 APPPATH\Views\admin\admission.php(135): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\admission.php', 135)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\admission.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/admission', [], true)
+ 5 APPPATH\Controllers\AdminController.php(108): view('admin/admission', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->AdminAdmission()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:09:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-22 21:09:37 --> ErrorException: Undefined variable $openingModel
+[Method: GET, Route: admin-admission]
+in APPPATH\Controllers\AdminController.php on line 91.
+ 1 APPPATH\Controllers\AdminController.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openingModel', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->AdminAdmission()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:09:59 --> user_id: 1
+DEBUG - 2025-12-22 21:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:10:37 --> user_id: 1
+DEBUG - 2025-12-22 21:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:10:41 --> user_id: 1
+DEBUG - 2025-12-22 21:15:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:04 --> user_id: 1
+DEBUG - 2025-12-22 21:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:07 --> user_id: 1
+DEBUG - 2025-12-22 21:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:09 --> user_id: 1
+DEBUG - 2025-12-22 21:15:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:15:17 --> user_id: 1
+DEBUG - 2025-12-22 21:15:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-12-22 21:24:03 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7 in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *, CONCA...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *, CONCA...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *, CONCA...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *, CONCA...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\Admin_Model.php(109): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(432): App\Models\Admin_Model->alldisapprovedOpening('12')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->archived()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-22 21:24:03 --> CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7
+[Method: GET, Route: admin-archived]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = :openingclosing_id:
+AND `status` = :status:
+OR `status` = :status.1:
+)', [...], false)
+ 2 APPPATH\Models\Admin_Model.php(109): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\AdminController.php(432): App\Models\Admin_Model->alldisapprovedOpening('12')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->archived()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 21:24:03 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = \'12\'
+AND `status` = \'Disapproved\'
+OR `status` = \'Interview Failed\'
+)')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = \'12\'
+AND `status` = \'Disapproved\'
+OR `status` = \'Interview Failed\'
+)')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = :openingclosing_id:
+AND `status` = :status:
+OR `status` = :status.1:
+)', [...], false)
+ 4 APPPATH\Models\Admin_Model.php(109): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\AdminController.php(432): App\Models\Admin_Model->alldisapprovedOpening('12')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->archived()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 21:24:03 --> [Caused by] mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ')' at line 7
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = \'12\'
+AND `status` = \'Disapproved\'
+OR `status` = \'Interview Failed\'
+)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = \'12\'
+AND `status` = \'Disapproved\'
+OR `status` = \'Interview Failed\'
+)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = \'12\'
+AND `status` = \'Disapproved\'
+OR `status` = \'Interview Failed\'
+)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT *, CONCAT_WS(\' \', `last_name`, `first_name`, middle_name) AS full_name, `status`, CONCAT_WS(\' \', `municipality`, `barangay`, street) AS address
+FROM `admissions`
+WHERE `admission_id` IS NOT NULL
+AND `openingclosing_id` = :openingclosing_id:
+AND `status` = :status:
+OR `status` = :status.1:
+)', [...], false)
+ 5 APPPATH\Models\Admin_Model.php(109): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\AdminController.php(432): App\Models\Admin_Model->alldisapprovedOpening('12')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->archived()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:27:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:26 --> user_id: 1
+DEBUG - 2025-12-22 21:27:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:31 --> user_id: 1
+DEBUG - 2025-12-22 21:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:34 --> user_id: 1
+DEBUG - 2025-12-22 21:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:27:37 --> user_id: 1
+DEBUG - 2025-12-22 21:28:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:28:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:28:20 --> user_id: 1
+DEBUG - 2025-12-22 21:28:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:28:24 --> user_id: 1
+DEBUG - 2025-12-22 21:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:29:58 --> user_id: 1
+CRITICAL - 2025-12-22 21:29:58 --> ErrorException: Undefined variable $yearsRecord
+[Method: GET, Route: admin-enrolled]
+in APPPATH\Views\admin\enrolled-students.php on line 99.
+ 1 APPPATH\Views\admin\enrolled-students.php(99): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $yearsRecord', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\enrolled-students.php', 99)
+ 2 SYSTEMPATH\View\View.php(224): include('C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Views\\admin\\enrolled-students.php')
+ 3 SYSTEMPATH\View\View.php(227): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1173): CodeIgniter\View\View->render('admin/enrolled-students', [], true)
+ 5 APPPATH\Controllers\AdminController.php(313): view('admin/enrolled-students', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->enrolledStudents()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:36:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:36:25 --> user_id: 1
+CRITICAL - 2025-12-22 21:36:25 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\ClassModel::allstudentsOpening
+[Method: GET, Route: admin-enrolled]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\AdminController.php(310): CodeIgniter\Model->__call('allstudentsOpening', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->enrolledStudents()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:15 --> user_id: 1
+DEBUG - 2025-12-22 21:38:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:19 --> user_id: 1
+DEBUG - 2025-12-22 21:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:21 --> user_id: 1
+DEBUG - 2025-12-22 21:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:38:23 --> user_id: 1
+DEBUG - 2025-12-22 21:39:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:39:47 --> user_id: 1
+CRITICAL - 2025-12-22 21:39:47 --> CodeIgniter\Exceptions\BadMethodCallException: Call to undefined method App\Models\Admin_Model::getEnrolledStudentsWithAdmissionOpening
+[Method: GET, Route: admin-enrolled]
+in SYSTEMPATH\Model.php on line 930.
+ 1 APPPATH\Controllers\AdminController.php(312): CodeIgniter\Model->__call('getEnrolledStudentsWithAdmissionOpening', [...])
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->enrolledStudents()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 21:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:40:12 --> user_id: 1
+DEBUG - 2025-12-22 21:40:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:40:30 --> user_id: 1
+DEBUG - 2025-12-22 21:42:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:42:01 --> user_id: 1
+DEBUG - 2025-12-22 21:42:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:42:04 --> user_id: 1
+DEBUG - 2025-12-22 21:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:59:14 --> user_id: 1
+DEBUG - 2025-12-22 21:59:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:59:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 21:59:16 --> user_id: 1
+DEBUG - 2025-12-22 22:03:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:03:04 --> user_id: 1
+DEBUG - 2025-12-22 22:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:03:38 --> user_id: 1
+DEBUG - 2025-12-22 22:03:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:03:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:03:43 --> user_id: 1
+DEBUG - 2025-12-22 22:04:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:04:01 --> user_id: 1
+DEBUG - 2025-12-22 22:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:04:05 --> user_id: 1
+DEBUG - 2025-12-22 22:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:04:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:04:13 --> user_id: 1
+DEBUG - 2025-12-22 22:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:05:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:05:10 --> user_id: 1
+DEBUG - 2025-12-22 22:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:05:19 --> user_id: 1
+DEBUG - 2025-12-22 22:05:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:11:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2025-12-22 22:11:40 --> ErrorException: Undefined variable $openingId
+[Method: GET, Route: admin-attendance]
+in APPPATH\Controllers\AdminController.php on line 480.
+ 1 APPPATH\Controllers\AdminController.php(480): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $openingId', 'C:\\Users\\User\\Desktop\\xamp\\htdocs\\capstone\\app\\Controllers\\AdminController.php', 480)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->attendance()
+ 3 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 4 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 22:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:13:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:15:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:15:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:21:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2025-12-22 22:22:07 --> mysqli_sql_exception: Unknown column 'a.student_id' in 'on clause' in C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php:327
+Stack trace:
+#0 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `s`.`use...', 0)
+#1 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `s`.`use...')
+#2 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `s`.`use...')
+#3 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `s`.`use...', Array, false)
+#4 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Models\StudentModel.php(755): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\Users\User\Desktop\xamp\htdocs\capstone\app\Controllers\AdminController.php(495): App\Models\StudentModel->attendance_summary_viewOpening('12')
+#6 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(933): App\Controllers\AdminController->attendance()
+#7 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+#8 C:\Users\User\Desktop\xamp\htdocs\capstone\system\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(334): CodeIgniter\CodeIgniter->run()
+#10 C:\Users\User\Desktop\xamp\htdocs\capstone\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\Users\User\Desktop\xamp\htdocs\capstone\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2025-12-22 22:22:07 --> CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'a.student_id' in 'on clause'
+[Method: GET, Route: admin-attendance]
+in SYSTEMPATH\Database\BaseConnection.php on line 692.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = :a.openingclosing_id:', [...], false)
+ 2 APPPATH\Models\StudentModel.php(755): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\AdminController.php(495): App\Models\StudentModel->attendance_summary_viewOpening('12')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->attendance()
+ 5 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 6 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 22:22:07 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: Unknown column 'a.student_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 332.
+ 1 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = \'12\'')
+ 2 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = \'12\'')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = :a.openingclosing_id:', [...], false)
+ 4 APPPATH\Models\StudentModel.php(755): CodeIgniter\Database\BaseBuilder->get()
+ 5 APPPATH\Controllers\AdminController.php(495): App\Models\StudentModel->attendance_summary_viewOpening('12')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->attendance()
+ 7 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 8 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2025-12-22 22:22:07 --> [Caused by] mysqli_sql_exception: Unknown column 'a.student_id' in 'on clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 327.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(327): mysqli->query('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = \'12\'', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(738): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = \'12\'')
+ 3 SYSTEMPATH\Database\BaseConnection.php(652): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = \'12\'')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1649): CodeIgniter\Database\BaseConnection->query('SELECT `s`.`user_id`, CONCAT(s.last_name, \', \', `s`.`first_name`, \' \', LEFT(s.middle_name, 1), \'.\') AS full_name, `s`.`class_level`
+FROM `students` `s`
+JOIN `admissions` `a` ON `a`.`student_id` = `s`.`user_id`
+WHERE `a`.`openingclosing_id` = :a.openingclosing_id:', [...], false)
+ 5 APPPATH\Models\StudentModel.php(755): CodeIgniter\Database\BaseBuilder->get()
+ 6 APPPATH\Controllers\AdminController.php(495): App\Models\StudentModel->attendance_summary_viewOpening('12')
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\AdminController->attendance()
+ 8 SYSTEMPATH\CodeIgniter.php(507): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\AdminController))
+ 9 SYSTEMPATH\CodeIgniter.php(354): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(334): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+DEBUG - 2025-12-22 22:23:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:23:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:23:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:25:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:35:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 22:35:10 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 22:35:10 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 22:35:10 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-22 22:35:10 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 22:35:10 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-22 22:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 23:15:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+DEBUG - 2025-12-22 23:15:29 --> Child Payment Debug: Array
+(
+    [full_name] => Cale felix Masambique Elca
+    [admission_id] => 86
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 23:15:29 --> Child Payment Debug: Array
+(
+    [full_name] => Felix eduard Elca Rogado
+    [admission_id] => 87
+    [user_id] => 108
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 23:15:29 --> Parent Debug: Array
+(
+    [id] => 34
+    [user_id] => 108
+    [first_name] => Eirich
+    [middle_name] => Masambique
+    [last_name] => Elca
+    [relationship] => Uncle
+    [contact_number] => 09503430307
+    [email] => eirichelca@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Munting Gatid
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-01 21:13:46
+    [address] => Santa Cruz, Gatid, Munting Gatid
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Cale felix Masambique Elca
+                    [admission_id] => 86
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+            [1] => Array
+                (
+                    [full_name] => Felix eduard Elca Rogado
+                    [admission_id] => 87
+                    [user_id] => 108
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+
+DEBUG - 2025-12-22 23:15:29 --> Child Payment Debug: Array
+(
+    [full_name] => Kiefer Bautista Navarro
+    [admission_id] => 88
+    [user_id] => 110
+    [payment_history] => Array
+        (
+        )
+
+    [total_paid] => 0
+    [total_fee] => 0
+    [remaining] => 0
+)
+
+DEBUG - 2025-12-22 23:15:29 --> Parent Debug: Array
+(
+    [id] => 35
+    [user_id] => 110
+    [first_name] => Jenelle
+    [middle_name] => Bautista
+    [last_name] => Navarro
+    [relationship] => Mother
+    [contact_number] => 09503430307
+    [email] => Jenelle@gmail.com
+    [municipality] => Santa Cruz
+    [barangay] => Gatid
+    [street] => Sampaguita
+    [profile_pic] => default.webp
+    [created_at] => 2025-12-02 13:10:53
+    [address] => Santa Cruz, Gatid, Sampaguita
+    [children] => Array
+        (
+            [0] => Array
+                (
+                    [full_name] => Kiefer Bautista Navarro
+                    [admission_id] => 88
+                    [user_id] => 110
+                    [payment_history] => Array
+                        (
+                        )
+
+                    [total_paid] => 0
+                    [total_fee] => 0
+                    [remaining] => 0
+                )
+
+        )
+
+)
+

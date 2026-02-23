@@ -1,0 +1,336 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Playground — Pre‑K Learning Hub</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script>
+  <style>
+    /* ---------------- Basic layout & theme ---------------- */
+    :root{
+      --bg:#E8F6FF; --card:#ffffff; --accent:#ff9aa2; --muted:#7aa7d9; --soft:#ffd6a5; --dark:#213547;
+    }
+    *{box-sizing:border-box}
+    html,body{height:100%;margin:0;font-family:"Poppins",Segoe UI,Roboto,Arial,sans-serif;background:linear-gradient(180deg,var(--bg),#f7fbff);color:var(--dark)}
+    .app{max-width:980px;margin:18px auto;padding:18px}
+    header{display:flex;align-items:center;gap:14px}
+    .logo{width:64px;height:64px;border-radius:14px;background:linear-gradient(135deg,var(--accent),#ffd6a5);display:flex;align-items:center;justify-content:center;font-size:28px;font-weight:800;color:#fff}
+    h1{font-size:24px;margin:0}
+    p.lead{margin:4px 0 16px 0;color:#34657a}
+
+    /* ---------------- Home / menu ---------------- */
+    .menu{display:grid;grid-template-columns:repeat(2,1fr);gap:16px;margin-top:18px}
+    .card{background:var(--card);border-radius:14px;padding:18px;box-shadow:0 8px 30px rgba(33,53,71,0.08);cursor:pointer;display:flex;flex-direction:column;align-items:center;justify-content:center;min-height:140px}
+    .card h3{margin:6px 0 0 0}
+    .card p{margin:6px 0 0 0;color:#5b7d8f}
+
+    /* big friendly buttons used inside games */
+    .big-btn{padding:12px 18px;border-radius:12px;border:none;background:linear-gradient(135deg,var(--muted),#77c0f0);color:white;font-weight:700;font-size:18px;cursor:pointer}
+
+    /* ---------------- Game container ---------------- */
+    .game{display:none;margin-top:18px}
+    .game.active{display:block}
+    .topbar{display:flex;align-items:center;justify-content:space-between;gap:12px}
+    .back{background:transparent;border:none;color:var(--muted);font-weight:700;cursor:pointer}
+
+    /* ---------------- Colors game ---------------- */
+    .colors-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+    .color-tile{height:110px;border-radius:12px;display:flex;align-items:center;justify-content:center;font-size:20px;color:white;font-weight:800;box-shadow:0 8px 18px rgba(0,0,0,0.08);cursor:pointer}
+
+    /* ---------------- Stars / counting ---------------- */
+    .stars-area{display:flex;flex-wrap:wrap;gap:8px;justify-content:center;margin-top:12px}
+    .star{font-size:36px;padding:8px;border-radius:12px;background:#fff;box-shadow:0 6px 16px rgba(0,0,0,0.06);cursor:pointer}
+    .counter{font-size:36px;font-weight:800;margin-top:12px;color:var(--muted)}
+
+    /* ---------------- Animals ---------------- */
+    .animals-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:12px;margin-top:14px}
+    .animal-card{background:#fff;border-radius:12px;padding:12px;display:flex;flex-direction:column;align-items:center;justify-content:center;cursor:pointer;box-shadow:0 8px 18px rgba(0,0,0,0.06)}
+    .animal-emoji{font-size:48px}
+
+    /* ---------------- Shapes (drag & drop) ---------------- */
+    .shapes-stage{display:flex;gap:22px;align-items:center;justify-content:center;margin-top:18px}
+    .drop-slot{width:140px;height:140px;border-radius:14px;border:4px dashed rgba(33,53,71,0.08);display:flex;align-items:center;justify-content:center}
+    .shape-item{width:100px;height:100px;border-radius:12px;background:white;display:flex;align-items:center;justify-content:center;font-size:28px;cursor:grab;box-shadow:0 8px 18px rgba(0,0,0,0.06)}
+
+    /* ---------------- Confetti canvas (full-screen) ---------------- */
+    #confettiCanvas{position:fixed;left:0;top:0;width:100%;height:100%;pointer-events:none;z-index:999}
+
+    /* ---------------- Responsive ---------------- */
+    @media (max-width:760px){.menu{grid-template-columns:1fr}.shapes-stage{flex-direction:column}}
+  </style>
+</head>
+<body>
+  <canvas id="confettiCanvas"></canvas>
+  <div class="app">
+    <header>
+      <div class="logo">PK</div>
+      <div>
+        <h1>Playground — Pre‑K Learning Hub</h1>
+        <p class="lead">Tap, drag, and play — Bright colors, cheerful sounds, and rewarding confetti!</p>
+      </div>
+    </header>
+
+    <!-- Home menu -->
+    <div id="home">
+      <div class="menu">
+        <div class="card" data-game="colors" aria-role="button">
+          <div style="font-size:44px">🌈</div>
+          <h3>Colors</h3>
+          <p>Tap a color to learn its name</p>
+        </div>
+
+        <div class="card" data-game="numbers">
+          <div style="font-size:44px">⭐</div>
+          <h3>Count</h3>
+          <p>Tap stars and hear counting</p>
+        </div>
+
+        <div class="card" data-game="animals">
+          <div style="font-size:44px">🐶</div>
+          <h3>Animals</h3>
+          <p>Tap animals to hear sounds</p>
+        </div>
+
+        <div class="card" data-game="shapes">
+          <div style="font-size:44px">🔷</div>
+          <h3>Shapes</h3>
+          <p>Drag shapes into matching slots</p>
+        </div>
+      </div>
+    </div>
+
+    <!-- Colors game -->
+    <section id="colors" class="game" aria-hidden="true">
+      <div class="topbar">
+        <button class="back" data-action="back">← Home</button>
+        <div style="display:flex;gap:12px;align-items:center"><button class="big-btn" id="colorsHint">Say All</button></div>
+      </div>
+
+      <div class="colors-grid" id="colorsGrid"></div>
+    </section>
+
+    <!-- Numbers game -->
+    <section id="numbers" class="game" aria-hidden="true">
+      <div class="topbar">
+        <button class="back" data-action="back">← Home</button>
+        <div style="display:flex;gap:12px;align-items:center"><div class="counter" id="countDisplay">0</div></div>
+      </div>
+      <div class="stars-area" id="starsArea"></div>
+      <div style="display:flex;gap:10px;justify-content:center;margin-top:12px">
+        <button class="big-btn" id="resetCount">Reset</button>
+      </div>
+    </section>
+
+    <!-- Animals game -->
+    <section id="animals" class="game" aria-hidden="true">
+      <div class="topbar">
+        <button class="back" data-action="back">← Home</button>
+        <div style="display:flex;gap:12px;align-items:center"><button class="big-btn" id="animalsHint">Play All</button></div>
+      </div>
+      <div class="animals-grid" id="animalsGrid"></div>
+    </section>
+
+    <!-- Shapes game -->
+    <section id="shapes" class="game" aria-hidden="true">
+      <div class="topbar">
+        <button class="back" data-action="back">← Home</button>
+      </div>
+      <div class="shapes-stage">
+        <div class="drop-slot" data-accept="circle" id="slotCircle">⚪</div>
+        <div class="drop-slot" data-accept="square" id="slotSquare">⬜</div>
+        <div class="drop-slot" data-accept="triangle" id="slotTriangle">🔺</div>
+      </div>
+
+      <div style="display:flex;gap:12px;justify-content:center;margin-top:18px">
+        <div class="shape-item" draggable="true" data-shape="circle">⚪</div>
+        <div class="shape-item" draggable="true" data-shape="square">⬛</div>
+        <div class="shape-item" draggable="true" data-shape="triangle">🔺</div>
+      </div>
+    </section>
+
+  </div>
+
+  <script>
+    // ---------- Utilities: Speech & simple sounds ----------
+    function speak(text){
+      try{
+        const s = new SpeechSynthesisUtterance(text);
+        s.rate = 0.9; s.pitch = 1.1; speechSynthesis.cancel(); speechSynthesis.speak(s);
+      }catch(e){console.warn('speech not supported')}
+    }
+
+    function playTone(freq = 880, duration = 0.12){
+      try{
+        const ctx = new (window.AudioContext || window.webkitAudioContext)();
+        const o = ctx.createOscillator(); const g = ctx.createGain();
+        o.type='sine'; o.frequency.value = freq; o.connect(g); g.connect(ctx.destination);
+        g.gain.setValueAtTime(0.0001, ctx.currentTime);
+        g.gain.exponentialRampToValueAtTime(0.2, ctx.currentTime + 0.02);
+        o.start();
+        g.gain.exponentialRampToValueAtTime(0.0001, ctx.currentTime + duration);
+        setTimeout(()=>{o.stop(); ctx.close();}, duration*1000+50);
+      }catch(e){/*ignore*/}
+    }
+
+    function successChime(){ playTone(880,0.09); setTimeout(()=>playTone(1200,0.08),80); }
+
+    // ------------- Simple confetti (canvas) -------------
+    const confettiCanvas = document.getElementById('confettiCanvas');
+    confettiCanvas.width = innerWidth; confettiCanvas.height = innerHeight;
+    window.addEventListener('resize', ()=>{ confettiCanvas.width = innerWidth; confettiCanvas.height = innerHeight; });
+    const ctx = confettiCanvas.getContext('2d');
+    let confettiParticles = [];
+    function spawnConfetti(x=innerWidth/2,y=innerHeight/3, count=30){
+      for(let i=0;i<count;i++){
+        confettiParticles.push({x,y,vx:(Math.random()-0.5)*6,vy:(Math.random()*-6-2),r:Math.random()*6+4,color:`hsl(${Math.random()*360},70%,60%)`,rot:Math.random()*360,vr:Math.random()*10-5});
+      }
+      if(confettiParticles.length>0) requestAnimationFrame(confettiLoop);
+    }
+    function confettiLoop(){
+      ctx.clearRect(0,0,confettiCanvas.width,confettiCanvas.height);
+      for(let i=confettiParticles.length-1;i>=0;i--){
+        const p = confettiParticles[i];
+        p.vy += 0.2; p.x += p.vx; p.y += p.vy; p.rot += p.vr;
+        ctx.save(); ctx.translate(p.x,p.y); ctx.rotate(p.rot*Math.PI/180);
+        ctx.fillStyle = p.color; ctx.fillRect(-p.r/2,-p.r/2,p.r,p.r*1.6);
+        ctx.restore();
+        if(p.y>confettiCanvas.height+40) confettiParticles.splice(i,1);
+      }
+      if(confettiParticles.length>0) requestAnimationFrame(confettiLoop);
+    }
+
+    // ------------- Navigation between home and games -------------
+    document.querySelectorAll('.card').forEach(c=>{
+      c.addEventListener('click', ()=> openGame(c.dataset.game));
+    });
+    document.querySelectorAll('[data-action="back"]').forEach(b=>b.addEventListener('click', ()=> showHome()));
+
+    function showHome(){
+      document.getElementById('home').style.display = 'block';
+      document.querySelectorAll('.game').forEach(g=>{g.classList.remove('active'); g.setAttribute('aria-hidden','true')});
+      gsap.to('.card',{scale:1,opacity:1,duration:0.5,stagger:0.08});
+    }
+    function openGame(id){
+      document.getElementById('home').style.display = 'none';
+      document.querySelectorAll('.game').forEach(g=>{g.classList.remove('active'); g.setAttribute('aria-hidden','true')});
+      const el = document.getElementById(id); el.classList.add('active'); el.setAttribute('aria-hidden','false');
+      gsap.fromTo(el,{opacity:0,scale:0.95},{opacity:1,scale:1,duration:0.45});
+      // small hint sound
+      playTone(700,0.06);
+    }
+
+    // ------------- Colors game logic -------------
+    const colorList = [
+      {name:'Red', code:'#ff6b6b'},
+      {name:'Orange', code:'#ffcc66'},
+      {name:'Yellow', code:'#ffd166'},
+      {name:'Green', code:'#7bd389'},
+      {name:'Blue', code:'#66b3ff'},
+      {name:'Purple', code:'#b39dd8'},
+    ];
+    const colorsGrid = document.getElementById('colorsGrid');
+    colorList.forEach(c=>{
+      const div = document.createElement('button');
+      div.className = 'color-tile'; div.style.background = c.code; div.textContent = c.name; div.setAttribute('aria-label', c.name);
+      div.addEventListener('click', ()=>{
+        // animate & speak
+        gsap.fromTo(div,{scale:0.8,rotation:-8},{scale:1,rotation:0,duration:0.5,ease:'elastic.out(1,0.6)'});
+        speak(c.name);
+        successChime(); spawnConfetti(window.innerWidth/2, window.innerHeight/4, 18);
+      });
+      colorsGrid.appendChild(div);
+    });
+
+    document.getElementById('colorsHint').addEventListener('click', ()=>{
+      // say all colors in sequence
+      colorList.forEach((c,i)=> setTimeout(()=>{ speak(c.name); gsap.fromTo(colorsGrid.children[i],{scale:0.8},{scale:1,duration:0.35}) }, i*700));
+    });
+
+    // ------------- Numbers (counting) logic -------------
+    const starsArea = document.getElementById('starsArea');
+    const countDisplay = document.getElementById('countDisplay');
+    let count = 0; const TOTAL_STARS = 10;
+    function buildStars(){
+      starsArea.innerHTML = '';
+      for(let i=0;i<TOTAL_STARS;i++){
+        const s = document.createElement('div'); s.className='star'; s.textContent='⭐';
+        s.addEventListener('click', ()=>{
+          if(s.classList.contains('done')) return;
+          s.classList.add('done'); gsap.fromTo(s,{scale:0.6,rotation:-15},{scale:1.2,rotation:0,duration:0.45,ease:'bounce.out'});
+          count++; countDisplay.textContent = count; speak(String(count)); successChime(); if(count===TOTAL_STARS) spawnConfetti();
+        });
+        starsArea.appendChild(s);
+      }
+    }
+    document.getElementById('resetCount').addEventListener('click', ()=>{count=0;countDisplay.textContent=0; buildStars();});
+    buildStars();
+
+    // ------------- Animals logic -------------
+    const animals = [
+      {name:'Dog', emoji:'🐶'},
+      {name:'Cat', emoji:'🐱'},
+      {name:'Cow', emoji:'🐮'},
+      {name:'Sheep', emoji:'🐑'},
+      {name:'Duck', emoji:'🦆'},
+      {name:'Frog', emoji:'🐸'}
+    ];
+    const animalsGrid = document.getElementById('animalsGrid');
+    animals.forEach(a=>{
+      const c = document.createElement('div'); c.className='animal-card';
+      c.innerHTML = `<div class="animal-emoji">${a.emoji}</div><div style="margin-top:8px;font-weight:700">${a.name}</div>`;
+      c.addEventListener('click', ()=>{
+        // bounce and speak
+        gsap.fromTo(c.querySelector('.animal-emoji'),{y:-10,scale:0.9},{y:0,scale:1.05,duration:0.45,ease:'bounce.out'});
+        speak(a.name); successChime(); spawnConfetti(window.innerWidth/2, window.innerHeight/3, 14);
+      });
+      animalsGrid.appendChild(c);
+    });
+    document.getElementById('animalsHint').addEventListener('click', ()=>{ animals.forEach((a,i)=> setTimeout(()=>{ speak(a.name); gsap.fromTo(animalsGrid.children[i].querySelector('.animal-emoji'),{scale:0.8},{scale:1.05,duration:0.35}) }, i*600)) });
+
+    // ------------- Shapes (drag & drop) logic -------------
+    const slots = document.querySelectorAll('.drop-slot');
+    const shapes = document.querySelectorAll('.shape-item');
+    shapes.forEach(s=>{
+      s.addEventListener('dragstart', (ev)=>{ ev.dataTransfer.setData('text/plain', s.dataset.shape); setTimeout(()=> s.style.visibility='hidden', 20); });
+      s.addEventListener('dragend', ()=> s.style.visibility='visible');
+    });
+    slots.forEach(slot=>{
+      slot.addEventListener('dragover', (ev)=> ev.preventDefault());
+      slot.addEventListener('drop', (ev)=>{
+        ev.preventDefault(); const shape = ev.dataTransfer.getData('text/plain');
+        const accept = slot.dataset.accept;
+        if(shape===accept){
+          // success: lock in and celebrate
+          slot.innerHTML = shapesByKey(shape).content; slot.style.border = '4px solid rgba(34,153,84,0.22)';
+          successChime(); speak('Good job!'); spawnConfetti(ev.clientX, ev.clientY, 22);
+          // remove draggable
+          const src = Array.from(shapes).find(x=>x.dataset.shape===shape); if(src) src.style.visibility='hidden';
+        } else {
+          // shake and negative tone
+          gsap.fromTo(slot,{x:-6},{x:6,duration:0.08,repeat:3,yoyo:true}); playTone(220,0.09);
+        }
+      });
+    });
+    function shapesByKey(k){
+      if(k==='circle') return {content:'<div style="font-size:48px">⚪</div>'};
+      if(k==='square') return {content:'<div style="font-size:48px">⬛</div>'};
+      if(k==='triangle') return {content:'<div style="font-size:48px">🔺</div>'};
+      return {content:''};
+    }
+
+    // Initial animation for menu cards
+    gsap.fromTo('.card',{y:20,opacity:0},{y:0,opacity:1,duration:0.7,stagger:0.08,ease:'power2.out'});
+
+    // Accessibility: allow keyboard navigation to open games
+    document.addEventListener('keydown',(e)=>{
+      if(document.activeElement.tagName==='INPUT' || document.activeElement.tagName==='TEXTAREA') return;
+      if(e.key==='1') openGame('colors');
+      if(e.key==='2') openGame('numbers');
+      if(e.key==='3') openGame('animals');
+      if(e.key==='4') openGame('shapes');
+      if(e.key==='Escape') showHome();
+    });
+
+  </script>
+</body>
+</html>
