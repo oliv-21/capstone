@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard — Miscellaneous Payment</title>
+  <title>Brightside Miscellaneous Payment</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -22,6 +22,7 @@
 
   <!-- Custom Admin CSS -->
   <link rel="stylesheet" href="<?= base_url('assets/css/user.css') ?>">
+  <link href="../assets/img/logoicon.png" rel="icon" />
 
   <style>
     /* small improvements (kept design) */
@@ -172,12 +173,9 @@
 
                 <li><hr class="dropdown-divider"></li>
                 <li>
-                 <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>
@@ -188,58 +186,60 @@
       <main class="px-4 py-4" style="height: calc(100vh - 56px); overflow-y: auto;">
         <div class="container my-4">
           <h3 class="mb-3"></h3>
-
-          <!-- Notice: removed paymentType select as requested -->
-          <div id="none" class="card mb-4 notice-card text-center p-4" style="display:none;">
-            <div>
-              <i class="fa-solid fa-circle-exclamation fa-2x text-warning mb-2"></i>
-              <p class="mb-0 fw-bold text-warning">Please select a payment method and children below</p>
+          <div class="row">
+            <!-- Notice: removed paymentType select as requested -->
+            <div id="none" class="card mb-4 notice-card text-center p-4" style="display:none;">
+              <div>
+                <i class="fa-solid fa-circle-exclamation fa-2x text-warning mb-2"></i>
+                <p class="mb-0 fw-bold text-warning">Please select a payment method and children below</p>
+              </div>
             </div>
+            <?php foreach ($miscCard as $child): 
+                $pendingShown = false;
+
+                // Kung may remaining balance > 0
+                if (!empty($child->remaining_balance) && $child->remaining_balance > 0): 
+                    $pendingShown = true; ?>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="card border-warning h-100 shadow-sm">
+                            <div class="card-body">
+                                <h6 class="card-title text-primary mb-2">
+                                    <i class="fas fa-child me-2"></i> <?= esc($child->full_name); ?>
+                                </h6>
+                                
+                                <p class="card-text mb-2">
+                                    <strong>Remaining Balance:</strong>
+                                    <span class="text-warning fw-bold">
+                                        ₱<?= number_format($child->remaining_balance, 2); ?>
+                                    </span>
+                                </p>
+                                <span class="badge bg-warning">
+                                    <i class="fas fa-clock me-1"></i> Pending
+                                </span>
+                            </div>
+                        </div>
+                    </div>
+                <?php endif;
+
+                // Kung fully paid
+                if (!$pendingShown): ?>
+                    <div class="col-md-6 col-lg-4 mb-3">
+                        <div class="card border-success h-100 shadow-sm">
+                            <div class="card-body text-start">
+                                <h6 class="card-title text-success mb-2">
+                                    <i class="fas fa-check-circle me-2"></i> Fully Paid
+                                </h6>
+                                <h6 class="card-title text-primary mb-2">
+                                    <i class="fas fa-child me-2"></i> <?= esc($child->full_name); ?>
+                                </h6>
+                                <p class="card-text mb-0 text-success fw-bold">All payments have been completed.</p>
+                            </div>
+                        </div>
+                    </div>
+                <?php endif; ?>
+            <?php endforeach; ?>
           </div>
-          <?php foreach ($miscCard as $child): 
-              $pendingShown = false;
-
-              // Kung may remaining balance > 0
-              if (!empty($child->remaining_balance) && $child->remaining_balance > 0): 
-                  $pendingShown = true; ?>
-                  <div class="col-md-6 col-lg-4 mb-3">
-                      <div class="card border-warning h-100 shadow-sm">
-                          <div class="card-body">
-                              <h6 class="card-title text-primary mb-2">
-                                  <i class="fas fa-child me-2"></i> <?= esc($child->full_name); ?>
-                              </h6>
-                              
-                              <p class="card-text mb-2">
-                                  <strong>Remaining Balance:</strong>
-                                  <span class="text-warning fw-bold">
-                                      ₱<?= number_format($child->remaining_balance, 2); ?>
-                                  </span>
-                              </p>
-                              <span class="badge bg-warning">
-                                  <i class="fas fa-clock me-1"></i> Pending
-                              </span>
-                          </div>
-                      </div>
-                  </div>
-              <?php endif;
-
-              // Kung fully paid
-              if (!$pendingShown): ?>
-                  <div class="col-md-6 col-lg-4 mb-3">
-                      <div class="card border-success h-100 shadow-sm">
-                          <div class="card-body text-start">
-                              <h6 class="card-title text-success mb-2">
-                                  <i class="fas fa-check-circle me-2"></i> Fully Paid
-                              </h6>
-                              <h6 class="card-title text-primary mb-2">
-                                  <i class="fas fa-child me-2"></i> <?= esc($child->full_name); ?>
-                              </h6>
-                              <p class="card-text mb-0 text-success fw-bold">All payments have been completed.</p>
-                          </div>
-                      </div>
-                  </div>
-              <?php endif; ?>
-          <?php endforeach; ?>
+          
 
           <!-- MISC CARD (shown by default) -->
           <div id="miscCard" class="card mb-4">

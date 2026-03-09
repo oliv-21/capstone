@@ -94,14 +94,7 @@
 			<li><a class="dropdown-item" href="<?= base_url('guardian-profile'); ?>"><i class='fa-solid fa-user me-2 text-primary'></i>Profile</a></li>
 			<li><a class="dropdown-item" href="<?= base_url('guardian-resetPassword'); ?>"><i class='fa-solid fa-key me-2 text-primary'></i>Reset Password</a></li>
 			<li><hr class="dropdown-divider"></li>
-			<li>
-        <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
-      </li>
+			<li><a class="dropdown-item text-danger" href="<?= base_url(); ?>login"><i class="fa-solid fa-right-from-bracket me-2"></i>Logout</a></li>
 			</ul>
 		</div>
 		</div>

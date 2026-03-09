@@ -3,13 +3,14 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard — Payment Report</title>
+  <title>Brightside Admin Dashboard Payment Report</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Fonts & CSS -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
+  <link href="assets/img/logoicon.png" rel="icon" />
 
   <style>
     body {

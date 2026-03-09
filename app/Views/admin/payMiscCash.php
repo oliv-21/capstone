@@ -3,22 +3,23 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard</title>
+  <title>Brightside Admin Payment</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Handlee&family=Nunito:wght@300;400;600;700&display=swap" rel="stylesheet" />
-
+  <link href="../assets/img/logoicon.png" rel="icon" />
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
-
+  
   <!-- DataTables -->
   <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="<?= base_url('dist/css/bootstrap.min.css') ?>">
   <link rel="stylesheet" href="<?= base_url('assets/css/admin.css') ?>">
+  
 </head>
 
 <body>
@@ -136,12 +137,9 @@
                 <li><a class="dropdown-item" href="<?= base_url('adminProfile'); ?>"><i
                       class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile</a></li>
                 <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>

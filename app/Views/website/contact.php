@@ -372,67 +372,70 @@
   <!-- FAQ Chatbot Script -->
  <script>
 const faqAnswers = {
-  "tuition": `💰 Sure! Here’s the breakdown of our tuition fees per class:  
+  tuition: `Below is the tuition fee per class:
 
-🏫 **Nursery** – ₱2,000 per month  
-🎨 **Pre-Kinder** – ₱2,500 per month  
-📚 **Kinder 1** – ₱2,500 per month  
-✏️ **Kinder 2** – ₱2,500 per month  
+Toddler Class – ₱2,000 per month  
+Nursery – ₱2,500 per month  
+Pre-Kindergarten – ₱2,500 per month  
+Junior Kindergarten – ₱2,500 per month  
+Senior Kindergarten – ₱2,500 per month  
 
-Each plan already includes learning materials and activity kits, so you don’t have to worry about extra costs.  
-You can settle payments monthly or per term directly at the admin office. 😊`,
+Tuition fees already include learning materials and activity kits.  
+Payments may be settled monthly or per term at the admin office.`,
 
-  "schedule": `🕒 Of course! Here’s our class schedule for the week (Monday to Friday):  
+  schedule: `Classes are held from Monday to Friday with the following schedules:
 
-🧸 **Toddler Class:** 10:00 AM – 12:00 PM  
-🎨 **Pre-Kindergarten Class:** 8:00 AM – 10:00 AM  
-📘 **Junior Kindergarten:** 10:00 AM – 12:00 PM  
-✏️ **Senior Kindergarten:** 1:00 PM – 3:00 PM  
+Toddler Class: 10:00 AM – 12:00 PM  
+Nursery: 8:00 AM – 10:00 AM  
+Pre-Kindergarten: 8:00 AM – 10:00 AM  
+Junior Kindergarten: 10:00 AM – 12:00 PM  
+Senior Kindergarten: 1:00 PM – 3:30 PM  
 
-We keep sessions short and engaging to match each child’s learning pace. ❤️`,
+Each session is designed to be engaging and appropriate for the child’s age level.`,
 
-  "age": `👶 Here’s the age requirement for each class:  
+  age: `The age requirements for each class are as follows:
 
-🧸 **Toddler Class:** 2 to 3 years old  
-🎨 **Pre-Kindergarten Class:** 3 to 4 years old  
-📘 **Junior Kindergarten:** 4 years old  
-✏️ **Senior Kindergarten:** 5 years old  
+Toddler Class: 2 – 3 years old  
+Nursery: 3 – 4 years old  
+Pre-Kindergarten: 4 – 5 years old  
+Junior Kindergarten: 5 years old  
+Senior Kindergarten: 6 years old  
 
-If your child is right on the age border, we can help you find the best placement—just let us know! 😊`,
+If your child falls between age levels, our staff can assist in selecting the most suitable class.`,
 
-  "requirements": `📋 You’ll just need a few documents to enroll:  
+  requirements: `To enroll, please prepare the following requirements:
 
-✅ Photocopy of Birth Certificate  
-✅ Two (2) pieces of 1x1 ID picture  
-✅ Completed Registration Form (you can get this at our office)  
+• Photocopy of the child’s Birth Certificate  
+• Two (2) ID pictures (1x1 or 2x2, depending on the class)  
+• Accomplished Registration Form (available at the admin office)  
 
-Once you have these ready, visit us anytime during office hours and we’ll assist you with the rest! 💖`,
+Once complete, you may visit the school during office hours for assistance.`,
 
-  "contact": `📞 You can reach us through any of these:  
+  contact: `You may contact us through the following channels:
 
-📧 **Email:** brightside@gmail.com  
-📱 **Phone:** 0912 123 1234  
-💬 **Facebook:** Brightside Learning Center  
+Email: brightside@gmail.com  
+Phone: 0912 123 1234  
+Facebook: Brightside Learning Center  
 
-Feel free to message us anytime — we’ll get back to you as soon as possible! ☀️`,
+Our team is available to assist you during office hours.`,
 
-  "address": `📍 We’re located at:  
-
-**Brightside Learning Center**  
+  address: `Brightside Learning Center  
 Barangay Bagumbayan, Santa Cruz, Laguna  
 
-We’re open **Monday to Friday, from 8:00 AM to 4:00 PM.**  
-You’re always welcome to drop by and visit our classrooms! 🏫`,
+Office hours are from Monday to Friday, 8:00 AM to 4:00 PM.  
+Parents and guardians are welcome to visit the school during these hours.`,
 
-  "class": `📋 Here’s a quick look at our available classes:  
+  class: `Brightside Learning Center offers the following classes:
 
-🧸 **Toddler Class** – Fun and creative play-based learning for ages 2–3.  
-🎨 **Pre-Kindergarten Class** – Early literacy and motor skills for ages 3–4.  
-📘 **Junior Kindergarten** – Focused on foundational academics for 4-year-olds.  
-✏️ **Senior Kindergarten** – Prepares 5-year-olds for elementary transition.  
+Toddler Class – A gentle introduction to school, focusing on play, routines, and social development (Ages 2–3).  
+Nursery – Introduces basic concepts through play, music, and hands-on activities that support social interaction and motor development (Ages 3–4).  
+Pre-Kindergarten – Builds early learning skills through structured play and creative activities (Ages 4–5).  
+Junior Kindergarten – Develops foundational skills in reading, math, and communication through interactive learning (Age 5).  
+Senior Kindergarten – Prepares children for Grade 1 by strengthening literacy, numeracy, independence, and critical thinking (Age 6).  
 
-Would you like me to tell you more about what each class offers? 😊`
+For more information about a specific class, please let us know.`
 };
+
 
 
 const chatbotBtn = document.getElementById('chatbot-button');

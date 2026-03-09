@@ -65,9 +65,19 @@
 
   <!-- Header -->
   <div class="brand">
-    <div class="brand-title">
-      <div class="name">BRIGHTSIDE GLOBAL</div>
-      <div class="sub">LEARNING CENTER</div>
+    <div class="brand-title">   
+      <div class="name">
+        <div class="d-flex justify-content-center align-items-center"> 
+          <div><img src="../../assets/img/logoicon.png" alt="" style="width:80px;" class="me-3"></div>
+          <div>
+            <div  >
+              <div>BRIGHTSIDE GLOBAL</div> 
+              <div class="sub">LEARNING CENTER</div> 
+            </div> 
+          </div> 
+        </div>    
+      </div>
+      <div class="mb-5"></div>
       <div class="mt-2 fw-bold" style="font-size:16px;">Student Registration</div>
     </div>
 

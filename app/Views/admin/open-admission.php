@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard</title>
+  <title>Brightside Admin Open Admission</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Google Fonts -->
@@ -18,6 +18,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link href="assets/img/logoicon.png" rel="icon" />
 
   <!-- Custom Admin CSS -->
   <link rel="stylesheet" href="assets/css/admin.css">
@@ -102,12 +103,9 @@
               <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
                 <li><a class="dropdown-item" href="<?= base_url('adminProfile'); ?>"><i class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile</a></li>
                 <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>

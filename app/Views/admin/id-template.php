@@ -2,12 +2,13 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Student ID</title>
+  <title>Admin Student ID</title>
 
   <!-- Bootstrap & Icons -->
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css" rel="stylesheet">
-  <link rel="stylesheet" href="<?= base_url('assets/css/user.css') ?>">
+  <link rel="stylesheet" href="<?= base_url('assets/css/user.css') ?>"><link href="assets/img/logoicon.png" rel="icon" />
+  <link href="assets/img/logoicon.png" rel="icon" />
   <style>
     /* Custom for print */
     @media print {
@@ -139,12 +140,12 @@
           <div class="id-front-header text-center">
             <h4><img src="../../assets/img/logoicon.png" alt="school logo" class='school-logo'>Brightside Global Learning Center</h4>
           </div>
-          <div class="text-center mb-3">
+          <div class="text-center mb-4">
             <img src="<?= base_url('public/assets/profilepic/' . esc($student->picture ?? 'default.webp')) ?>"
                  alt="Profile Picture"
                  class="profile my-4">
-            <h5 class="fw-semibold fs-5 mb-0"><?= esc($student->full_name) ?></h5>
-            <hr class="p-2 mx-4 my-1 text-primary">
+            <h5 class="fw-semibold fs-6 mb-0 mx-2"><?= esc($student->full_name) ?></h5>
+            <hr class="p-1 mx-4 my-1 text-primary">
             <div class="qr-box mx-auto mb-2">
               <img src="<?= base_url('public/assets/qrstudentId/' . esc($student->qr_code ?? '')) ?>"
                    alt="QR Code">
@@ -172,7 +173,7 @@
             <p class="text-muted small mb-3">Contact</p>
 
             <!-- Address -->
-            <p class="fw-semibold mb-0 address"><?= esc($student->address) ?></p>
+            <p class="fw-semibold px-2 mb-0 address"><?= esc($student->address) ?></p>
             <hr class="p-0 mx-4 my-1 text-primary">
             <p class="text-muted small">Address</p>
           </div>

@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard — Miscellaneous Payment</title>
+  <title>Brightside Tuition Payment</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -13,6 +13,7 @@
 
   <!-- Font Awesome -->
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
+  <link href="../assets/img/logoicon.png" rel="icon" />
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="<?= base_url('dist/css/bootstrap.min.css') ?>">
@@ -201,12 +202,9 @@
                   <hr class="dropdown-divider">
                 </li>
                 <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>

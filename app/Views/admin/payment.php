@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard — Tuition Payment Management</title>
+  <title>Brightside Admin Tuition Payment Management</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Google Fonts -->
@@ -16,7 +16,7 @@
 
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="dist/css/bootstrap.min.css">
-
+  <link href="assets/img/logoicon.png" rel="icon" />
   <!-- DataTables -->
   <link href="https://cdn.datatables.net/1.13.6/css/dataTables.bootstrap5.min.css" rel="stylesheet">
 
@@ -145,14 +145,7 @@
               </a>
               <ul class="dropdown-menu dropdown-menu-end">
                 <li><a class="dropdown-item" href="<?= base_url('adminProfile'); ?>"><i class="fa-solid fa-user me-3 text-primary"></i>Profile</a></li>
-                <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
-                </li>
+                <li><a class="dropdown-item text-danger" href="<?= base_url(); ?>login"><i class="fa-solid fa-right-from-bracket me-2"></i> Logout</a></li>
               </ul>
             </div>
           </div>
@@ -443,7 +436,7 @@
       });
 
       // Add loading indicator
-      $('#generatePaper').prop('disabled', true).text('Generating...');
+      // $('#generatePaper').prop('disabled', true).text('Generating...');
 
       fetch('<?= site_url("admin/print_report") ?>', {
         method: 'POST',

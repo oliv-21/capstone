@@ -79,7 +79,7 @@
           </p>
           <div class="row pt-2 pb-4">
             <div class="col-6 col-md-4">
-              <img class="img-fluid rounded" src="assets/img/about-2.jpg" alt="Happy children learning" />
+              <img class="img-fluid rounded" src="assets/img/blog-3.jpg" alt="Happy children learning" />
             </div>
             <div class="col-6 col-md-8">
               <ul class="list-inline m-0">

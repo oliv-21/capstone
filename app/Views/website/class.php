@@ -69,145 +69,192 @@
         </p>
         <h1 class="mb-4">Classes for Your Kids</h1>
       </div>
-      <div class="row">
 
-        <!-- Nursery Class -->
-        <div class="col-lg-3 mb-5 p-2">
-          <div class="card border-0 bg-light shadow-sm pb-2">
-            <img class="card-img-top mb-2 class-img" src="assets/img/class.jpg" alt="" />
+      <!-- Responsive Row -->
+      <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3 justify-content-center">
+
+        <!-- Toddler Class -->
+        <div class="col mb-5 px-5 py-2">
+          <div class="card border-0 bg-light shadow-sm h-100 pb-2">
+            <img class="card-img-top mb-2 class-img" src="assets/img/classPic6.jpg" alt="">
             <div class="card-body text-center">
               <h4 class="card-title">Toddler Class</h4>
-              <p class="card-text">A gentle introduction to school for toddlers, focusing on play, basic routines, and social development.</p>
+              <p class="card-text">
+                A gentle introduction to school for toddlers, focusing on play, basic routines, and social development.
+              </p>
             </div>
             <div class="card-footer bg-transparent py-4 px-5">
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Age of Kids</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Age of Kids</strong></div>
                 <div class="col-6 py-1">2 - 3 Years</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Total Seats</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Total Seats</strong></div>
                 <div class="col-6 py-1">30 Seats</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Class Time</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Class Time</strong></div>
                 <div class="col-6 py-1">10:00 - 12:00</div>
               </div>
               <div class="row">
-                <div class="col-6 py-1 text-right border-right"><strong>Tution Fee</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Tuition Fee</strong></div>
                 <div class="col-6 py-1">2000 / Month</div>
               </div>
             </div>
             <button class="btn btn-primary px-4 mx-auto mb-2 view-details-btn"
-              data-bs-toggle="modal" data-bs-target="#classDetailsModal"
-              data-title="Nursery Class"
-              data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs 1x1 ID Pictures</li></ul>"
-              data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
-              data-info="Nursery is designed for toddlers to learn through play, songs, and structured routines.">View Details</button>
+                data-bs-toggle="modal" data-bs-target="#classDetailsModal"
+                data-title="Nursery Class"
+                data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs 1x1 ID Pictures</li></ul>"
+                data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
+                data-info="Nursery is designed for toddlers to learn through play, songs, and structured routines.">View Details</button>
+          </div>
+        </div>
+
+        <!-- Nursery -->
+        <div class="col mb-5 px-5 py-2">
+          <div class="card border-0 bg-light shadow-sm h-100 pb-2">
+            <img class="card-img-top mb-2 class-img" src="assets/img/classPic2.jpg" alt="">
+            <div class="card-body text-center">
+              <h4 class="card-title">Nursery</h4>
+              <p class="card-text">
+                Fun, hands-on activities that develop early literacy, motor skills, and confidence.
+              </p>
+            </div>
+            <div class="card-footer bg-transparent py-4 px-5">
+              <div class="row border-bottom">
+                <div class="col-6 py-1 text-end border-end"><strong>Age of Kids</strong></div>
+                <div class="col-6 py-1">3 - 4 Years</div>
+              </div>
+              <div class="row border-bottom">
+                <div class="col-6 py-1 text-end border-end"><strong>Total Seats</strong></div>
+                <div class="col-6 py-1">30 Seats</div>
+              </div>
+              <div class="row border-bottom">
+                <div class="col-6 py-1 text-end border-end"><strong>Class Time</strong></div>
+                <div class="col-6 py-1">08:00 - 10:00</div>
+              </div>
+              <div class="row">
+                <div class="col-6 py-1 text-end border-end"><strong>Tuition Fee</strong></div>
+                <div class="col-6 py-1">2500 / Month</div>
+              </div>
+            </div>
+            <button class="btn btn-primary px-4 mx-auto mb-2 view-details-btn"
+                data-bs-toggle="modal" data-bs-target="#classDetailsModal"
+                data-title="Pre Kindergarten Class"
+                data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs 2x2 ID Pictures</li></ul>"
+                data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
+                data-info="Nursery introduces young learners to basic concepts through play, music, and hands-on activities that support social interaction and motor development.">View Details</button>
           </div>
         </div>
 
         <!-- Pre Kindergarten -->
-        <div class="col-lg-3 mb-5 p-2">
-          <div class="card border-0 bg-light shadow-sm pb-2">
-            <img class="card-img-top mb-2 class-img" src="assets/img/class.jpg" alt="" />
+        <div class="col mb-5 px-5 py-2">
+          <div class="card border-0 bg-light shadow-sm h-100 pb-2">
+            <img class="card-img-top mb-2 class-img" src="assets/img/classPic3.jpg" alt="">
             <div class="card-body text-center">
-              <h4 class="card-title">Pre Kindergarten Class</h4>
-              <p class="card-text">Prepares young learners through fun, hands-on activities that build early literacy, motor skills, and confidence.</p>
+              <h4 class="card-title">Pre Kindergarten</h4>
+              <p class="card-text">
+                Builds early learning skills through structured play and creative activities.
+              </p>
             </div>
             <div class="card-footer bg-transparent py-4 px-5">
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Age of Kids</strong></div>
-                <div class="col-6 py-1">3 - 4 Years</div>
+                <div class="col-6 py-1 text-end border-end"><strong>Age of Kids</strong></div>
+                <div class="col-6 py-1">4 - 5 Years</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Total Seats</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Total Seats</strong></div>
                 <div class="col-6 py-1">30 Seats</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Class Time</strong></div>
-                <div class="col-6 py-1">08:00 - 10:00</div>
+                <div class="col-6 py-1 text-end border-end"><strong>Class Time</strong></div>
+                <div class="col-6 py-1">80:00 - 10:00</div>
               </div>
               <div class="row">
-                <div class="col-6 py-1 text-right border-right"><strong>Tution Fee</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Tuition Fee</strong></div>
                 <div class="col-6 py-1">2500 / Month</div>
               </div>
             </div>
             <button class="btn btn-primary px-4 mx-auto mb-2 view-details-btn"
-              data-bs-toggle="modal" data-bs-target="#classDetailsModal"
-              data-title="Pre Kindergarten Class"
-              data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs 2x2 ID Pictures</li></ul>"
-              data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
-              data-info="Pre-K focuses on fun activities that develop literacy, motor skills, and early problem-solving abilities.">View Details</button>
+                data-bs-toggle="modal" data-bs-target="#classDetailsModal"
+                data-title="Pre Kindergarten Class"
+                data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs 2x2 ID Pictures</li></ul>"
+                data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
+                data-info="Pre-K focuses on fun activities that develop literacy, motor skills, and early problem-solving abilities.">View Details</button>
           </div>
         </div>
 
         <!-- Junior Kindergarten -->
-        <div class="col-lg-3 mb-5 p-2">
-          <div class="card border-0 bg-light shadow-sm pb-2">
-            <img class="card-img-top mb-2 class-img" src="assets/img/class.jpg" alt="" />
+        <div class="col mb-5 px-5 py-2">
+          <div class="card border-0 bg-light shadow-sm h-100 pb-2">
+            <img class="card-img-top mb-2 class-img" src="assets/img/classPic10.jpg" alt="">
             <div class="card-body text-center">
               <h4 class="card-title">Junior Kindergarten</h4>
-              <p class="card-text">Builds basics in reading, math, and communication through play and group activities.</p>
+              <p class="card-text">
+                Builds basics in reading, math, and communication through play and group activities.
+              </p>
             </div>
             <div class="card-footer bg-transparent py-4 px-5">
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Age of Kids</strong></div>
-                <div class="col-6 py-1">4 Years</div>
+                <div class="col-6 py-1 text-end border-end"><strong>Age of Kids</strong></div>
+                <div class="col-6 py-1">5 Years</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Total Seats</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Total Seats</strong></div>
                 <div class="col-6 py-1">30 Seats</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Class Time</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Class Time</strong></div>
                 <div class="col-6 py-1">10:00 - 12:00</div>
               </div>
               <div class="row">
-                <div class="col-6 py-1 text-right border-right"><strong>Tution Fee</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Tuition Fee</strong></div>
                 <div class="col-6 py-1">2500 / Month</div>
               </div>
             </div>
             <button class="btn btn-primary px-4 mx-auto mb-2 view-details-btn"
-              data-bs-toggle="modal" data-bs-target="#classDetailsModal"
-              data-title="Junior Kindergarten"
-              data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs ID Pictures</li></ul>"
-              data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
-              data-info="Junior Kindergarten develops reading, basic math, and communication skills through group and interactive learning.">View Details</button>
+                data-bs-toggle="modal" data-bs-target="#classDetailsModal"
+                data-title="Junior Kindergarten"
+                data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs ID Pictures</li></ul>"
+                data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
+                data-info="Junior Kindergarten develops reading, basic math, and communication skills through group and interactive learning.">View Details</button>
           </div>
         </div>
 
         <!-- Senior Kindergarten -->
-        <div class="col-lg-3 mb-5 p-2">
-          <div class="card border-0 bg-light shadow-sm pb-2">
-            <img class="card-img-top mb-2 class-img" src="assets/img/class.jpg" alt="" />
+        <div class="col mb-5 px-5 py-2">
+          <div class="card border-0 bg-light shadow-sm h-100 pb-2">
+            <img class="card-img-top mb-2 class-img" src="assets/img/classPic1.jpg" alt="">
             <div class="card-body text-center">
               <h4 class="card-title">Senior Kindergarten</h4>
-              <p class="card-text">Strengthens school readiness with more advanced lessons in literacy, problem-solving, and independence.</p>
+              <p class="card-text">
+                Strengthens school readiness with more advanced literacy and problem-solving skills.
+              </p>
             </div>
             <div class="card-footer bg-transparent py-4 px-5">
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Age of Kids</strong></div>
-                <div class="col-6 py-1">5 Years</div>
+                <div class="col-6 py-1 text-end border-end"><strong>Age of Kids</strong></div>
+                <div class="col-6 py-1">6 Years</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Total Seats</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Total Seats</strong></div>
                 <div class="col-6 py-1">30 Seats</div>
               </div>
               <div class="row border-bottom">
-                <div class="col-6 py-1 text-right border-right"><strong>Class Time</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Class Time</strong></div>
                 <div class="col-6 py-1">01:00 - 03:30</div>
               </div>
               <div class="row">
-                <div class="col-6 py-1 text-right border-right"><strong>Tution Fee</strong></div>
+                <div class="col-6 py-1 text-end border-end"><strong>Tuition Fee</strong></div>
                 <div class="col-6 py-1">2500 / Month</div>
               </div>
             </div>
             <button class="btn btn-primary px-4 mx-auto mb-2 view-details-btn"
-              data-bs-toggle="modal" data-bs-target="#classDetailsModal"
-              data-title="Senior Kindergarten"
-              data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs ID Pictures</li></ul>"
-              data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
-              data-info="Senior Kindergarten builds independence and readiness for Grade 1, focusing on literacy, numeracy, and critical thinking.">View Details</button>
+                data-bs-toggle="modal" data-bs-target="#classDetailsModal"
+                data-title="Senior Kindergarten"
+                data-reqs="<ul><li>Birth Certificate (Photocopy)</li><li>2 pcs ID Pictures</li></ul>"
+                data-apply="Pre-register online through the school portal. After submission, wait for an email confirming whether your pre-registration is approved or not. The email will include the list of enrollment requirements and your scheduled date to visit the school for enrollment."
+                data-info="Senior Kindergarten builds independence and readiness for Grade 1, focusing on literacy, numeracy, and critical thinking.">View Details</button>
           </div>
         </div>
 

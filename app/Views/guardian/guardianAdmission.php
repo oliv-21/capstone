@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Guardian Dashboard</title>
+  <title>Brightside Admission</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Google Fonts -->
@@ -16,6 +16,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link href="assets/img/logoicon.png" rel="icon" />
 
   <!-- Custom Admin CSS -->
   <link rel="stylesheet" href="<?= base_url('assets/css/user.css') ?>">
@@ -172,12 +173,9 @@
                   <hr class="dropdown-divider">
                 </li>
                 <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>
@@ -279,7 +277,7 @@
                   <div class="row g-3 mt-2">
                     <div class="col-md-6">
                       <label for="picture1" class="form-label">2×2 Picture <span class="text-danger">*</span> </label>
-                      <input type="file" class="form-control" id="picture1" name="picture" accept="image/*"  >
+                      <input type="file" class="form-control" id="picture1" name="picture" accept="image/*" required >
                     </div>
 
                     <div class="col-md-6">
@@ -312,7 +310,7 @@
                     <div class="col-md-6">
                       <label for="mothername" class="form-label">Mother's Name</label>
                       <input type="text" class="form-control" id="mothername" name="mother_name"
-                            oninput="capitalizeFirstLetter(this)" required>
+                            oninput="capitalizeFirstLetter(this)" >
                     </div>
                     <div class="col-md-6">
                       <label for="motheroccupation" class="form-label">Mother's Occupation</label>

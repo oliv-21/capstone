@@ -3,7 +3,7 @@
 
 <head>
   <meta charset="utf-8" />
-  <title>Brightside Admin Dashboard</title>
+  <title>Brightside Forget Password</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <!-- Google Fonts -->
@@ -16,6 +16,8 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link href="assets/img/logoicon.png" rel="icon" />
+
 
   <!-- SweetAlert2 -->
   <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -49,8 +51,8 @@
         <a href="<?= base_url(); ?>teacher-annoucement" class="nav-link d-flex align-items-center">
           <i class="fa-solid fa-bell me-4 fa-lg fa-fw text-secondary"></i> Announcements
         </a>
-        <a href="<?= base_url(); ?>teacher-dashboard" class="nav-link d-flex align-items-center">
-          <i class="fas fa-layer-group me-4 fa-lg fa-fw text-secondary"></i> Subjects
+        <a href="<?= base_url(); ?>teacher-interactive-learning" class="nav-link d-flex align-items-center">
+          <i class="fas fa-layer-group me-4 fa-lg fa-fw text-secondary"></i> Interactive Learning
         </a>
       </div>
     </nav>
@@ -102,13 +104,9 @@
               <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
                 <li><a class="dropdown-item" href="<?= base_url('teacherProfile-info'); ?>"><i class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile Info</a></li>
                 <li><a class="dropdown-item" href="<?= base_url('teacherProfile'); ?>"><i class='fa-solid fa-lock me-3 mb-3 text-primary mt-2'></i>forget Password</a></li>
-                <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
+                <li>  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>

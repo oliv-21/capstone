@@ -16,6 +16,7 @@
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" rel="stylesheet" />
   <!-- Bootstrap CSS -->
   <link rel="stylesheet" href="dist/css/bootstrap.min.css">
+  <link href="assets/img/logoicon.png" rel="icon" />
 
   <!-- Custom Admin CSS -->
   <link rel="stylesheet" href="assets/css/admin.css">
@@ -160,13 +161,9 @@
               <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="profileDropdown">
                 <li><a class="dropdown-item" href="<?= base_url('adminProfile'); ?>"><i class='fa-solid fa-user me-3 mb-3 text-primary mt-2'></i>Profile</a></li>
                 <li>
-                  <form action="<?= base_url('logout') ?>" method="post" class="d-inline">
-                      <?= csrf_field() ?>
-                      <button type="submit" class="dropdown-item text-danger">
-                          <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
-                      </button>
-                  </form>
-
+                  <a class="dropdown-item text-danger" href="<?= base_url(); ?>login">
+                    <i class="fa-solid fa-right-from-bracket me-2"></i> Logout
+                  </a>
                 </li>
               </ul>
             </div>
@@ -238,7 +235,7 @@
         </div>
         
         <div class="card border-0 shadow-sm rounded-4">
-          <ul class="list-group list-group-flush" style="max-height: 270px; overflow-y: auto;">
+          <ul class="list-group list-group-flush" style="max-height: 300px; overflow-y: auto;">
             <?php if (!empty($recent_activities)): ?>
               <?php foreach ($recent_activities as $activity): ?>
                 <li class="list-group-item bg-light py-3 small"><?= esc($activity->activity_text) ?></li>
