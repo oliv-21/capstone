@@ -94,17 +94,4 @@ class AdminStaffModel extends Model
 }
 
 
-    // public function profileandfullname()
-    // {
-    //     return $this->asArray()
-    //                 ->select("
-    //                     user_id AS id,
-    //                     profilepic AS profile_pic,
-    //                     CONCAT(
-    //                         UPPER(LEFT(lastname, 1)), LOWER(SUBSTRING(lastname, 2)),
-    //                         ' ',
-    //                         UPPER(LEFT(firstname, 1)), LOWER(SUBSTRING(firstname, 2))
-    //                     ) AS full_name
-    //                 ")
-    //                 ->first();
-    // }
+ 

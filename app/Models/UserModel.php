@@ -25,18 +25,6 @@ class UserModel extends Model
         return $this->find($id);
     }
 
-    // Optional: Hash passwords before saving to database (if you plan to insert directly)
-    // protected $beforeInsert = ['hashPassword'];
-
-    // protected function hashPassword(array $data)
-    // {
-    //     if (isset($data['data']['password'])) {
-    //         $data['data']['password'] = password_hash($data['data']['password'], PASSWORD_DEFAULT);
-    //     }
-
-    //     return $data;
-    // }
-
     public function email()
     {
         $userid = session()->get('user_id'); 

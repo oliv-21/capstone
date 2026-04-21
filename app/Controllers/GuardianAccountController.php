@@ -153,12 +153,7 @@ class GuardianAccountController extends BaseController
             $street            = trim(strip_tags($this->request->getPost('street')));
 
            
-            // $pictureFile = $this->request->getFile('picture');
-            // $picture = null;
-            // if ($pictureFile && $pictureFile->isValid() && !$pictureFile->hasMoved()) {
-            //     $picture = $pictureFile->getRandomName();
-            //     $pictureFile->move('public/assets/profilepic', $picture);
-            // }
+           
             
             $picture = '1752420767_9459efda9027940a87c4.webp';
 

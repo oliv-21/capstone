@@ -354,13 +354,7 @@ class AdminController extends BaseController
             'reason' => $reason
         ]);
 
-        // if (!$updated) {
-        //     log_message('error', "Failed to update admission ID {$admission_id} status to {$status}");
-        //     return $this->response->setJSON([
-        //         'success' => false,
-        //         'message' => 'Failed to update status.'
-        //     ]);
-        // }
+       
 
         // ✅ Write log for successful status update
         log_message('info', "Admission ID {$admission_id} status updated to '{$status}' by admin. Reason: " . ($reason ?: 'None'));

@@ -347,38 +347,6 @@ class StudentModel extends Model
         return $builder->get()->getResult();
     }
 
-
-
-    // public function profileandfullname(string $userId)
-    // {
-    //     // Try to get from students
-    //     $student = $this->db->table('students s')
-    //         ->select("
-    //             s.user_id AS id,
-    //             CONCAT_WS(' ', s.last_name, s.first_name) AS full_name,
-    //             s.profile_pic
-    //         ")
-    //         ->where('s.user_id', $userId)
-    //         ->get()
-    //         ->getRowArray();
-
-    //     if ($student) {
-    //         return $student;
-    //     }
-
-    //     // If not found, try to get from adminandstaff
-    //     $admin = $this->db->table('adminandstaff a')
-    //         ->select("
-    //             a.user_id AS id,
-    //             CONCAT_WS(' ', a.firstname) AS full_name,
-    //             a.profilepic AS profile_pic
-    //         ")
-    //         ->where('a.user_id', $userId)
-    //         ->get()
-    //         ->getRowArray();
-
-    //     return $admin ?: null;
-    // }
     public function profileandfullname(string $userId)
     {
         // ✅ Try to get from students
@@ -477,81 +445,7 @@ class StudentModel extends Model
     }
     public function processCashPayment($admissionId, $amountPaid, $paymentType, $paymentDate,$openingId)
     {
-        // $db = \Config\Database::connect();
-        // $admissionModel   = new Admission_Model();
-      
-        // $paymentModel     = new PaymentModel();
-        // $notificationModel= new NotificationModel();
-        
-
-        // $db->transStart();
-
-        // $student = $admissionModel->getStudent($admissionId);
-        // if (!$student) return ['success' => false, 'message' => 'Student admission not found.'];
-
-        // $plan = $TuitionPlanModel->getPlanById(2);
-        // if (!$plan) return ['success' => false, 'message' => 'Tuition plan not found.'];
-
-        // $remainingBalance = max(0, $plan['total_amount'] - $amountPaid);
-        // $status = $remainingBalance <= 0 ? 'Paid' : 'Pending';
-
-        // // ✅ Generate QR Code
-        // $studentId = uniqid();
-        // $qrText = "Guardian ID: $studentId";
-        // $result = Builder::create()
-        //     ->writer(new PngWriter())
-        //     ->data($qrText)
-        //     ->encoding(new Encoding('UTF-8'))
-        //     ->errorCorrectionLevel(ErrorCorrectionLevel::Low)
-        //     ->size(300)
-        //     ->margin(10)
-        //     ->build();
-
-        // $qrCodeDir = ROOTPATH . 'public/assets/qrstudentId/';
-        // if (!is_dir($qrCodeDir)) mkdir($qrCodeDir, 0755, true);
-        // $result->saveToFile($qrCodeDir . $studentId . '.png');
-
-        // $admissionModel->update($admissionId, ['status' => 'Enrolled']);
-
-        // // Insert student
-        //   $this->insert([
-        //     'user_id'      => $admissionId,
-        //     'student_id'   => $admissionId,
-        //     'admission_id' => $admissionId,
-        //     'first_name'   => $student->first_name,
-        //     'middle_name'  => $student->middle_name,
-        //     'last_name'    => $student->last_name,
-        //     'birthday'     => $student->birthday,
-        //     'class_level'  => $student->class_applied,
-        //     'profile_pic'  => $student->picture ?? 'default.webp',
-        //     'qr_code'      => $studentId . '.png',
-        // ]);
-
-       
-        // // Insert payment
-        // $paymentModel->insert([
-        //     'user_id'           => $admissionId,
-        //     'plan_id'           => 2,
-        //     'amount_paid'       => number_format((float)$amountPaid, 2, '.', ''),
-        //     'remaining_balance' => number_format((float)$remainingBalance, 2, '.', ''),
-        //     'payment_method'    => $paymentType,
-        //     'payment_date'      => $paymentDate,
-        //     'status'            => $status,
-        // ]);
-
-        // // Notification
-        // $notificationModel->insert([
-        //     'user_id' => $admissionId,
-        //     'title'   => 'Payment Received',
-        //     'message' => 'Your school payment has been successfully recorded.',
-        //     'type'    => 'payment',
-        //     'is_read' => 0
-        // ]);
-
-        // $db->transComplete();
-
-       
-        // return ['success' => true, 'message' => 'Student enrolled and payment recorded successfully.'];
+    
         $admissionModel   = new Admission_Model();
         $TuitionPlanModel = new TuitionPlanModel();
         $paymentModel     = new PaymentModel();

@@ -73,38 +73,6 @@ class MessageController extends BaseController
     }
 
 
-
-    // public function indexAdmin($receiverId = null)
-    // {
-    //     helper('time'); // assuming your file is named TimeHelper.php
-
-    //     $session = session();
-    //     $currentUserId = $session->get('user_id');
-    //     $role = $session->get('role');
-
-    //     $messageModel = new MessageModel();
-    //     $userModel = new UserModel();
-    //     $StudentModel = new StudentModel();
-    //      $profilepicModel = new \App\Models\AdminStaffModel();
-        
-        
-
-    //     $contacts = $messageModel->getContacts($currentUserId,$role);
-    //     log_message('info', 'Retrieved contacts for user_id ' . var_export($currentUserId, true) . ' | Contacts: ' . print_r($contacts, true));
-
-
-    //     $messages = $receiverId ? $messageModel->getMessages($currentUserId, $receiverId) : [];
-
-    //     $receiver = $receiverId ? $StudentModel->profileandfullname($receiverId) : null;
-    //     $profilepic = $profilepicModel ->profilepic();
-        
-    //     return view('admin/chat', [
-    //         'contacts' => $contacts,
-    //         'messages' => $messages,
-    //         'receiver' => $receiver,
-    //         'profilepic' => $profilepic,
-    //     ]);
-    // }
     public function indexAdmin($receiverId = null)
     {
         helper('time');
